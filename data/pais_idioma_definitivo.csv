@@ -1,0 +1,6336 @@
+,t_id,pais,idioma
+0,8476,United States,English
+1,10294,Bangladesh,English
+2,3608,Tanzania,English
+3,10142,Thailand,English
+4,875,Kenya,English
+5,6903,Germany,English
+6,7341,Bangladesh,English
+7,95,China,English
+8,4869,Mexico,English
+9,2909,Bangladesh,English
+10,1357,Philippines,English
+11,988,Russia,English
+12,7041,Indonesia,English
+13,7623,Vietnam,English
+14,1571,Egypt,English
+15,4739,India,English
+16,7737,Myanmar,English
+17,8716,United States,English
+18,3304,Philippines,English
+19,3078,Philippines,English
+20,2517,Tanzania,English
+21,10348,Mexico,English
+22,778,Sudan,English
+23,3300,Spain,English
+24,6155,United States,English
+25,636,Mexico,English
+26,755,Italy,English
+27,626,Japan,English
+28,691,Tanzania,English
+29,5743,Ethiopia,English
+30,1787,Iran,English
+31,7808,Pakistan,English
+32,6484,Kenya,English
+33,7385,France,English
+34,9016,Spain,English
+35,9324,United States,English
+36,8983,Philippines,English
+37,8965,Spain,English
+38,5580,Italy,English
+39,9757,Algeria,English
+40,1967,Uganda,English
+41,431,Ukraine,English
+42,5955,Algeria,English
+43,7455,Tanzania,English
+44,5224,Pakistan,English
+45,7793,Turkey,English
+46,2777,Brazil,English
+47,587,Russia,English
+48,9403,Russia,English
+49,5931,Russia,English
+50,3027,Turkey,English
+51,4377,India,English
+52,5937,South Africa,English
+53,7277,Ethiopia,English
+54,5521,Russia,English
+55,3627,South Africa,English
+56,9360,Colombia,English
+57,909,Vietnam,English
+58,6646,Russia,English
+59,1522,Sudan,English
+60,7540,Russia,English
+61,1834,Thailand,English
+62,1775,Vietnam,English
+63,8212,Colombia,English
+64,3363,Sudan,English
+65,1084,Ukraine,English
+66,4410,Germany,English
+67,2669,France,English
+68,3648,Sudan,English
+69,6197,Indonesia,English
+70,596,Russia,English
+71,6061,Thailand,English
+72,1569,United Kingdom,English
+73,1178,United States,English
+74,9545,Myanmar,English
+75,1506,Vietnam,English
+76,1641,France,English
+77,139,Philippines,English
+78,7744,Argentina,English
+79,8177,Turkey,English
+80,4134,Ukraine,English
+81,917,Indonesia,English
+82,3854,Uganda,English
+83,7049,Thailand,English
+84,3343,Iran,English
+85,4348,Myanmar,English
+86,3424,Brazil,English
+87,1718,Kenya,English
+88,143,DR Congo,English
+89,930,Egypt,English
+90,1661,Brazil,English
+91,7801,Germany,English
+92,10232,Uganda,English
+93,1360,Mexico,English
+94,3635,Kenya,English
+95,8290,Iran,English
+96,6227,Nigeria,English
+97,3255,Uganda,English
+98,3177,Algeria,English
+99,2832,Iran,English
+100,4294,Uganda,English
+101,5316,Indonesia,English
+102,1524,United States,English
+103,2974,Kenya,English
+104,3364,Argentina,English
+105,4933,Turkey,English
+106,5530,Philippines,English
+107,7680,Algeria,English
+108,10490,Egypt,English
+109,9413,Russia,English
+110,4880,Pakistan,English
+111,3512,United States,English
+112,8685,South Korea,English
+113,6763,France,English
+114,7730,Pakistan,English
+115,2546,Argentina,English
+116,2596,Algeria,English
+117,7362,Bangladesh,English
+118,7513,United States,English
+119,1475,Ethiopia,English
+120,2232,Japan,English
+121,6247,Turkey,English
+122,127,Germany,English
+123,6025,France,English
+124,10122,China,English
+125,4979,Kenya,English
+126,1700,France,English
+127,9398,Indonesia,English
+128,10427,Brazil,English
+129,7099,Argentina,English
+130,4500,Tanzania,English
+131,8013,United Kingdom,English
+132,2199,China,English
+133,4943,Indonesia,English
+134,10092,Germany,English
+135,9121,Philippines,English
+136,8122,India,English
+137,8988,South Korea,English
+138,2115,Thailand,English
+139,8682,Vietnam,English
+140,6350,Vietnam,English
+141,4597,Nigeria,English
+142,7818,Russia,English
+143,677,Turkey,English
+144,6408,Pakistan,English
+145,3004,Vietnam,English
+146,8357,Vietnam,English
+147,10511,Indonesia,English
+148,8322,Iran,English
+149,6212,South Korea,English
+150,172,Philippines,English
+151,6920,Algeria,English
+152,9468,Russia,English
+153,6460,Argentina,English
+154,5202,South Korea,English
+155,6809,Russia,English
+156,2802,Brazil,English
+157,1329,Uganda,English
+158,4114,United Kingdom,English
+159,6527,Tanzania,English
+160,4354,Iran,English
+161,3138,South Korea,English
+162,9447,Colombia,English
+163,7256,Iran,English
+164,421,Nigeria,English
+165,7228,Philippines,English
+166,2850,Bangladesh,English
+167,7628,Myanmar,English
+168,8918,Pakistan,English
+169,51,Argentina,English
+170,7711,Sudan,English
+171,9295,Philippines,English
+172,7474,Turkey,English
+173,186,France,English
+174,7661,Spain,English
+175,7443,Italy,English
+176,3700,Spain,English
+177,8210,Germany,English
+178,5040,Myanmar,English
+179,9756,Mexico,English
+180,2305,Colombia,English
+181,2228,Uganda,English
+182,3008,India,English
+183,6851,Turkey,English
+184,3872,Germany,English
+185,1884,Turkey,English
+186,4239,Japan,English
+187,3282,Japan,English
+188,9239,Egypt,English
+189,4532,Iran,English
+190,4130,Kenya,English
+191,6815,Kenya,English
+192,599,Brazil,English
+193,4577,Thailand,English
+194,7154,Vietnam,English
+195,7757,India,English
+196,1934,South Korea,English
+197,9557,Tanzania,English
+198,5297,United States,English
+199,5075,DR Congo,English
+200,2076,Italy,English
+201,8142,India,English
+202,4714,United States,English
+203,6176,Russia,English
+204,9402,China,English
+205,6948,Egypt,English
+206,4911,Nigeria,English
+207,9991,Kenya,English
+208,10555,DR Congo,English
+209,8549,Kenya,English
+210,2834,Bangladesh,English
+211,6035,Ukraine,English
+212,2281,United States,English
+213,9134,Ukraine,English
+214,6407,Sudan,English
+215,1938,Nigeria,English
+216,1255,Kenya,English
+217,4618,South Africa,English
+218,3602,France,English
+219,6841,Philippines,English
+220,8756,Nigeria,English
+221,5918,India,English
+222,384,Iran,English
+223,4492,South Africa,English
+224,2432,Thailand,English
+225,5307,Sudan,English
+226,8484,Italy,English
+227,9948,United States,English
+228,2916,Myanmar,English
+229,6058,South Africa,English
+230,4713,United Kingdom,English
+231,8767,Nigeria,English
+232,4217,Ethiopia,English
+233,1770,Japan,English
+234,9394,Thailand,English
+235,8428,Italy,English
+236,3427,United Kingdom,English
+237,658,South Korea,English
+238,10357,Spain,English
+239,4865,Nigeria,English
+240,4031,Germany,English
+241,10257,Sudan,English
+242,2586,Argentina,English
+243,4045,DR Congo,English
+244,4632,Iran,English
+245,71,Spain,English
+246,7577,South Africa,English
+247,1108,Spain,English
+248,9485,Russia,English
+249,4701,Vietnam,English
+250,4929,United Kingdom,English
+251,6698,Iran,English
+252,667,United States,English
+253,8516,Turkey,English
+254,3382,Philippines,English
+255,10048,Thailand,English
+256,5199,United Kingdom,English
+257,1809,Myanmar,English
+258,5724,India,English
+259,2812,Ethiopia,English
+260,4666,Bangladesh,English
+261,7892,Tanzania,English
+262,9935,Philippines,English
+263,6810,Sudan,English
+264,5847,China,English
+265,7815,Myanmar,English
+266,10183,Spain,English
+267,6768,South Korea,English
+268,10203,Italy,English
+269,4808,Philippines,English
+270,9953,Colombia,English
+271,9625,DR Congo,English
+272,4411,Germany,English
+273,1754,Germany,English
+274,6872,DR Congo,English
+275,854,India,English
+276,3137,Spain,English
+277,8643,Indonesia,English
+278,2010,India,English
+279,9265,Indonesia,English
+280,1109,Myanmar,English
+281,3592,Italy,English
+282,5468,Bangladesh,English
+283,9044,Philippines,English
+284,6203,Egypt,English
+285,6316,Turkey,English
+286,3147,Turkey,English
+287,4318,Indonesia,English
+288,1905,Algeria,English
+289,4051,South Africa,English
+290,3852,Ethiopia,English
+291,6850,Japan,English
+292,205,DR Congo,English
+293,6327,Turkey,English
+294,6442,Germany,English
+295,3326,South Africa,English
+296,2968,Nigeria,English
+297,3107,DR Congo,English
+298,1284,United Kingdom,English
+299,2989,Italy,English
+300,6801,Turkey,English
+301,3866,Myanmar,English
+302,9196,Ethiopia,English
+303,4796,Vietnam,English
+304,9676,Sudan,English
+305,961,Brazil,English
+306,273,Kenya,English
+307,3398,Ukraine,English
+308,10194,Russia,English
+309,263,Argentina,English
+310,1242,Pakistan,English
+311,2840,United Kingdom,English
+312,8772,India,English
+313,6862,DR Congo,English
+314,6871,Egypt,English
+315,7391,South Africa,English
+316,1570,Japan,English
+317,2463,Philippines,English
+318,4469,DR Congo,English
+319,2507,Tanzania,English
+320,9283,United States,English
+321,8646,Kenya,English
+322,6784,France,English
+323,1610,Italy,English
+324,9508,Myanmar,English
+325,4107,South Korea,English
+326,3474,Ukraine,English
+327,8197,United States,English
+328,1181,Japan,English
+329,624,Vietnam,English
+330,5575,Colombia,English
+331,2042,Russia,English
+332,8114,Iran,English
+333,10246,Uganda,English
+334,9029,China,English
+335,1680,Tanzania,English
+336,2874,Ethiopia,English
+337,6448,Italy,English
+338,8294,Tanzania,English
+339,5244,Ukraine,English
+340,7338,China,English
+341,5926,South Korea,English
+342,5914,Italy,English
+343,3888,Brazil,English
+344,763,Germany,English
+345,739,Vietnam,English
+346,9961,South Korea,English
+347,1338,South Korea,English
+348,5258,Mexico,English
+349,4053,Egypt,English
+350,2678,Italy,English
+351,3495,Argentina,English
+352,4930,Russia,English
+353,4904,Brazil,English
+354,6391,India,English
+355,3146,China,English
+356,4489,Philippines,English
+357,9521,Spain,English
+358,4454,South Africa,English
+359,4708,Philippines,English
+360,9340,Philippines,English
+361,8145,Japan,English
+362,1461,Tanzania,English
+363,440,DR Congo,English
+364,7844,Kenya,English
+365,3851,Myanmar,English
+366,334,Mexico,English
+367,7928,Bangladesh,English
+368,9168,Thailand,English
+369,6455,South Africa,English
+370,3767,Argentina,English
+371,6135,India,English
+372,5215,Kenya,English
+373,5207,Egypt,English
+374,10021,Bangladesh,English
+375,5035,India,English
+376,3103,Argentina,English
+377,6775,France,English
+378,8263,India,English
+379,1376,United States,English
+380,6494,Kenya,English
+381,1510,Uganda,English
+382,356,Spain,English
+383,8521,Sudan,English
+384,5722,Kenya,English
+385,2683,Spain,English
+386,8340,Myanmar,English
+387,4020,Myanmar,English
+388,7006,Bangladesh,English
+389,3226,Turkey,English
+390,6287,Indonesia,English
+391,7119,Japan,English
+392,3375,Spain,English
+393,3106,Myanmar,English
+394,6804,Myanmar,English
+395,5352,Russia,English
+396,2339,Algeria,English
+397,7771,United Kingdom,English
+398,2422,Ethiopia,English
+399,1597,Russia,English
+400,4261,South Korea,English
+401,2640,Spain,English
+402,10454,South Korea,English
+403,4477,DR Congo,English
+404,5184,Uganda,English
+405,4648,Myanmar,English
+406,3144,China,English
+407,1784,Russia,English
+408,9814,Myanmar,English
+409,800,Ukraine,English
+410,1518,Tanzania,English
+411,6429,Egypt,English
+412,3938,Kenya,English
+413,3638,Kenya,English
+414,6918,Nigeria,English
+415,9825,Japan,English
+416,7713,Myanmar,English
+417,1829,India,English
+418,6995,Spain,English
+419,2845,Egypt,English
+420,317,Brazil,English
+421,3302,Ukraine,English
+422,9645,Bangladesh,English
+423,9251,Egypt,English
+424,8146,Thailand,English
+425,9722,United Kingdom,English
+426,162,France,English
+427,151,Argentina,English
+428,6170,United Kingdom,English
+429,2714,Philippines,English
+430,3327,Ethiopia,English
+431,4147,Turkey,English
+432,751,DR Congo,English
+433,3993,France,English
+434,3664,Mexico,English
+435,5438,Spain,English
+436,6329,Ukraine,English
+437,4455,Germany,English
+438,9769,Iran,English
+439,235,Bangladesh,English
+440,4359,South Africa,English
+441,2462,Ukraine,English
+442,7877,Colombia,English
+443,5305,Algeria,English
+444,8824,Thailand,English
+445,9453,India,English
+446,4289,Egypt,English
+447,5434,Argentina,English
+448,6665,India,English
+449,743,South Korea,English
+450,9554,Japan,English
+451,8925,Algeria,English
+452,5061,DR Congo,English
+453,7953,Algeria,English
+454,1146,Ukraine,English
+455,6588,Uganda,English
+456,9586,Kenya,English
+457,6299,Germany,English
+458,10314,Egypt,English
+459,9648,Kenya,English
+460,9437,Myanmar,English
+461,9444,Indonesia,English
+462,1027,Philippines,English
+463,9560,Tanzania,English
+464,5237,Turkey,English
+465,8133,Myanmar,English
+466,4122,Indonesia,English
+467,266,Pakistan,English
+468,10548,United Kingdom,English
+469,2551,Colombia,English
+470,10363,China,English
+471,5060,Italy,English
+472,5183,Myanmar,English
+473,2822,Ukraine,English
+474,4305,DR Congo,English
+475,1786,Kenya,English
+476,5685,Colombia,English
+477,2057,India,English
+478,6128,DR Congo,English
+479,7303,South Korea,English
+480,4601,France,English
+481,8367,Tanzania,English
+482,1996,Egypt,English
+483,4267,Ukraine,English
+484,3077,Ethiopia,English
+485,2376,Turkey,English
+486,9553,United States,English
+487,2570,Algeria,English
+488,4375,Argentina,English
+489,6917,Iran,English
+490,781,Egypt,English
+491,7811,Sudan,English
+492,7529,Russia,English
+493,8353,Brazil,English
+494,10250,Indonesia,English
+495,2619,United States,English
+496,8696,Tanzania,English
+497,9749,Colombia,English
+498,693,Argentina,English
+499,4621,China,English
+500,7253,Tanzania,English
+501,5869,Russia,English
+502,1118,Philippines,English
+503,6369,Tanzania,English
+504,7701,United Kingdom,English
+505,5223,United States,English
+506,6113,Pakistan,English
+507,9696,Uganda,English
+508,10124,Spain,English
+509,9390,Spain,English
+510,217,Sudan,English
+511,2634,Vietnam,English
+512,3134,Vietnam,English
+513,8552,Spain,English
+514,1590,Nigeria,English
+515,704,Algeria,English
+516,7863,Sudan,English
+517,3982,Nigeria,English
+518,8614,Ukraine,English
+519,3140,Mexico,English
+520,1423,Mexico,English
+521,10518,Kenya,English
+522,3828,Indonesia,English
+523,9231,Myanmar,English
+524,8088,Germany,English
+525,1722,France,English
+526,9307,Japan,English
+527,1479,Japan,English
+528,992,Egypt,English
+529,8483,Germany,English
+530,1343,China,English
+531,10531,Uganda,English
+532,5330,United Kingdom,English
+533,187,Ethiopia,English
+534,5209,Brazil,English
+535,6975,DR Congo,English
+536,9618,Algeria,English
+537,4883,France,English
+538,4750,Algeria,English
+539,7589,Algeria,English
+540,9640,Turkey,English
+541,8059,Egypt,English
+542,8692,South Africa,English
+543,5020,Indonesia,English
+544,1171,DR Congo,English
+545,9614,Italy,English
+546,7147,France,English
+547,764,China,English
+548,10396,China,English
+549,1819,Spain,English
+550,569,Argentina,English
+551,4770,Philippines,English
+552,10442,Tanzania,English
+553,1920,Uganda,English
+554,4431,Philippines,English
+555,1675,Indonesia,English
+556,5057,Myanmar,English
+557,9738,Pakistan,English
+558,7410,Argentina,English
+559,5551,Bangladesh,English
+560,8648,Egypt,English
+561,9968,Ethiopia,English
+562,6818,Germany,English
+563,188,Russia,English
+564,5028,Nigeria,English
+565,3,Bangladesh,English
+566,7103,Algeria,English
+567,4561,Brazil,English
+568,7938,Turkey,English
+569,4145,Mexico,English
+570,479,Colombia,English
+571,6132,Argentina,English
+572,6865,France,English
+573,2532,Nigeria,English
+574,7986,Colombia,English
+575,6622,Nigeria,English
+576,4246,Pakistan,English
+577,9785,DR Congo,English
+578,708,South Africa,English
+579,5485,Pakistan,English
+580,9748,France,English
+581,4563,Algeria,English
+582,6351,Kenya,English
+583,944,Italy,English
+584,9652,Japan,English
+585,821,Spain,English
+586,6893,Ukraine,English
+587,7831,Myanmar,English
+588,5114,South Africa,English
+589,4630,Myanmar,English
+590,3887,Vietnam,English
+591,9253,Myanmar,English
+592,8577,Pakistan,English
+593,10130,Iran,English
+594,500,Indonesia,English
+595,10391,DR Congo,English
+596,2497,Japan,English
+597,9742,Mexico,English
+598,7946,Uganda,English
+599,6939,United Kingdom,English
+600,7317,France,English
+601,2837,Myanmar,English
+602,6814,Germany,English
+603,5871,Sudan,English
+604,3870,Pakistan,English
+605,868,Brazil,English
+606,1115,Tanzania,English
+607,6863,Italy,English
+608,449,Philippines,English
+609,2768,Myanmar,English
+610,10300,United Kingdom,English
+611,9765,United Kingdom,English
+612,9569,Brazil,English
+613,3855,Vietnam,English
+614,6220,India,English
+615,5849,Iran,English
+616,1318,Colombia,English
+617,972,South Africa,English
+618,109,United Kingdom,English
+619,2691,Mexico,English
+620,5772,Kenya,English
+621,4397,Mexico,English
+622,8902,Tanzania,English
+623,2052,Brazil,English
+624,5760,Brazil,English
+625,7169,Turkey,English
+626,7966,Italy,English
+627,605,Egypt,English
+628,6895,Argentina,English
+629,819,Sudan,English
+630,9302,United States,English
+631,9565,Iran,English
+632,1883,Nigeria,English
+633,3682,Philippines,English
+634,5826,Nigeria,English
+635,5190,Algeria,English
+636,2139,South Korea,English
+637,6437,Iran,English
+638,7588,Bangladesh,English
+639,9443,United States,English
+640,2646,Russia,English
+641,1604,China,English
+642,1424,India,English
+643,6745,Vietnam,English
+644,7314,Iran,English
+645,10056,South Korea,English
+646,4484,Thailand,English
+647,9835,Tanzania,English
+648,6787,Germany,English
+649,1297,India,English
+650,5821,Thailand,English
+651,6752,Tanzania,English
+652,8524,South Korea,English
+653,2732,United Kingdom,English
+654,4088,United Kingdom,English
+655,578,Egypt,English
+656,1723,Turkey,English
+657,7047,China,English
+658,10133,Algeria,English
+659,3256,Nigeria,English
+660,2786,Mexico,English
+661,9930,India,English
+662,4514,Pakistan,English
+663,1612,United States,English
+664,1951,Ethiopia,English
+665,9189,India,English
+666,5105,Indonesia,English
+667,5401,Russia,English
+668,2987,Ukraine,English
+669,1653,Spain,English
+670,10061,Philippines,English
+671,6323,Mexico,English
+672,6742,Ethiopia,English
+673,5891,Argentina,English
+674,462,South Africa,English
+675,2102,Colombia,English
+676,6074,Spain,English
+677,1530,Russia,English
+678,2588,United States,English
+679,6982,Indonesia,English
+680,7498,Italy,English
+681,10060,China,English
+682,9093,South Africa,English
+683,4797,France,English
+684,5134,United States,English
+685,1535,South Africa,English
+686,5128,Japan,English
+687,4126,Bangladesh,English
+688,9102,Ethiopia,English
+689,7132,Italy,English
+690,1222,Algeria,English
+691,2005,South Africa,English
+692,9514,India,English
+693,7940,Myanmar,English
+694,3081,Thailand,English
+695,324,Indonesia,English
+696,5482,Germany,English
+697,10241,United Kingdom,English
+698,9364,Argentina,English
+699,7276,South Africa,English
+700,17,South Africa,English
+701,7789,Japan,English
+702,8906,Kenya,English
+703,10522,India,English
+704,1005,Pakistan,English
+705,9397,Germany,English
+706,4050,Vietnam,English
+707,419,Ukraine,English
+708,3897,France,English
+709,3761,Philippines,English
+710,8332,Uganda,English
+711,4197,Thailand,English
+712,193,China,English
+713,8974,DR Congo,English
+714,9008,Ethiopia,English
+715,1014,Iran,English
+716,126,Tanzania,English
+717,1857,Mexico,English
+718,1059,South Korea,English
+719,7236,Spain,English
+720,10001,Egypt,English
+721,3456,Ukraine,English
+722,9613,United Kingdom,English
+723,6972,Thailand,English
+724,5728,Kenya,English
+725,7166,Kenya,English
+726,9965,Germany,English
+727,7264,Thailand,English
+728,2211,Ukraine,English
+729,8421,Iran,English
+730,5177,Myanmar,English
+731,5185,Tanzania,English
+732,7433,Ukraine,English
+733,5682,Brazil,English
+734,5082,Vietnam,English
+735,8594,United Kingdom,English
+736,2086,Thailand,English
+737,4844,South Korea,English
+738,10152,Brazil,English
+739,4494,Italy,English
+740,7913,Italy,English
+741,2222,United States,English
+742,9275,Tanzania,English
+743,5413,Japan,English
+744,7742,Indonesia,English
+745,8651,Egypt,English
+746,3566,Italy,English
+747,9381,South Korea,English
+748,6837,Germany,English
+749,2624,Thailand,English
+750,9771,China,English
+751,6474,Turkey,English
+752,1066,Sudan,English
+753,7217,Argentina,English
+754,825,United Kingdom,English
+755,9701,Egypt,English
+756,5445,Argentina,English
+757,2706,Philippines,English
+758,2574,China,English
+759,4996,South Korea,English
+760,3764,India,English
+761,7313,Argentina,English
+762,8956,Japan,English
+763,6551,Kenya,English
+764,3168,India,English
+765,3494,Italy,English
+766,9014,United Kingdom,English
+767,6552,Indonesia,English
+768,5325,South Korea,English
+769,131,Kenya,English
+770,7038,Turkey,English
+771,6728,Philippines,English
+772,3073,Colombia,English
+773,4047,Sudan,English
+774,5484,DR Congo,English
+775,5083,Bangladesh,English
+776,8039,Argentina,English
+777,6936,China,English
+778,10028,Brazil,English
+779,4027,Uganda,English
+780,4587,Germany,English
+781,9242,Russia,English
+782,9623,United States,English
+783,6159,United States,English
+784,6367,India,English
+785,497,Myanmar,English
+786,1532,United Kingdom,English
+787,6090,France,English
+788,4696,China,English
+789,6210,United States,English
+790,8283,United Kingdom,English
+791,3821,Iran,English
+792,7271,Vietnam,English
+793,2519,South Africa,English
+794,9917,Japan,English
+795,7524,Egypt,English
+796,9913,Indonesia,English
+797,806,United States,English
+798,6633,Ukraine,English
+799,5236,Myanmar,English
+800,8389,Russia,English
+801,9487,France,English
+802,8326,Myanmar,English
+803,7381,Pakistan,English
+804,7216,United Kingdom,English
+805,1994,Indonesia,English
+806,9314,Japan,English
+807,5329,Germany,English
+808,4070,France,English
+809,612,Turkey,English
+810,5089,Uganda,English
+811,10270,Ethiopia,English
+812,8752,Colombia,English
+813,1162,Sudan,English
+814,4052,China,English
+815,7114,China,English
+816,10444,Brazil,English
+817,7146,Colombia,English
+818,5538,Bangladesh,English
+819,2004,United Kingdom,English
+820,9804,Ethiopia,English
+821,911,United Kingdom,English
+822,8376,Russia,English
+823,7090,Tanzania,English
+824,5146,South Korea,English
+825,10,Philippines,English
+826,8505,Germany,English
+827,2893,Ukraine,English
+828,4434,Tanzania,English
+829,814,Kenya,English
+830,9432,Philippines,English
+831,7677,Argentina,English
+832,7095,Ethiopia,English
+833,6859,Germany,English
+834,2036,South Korea,English
+835,7305,Russia,English
+836,10453,Germany,English
+837,90,China,English
+838,5546,Myanmar,English
+839,3559,Ukraine,English
+840,7425,Turkey,English
+841,6880,Thailand,English
+842,1241,South Korea,English
+843,9998,Myanmar,English
+844,6830,Kenya,English
+845,7000,Brazil,English
+846,8417,Sudan,English
+847,8422,Argentina,English
+848,10439,Algeria,English
+849,4806,Kenya,English
+850,7667,Ukraine,English
+851,4398,Sudan,English
+852,8032,India,English
+853,756,Indonesia,English
+854,7304,Argentina,English
+855,3386,Ethiopia,English
+856,10501,Argentina,English
+857,4178,Philippines,English
+858,1845,DR Congo,English
+859,3032,Argentina,English
+860,8938,Brazil,English
+861,6600,Indonesia,English
+862,5612,Spain,English
+863,2905,Kenya,English
+864,2593,South Korea,English
+865,3837,Japan,English
+866,10113,Uganda,English
+867,3666,DR Congo,English
+868,2219,Mexico,English
+869,3848,Myanmar,English
+870,9409,Philippines,English
+871,5268,Russia,English
+872,7823,Kenya,English
+873,5596,Tanzania,English
+874,4328,Pakistan,English
+875,9293,United Kingdom,English
+876,5142,Vietnam,English
+877,7480,Brazil,English
+878,837,Iran,English
+879,2087,Nigeria,English
+880,5547,South Korea,English
+881,10410,Ethiopia,English
+882,2181,Mexico,English
+883,5590,Italy,English
+884,5502,Turkey,English
+885,3247,Indonesia,English
+886,7127,Brazil,English
+887,2844,Uganda,English
+888,9169,Spain,English
+889,3622,DR Congo,English
+890,5850,South Africa,English
+891,3551,India,English
+892,8762,Ukraine,English
+893,9428,Argentina,English
+894,3736,Pakistan,English
+895,9535,Ethiopia,English
+896,4306,Italy,English
+897,3974,France,English
+898,6246,Kenya,English
+899,5602,Nigeria,English
+900,9303,DR Congo,English
+901,3202,South Africa,English
+902,3466,Sudan,English
+903,1364,Thailand,English
+904,7200,Russia,English
+905,1019,Ukraine,English
+906,5336,Algeria,English
+907,9764,Italy,English
+908,2089,Algeria,English
+909,2189,Tanzania,English
+910,2258,Germany,English
+911,7375,France,English
+912,524,Uganda,English
+913,5147,Egypt,English
+914,7014,Mexico,English
+915,1783,Spain,English
+916,171,Myanmar,English
+917,736,India,English
+918,4283,Brazil,English
+919,10304,Egypt,English
+920,3691,Germany,English
+921,8709,India,English
+922,2627,Italy,English
+923,2237,South Korea,English
+924,1064,France,English
+925,849,Algeria,English
+926,1802,Bangladesh,English
+927,7670,Argentina,English
+928,10462,Bangladesh,English
+929,9463,Algeria,English
+930,10340,Spain,English
+931,1875,South Korea,English
+932,62,Myanmar,English
+933,3957,Uganda,English
+934,9525,United Kingdom,English
+935,4268,Nigeria,English
+936,8949,Pakistan,English
+937,6989,India,English
+938,7210,Italy,English
+939,3215,Kenya,English
+940,9474,United Kingdom,English
+941,1753,Japan,English
+942,4906,Kenya,English
+943,1235,Pakistan,English
+944,4360,Philippines,English
+945,9977,Spain,English
+946,6167,Colombia,English
+947,4076,Spain,English
+948,9019,India,English
+949,347,Vietnam,English
+950,2921,Iran,English
+951,3002,Argentina,English
+952,7484,Thailand,English
+953,3067,Algeria,English
+954,2912,Italy,English
+955,6432,Egypt,English
+956,5088,Germany,English
+957,602,Myanmar,English
+958,8181,France,English
+959,8635,Algeria,English
+960,3173,India,English
+961,4689,Germany,English
+962,4327,Myanmar,English
+963,10179,Tanzania,English
+964,2084,United States,English
+965,5671,Egypt,English
+966,8497,Uganda,English
+967,5673,Nigeria,English
+968,6319,Russia,English
+969,1155,France,English
+970,486,Spain,English
+971,2735,Japan,English
+972,5812,United States,English
+973,7222,Ethiopia,English
+974,7223,China,English
+975,3809,China,English
+976,2386,Japan,English
+977,7922,Brazil,English
+978,8397,United States,English
+979,8525,Vietnam,English
+980,9232,Pakistan,English
+981,4370,Kenya,English
+982,10247,DR Congo,English
+983,7345,India,English
+984,2018,Ukraine,English
+985,6672,Spain,English
+986,3641,Argentina,English
+987,1556,Japan,English
+988,322,Algeria,English
+989,5408,Spain,English
+990,10372,Iran,English
+991,2797,United States,English
+992,1224,Philippines,English
+993,5439,India,English
+994,5623,Colombia,English
+995,8473,Argentina,English
+996,5606,Vietnam,English
+997,5753,Myanmar,English
+998,2775,South Korea,English
+999,10085,Nigeria,English
+1000,6057,Pakistan,English
+1001,5544,Myanmar,English
+1002,144,Brazil,English
+1003,750,United Kingdom,English
+1004,72,Philippines,English
+1005,7363,Thailand,English
+1006,3946,Iran,English
+1007,1006,Ukraine,English
+1008,3506,Tanzania,English
+1009,8560,Tanzania,English
+1010,9097,Uganda,English
+1011,9780,Bangladesh,English
+1012,639,Tanzania,English
+1013,5899,Vietnam,English
+1014,4207,China,English
+1015,7590,Argentina,English
+1016,7587,Myanmar,English
+1017,382,Bangladesh,English
+1018,6433,Nigeria,English
+1019,5751,Mexico,English
+1020,1471,Egypt,English
+1021,10557,Uganda,English
+1022,5313,Algeria,English
+1023,9927,China,English
+1024,4842,Colombia,English
+1025,2877,South Korea,English
+1026,2241,Egypt,English
+1027,2186,Italy,English
+1028,4759,Indonesia,English
+1029,402,Italy,English
+1030,2421,Myanmar,English
+1031,10441,Myanmar,English
+1032,7732,Myanmar,English
+1033,1791,Sudan,English
+1034,2863,United States,English
+1035,9848,Thailand,English
+1036,8082,Vietnam,English
+1037,10457,Brazil,English
+1038,1983,India,English
+1039,4429,Spain,English
+1040,6970,South Africa,English
+1041,5939,Indonesia,English
+1042,10016,Kenya,English
+1043,9203,Egypt,English
+1044,1020,Tanzania,English
+1045,4030,India,English
+1046,1760,Uganda,English
+1047,5585,Indonesia,English
+1048,5701,Italy,English
+1049,3777,India,English
+1050,10394,Nigeria,English
+1051,7635,India,English
+1052,1742,Egypt,English
+1053,7258,Egypt,English
+1054,244,Italy,English
+1055,2806,Russia,English
+1056,1734,India,English
+1057,4629,Kenya,English
+1058,6722,India,English
+1059,8590,United Kingdom,English
+1060,9375,Nigeria,English
+1061,1190,Brazil,English
+1062,10420,Indonesia,English
+1063,5176,Philippines,English
+1064,1039,Bangladesh,English
+1065,4786,Argentina,English
+1066,3859,China,English
+1067,6223,Argentina,English
+1068,4459,Kenya,English
+1069,3727,Nigeria,English
+1070,1630,Tanzania,English
+1071,3750,Mexico,English
+1072,3829,South Korea,English
+1073,7560,Bangladesh,English
+1074,3127,Brazil,English
+1075,1902,Bangladesh,English
+1076,908,Colombia,English
+1077,7426,Egypt,English
+1078,5674,Ethiopia,English
+1079,8699,Ukraine,English
+1080,68,Myanmar,English
+1081,8773,Kenya,English
+1082,8933,Bangladesh,English
+1083,1280,Italy,English
+1084,6017,Brazil,English
+1085,3303,Philippines,English
+1086,10534,Tanzania,English
+1087,6754,Germany,English
+1088,3788,Sudan,English
+1089,1980,Bangladesh,English
+1090,7438,Egypt,English
+1091,2291,India,English
+1092,2995,Indonesia,English
+1093,9723,United States,English
+1094,7180,Brazil,English
+1095,8801,India,English
+1096,2162,Ethiopia,English
+1097,4709,Ukraine,English
+1098,8640,Spain,English
+1099,1386,Germany,English
+1100,10042,Uganda,English
+1101,5569,Tanzania,English
+1102,3856,Brazil,English
+1103,1785,South Korea,English
+1104,8396,United Kingdom,English
+1105,5113,Russia,English
+1106,5903,Bangladesh,English
+1107,2526,Egypt,English
+1108,2445,United Kingdom,English
+1109,1326,DR Congo,English
+1110,8265,DR Congo,English
+1111,4523,Brazil,English
+1112,8527,Pakistan,English
+1113,9205,Egypt,English
+1114,5513,Vietnam,English
+1115,9964,Nigeria,English
+1116,2434,India,English
+1117,6616,Egypt,English
+1118,1126,Ethiopia,English
+1119,5793,Germany,English
+1120,7209,India,English
+1121,7015,Sudan,English
+1122,4718,Uganda,English
+1123,8715,Indonesia,English
+1124,9089,Germany,English
+1125,4804,South Korea,English
+1126,10101,Tanzania,English
+1127,2938,United Kingdom,English
+1128,5165,Pakistan,English
+1129,6905,DR Congo,English
+1130,8024,Bangladesh,English
+1131,4542,South Africa,English
+1132,4373,Algeria,English
+1133,1204,Sudan,English
+1134,4676,Nigeria,English
+1135,1247,Nigeria,English
+1136,3991,Kenya,English
+1137,7526,China,English
+1138,9615,Indonesia,English
+1139,4922,Germany,English
+1140,6609,Turkey,English
+1141,10509,Brazil,English
+1142,2527,South Africa,English
+1143,4830,United Kingdom,English
+1144,6886,South Korea,English
+1145,957,South Africa,English
+1146,6541,Russia,English
+1147,1079,Philippines,English
+1148,7221,United States,English
+1149,3529,Japan,English
+1150,8507,Egypt,English
+1151,9824,China,English
+1152,3209,India,English
+1153,3124,Sudan,English
+1154,4016,Ukraine,English
+1155,6632,Thailand,English
+1156,7794,France,English
+1157,10538,United Kingdom,English
+1158,9280,United States,English
+1159,2946,Germany,English
+1160,8336,China,English
+1161,8883,Japan,English
+1162,3869,Sudan,English
+1163,6887,Germany,English
+1164,2611,Thailand,English
+1165,9119,Ukraine,English
+1166,3904,Philippines,English
+1167,292,Tanzania,English
+1168,7325,Turkey,English
+1169,2216,Kenya,English
+1170,10529,South Korea,English
+1171,4686,Iran,English
+1172,22,Indonesia,English
+1173,7330,Germany,English
+1174,668,Spain,English
+1175,10036,Indonesia,English
+1176,7478,France,English
+1177,2436,Mexico,English
+1178,8596,Brazil,English
+1179,701,Thailand,English
+1180,3932,Turkey,English
+1181,5195,Egypt,English
+1182,9401,Japan,English
+1183,7854,Italy,English
+1184,1502,Kenya,English
+1185,987,France,English
+1186,4292,Sudan,English
+1187,10238,India,English
+1188,2413,Mexico,English
+1189,2092,Philippines,English
+1190,9827,Indonesia,English
+1191,469,Japan,English
+1192,5908,Thailand,English
+1193,2266,Russia,English
+1194,4567,South Korea,English
+1195,4732,Iran,English
+1196,6606,South Africa,English
+1197,8927,India,English
+1198,7625,Italy,English
+1199,1929,China,English
+1200,6589,Italy,English
+1201,2124,France,English
+1202,5755,Algeria,English
+1203,2411,Sudan,English
+1204,8919,Myanmar,English
+1205,7232,Japan,English
+1206,6678,Indonesia,English
+1207,4407,Ukraine,English
+1208,5420,South Africa,English
+1209,7859,Spain,English
+1210,4096,Japan,English
+1211,8550,Nigeria,English
+1212,8354,Russia,English
+1213,10549,Ethiopia,English
+1214,590,Turkey,English
+1215,4174,Myanmar,English
+1216,6949,China,English
+1217,3435,Mexico,English
+1218,1602,China,English
+1219,8997,Philippines,English
+1220,3112,Mexico,English
+1221,926,Ethiopia,English
+1222,9654,Indonesia,English
+1223,1777,India,English
+1224,10023,China,English
+1225,8319,China,English
+1226,10378,Vietnam,English
+1227,7665,Mexico,English
+1228,6115,Colombia,English
+1229,7538,South Korea,English
+1230,2009,France,English
+1231,4803,Kenya,English
+1232,3778,Italy,English
+1233,6010,Bangladesh,English
+1234,4250,Thailand,English
+1235,3428,France,English
+1236,2948,China,English
+1237,5560,Kenya,English
+1238,6055,Argentina,English
+1239,1406,Nigeria,English
+1240,5503,Kenya,English
+1241,666,Ethiopia,English
+1242,4740,Philippines,English
+1243,9098,United Kingdom,English
+1244,4818,South Korea,English
+1245,5085,Mexico,English
+1246,8195,Ethiopia,English
+1247,3524,Vietnam,English
+1248,6964,Algeria,English
+1249,9376,United Kingdom,English
+1250,9767,Bangladesh,English
+1251,30,Sudan,English
+1252,8655,China,English
+1253,973,Ethiopia,English
+1254,9230,South Korea,English
+1255,10214,China,English
+1256,8275,Colombia,English
+1257,6547,Algeria,English
+1258,900,South Korea,English
+1259,1102,China,English
+1260,6497,Philippines,English
+1261,8621,United States,English
+1262,3454,Myanmar,English
+1263,9185,Uganda,English
+1264,6012,Colombia,English
+1265,4430,Philippines,English
+1266,5212,Spain,English
+1267,8056,Spain,English
+1268,10329,DR Congo,English
+1269,50,Mexico,English
+1270,16,South Korea,English
+1271,8208,Sudan,English
+1272,7401,Ethiopia,English
+1273,4409,Pakistan,English
+1274,10120,Russia,English
+1275,10472,Myanmar,English
+1276,4736,Ethiopia,English
+1277,10365,Italy,English
+1278,4223,DR Congo,English
+1279,3826,Italy,English
+1280,8223,Japan,English
+1281,10144,DR Congo,English
+1282,4247,Bangladesh,English
+1283,6178,Spain,English
+1284,3322,Russia,English
+1285,8736,DR Congo,English
+1286,10310,Russia,English
+1287,7666,Spain,English
+1288,9698,Germany,English
+1289,3410,Pakistan,English
+1290,5274,Japan,English
+1291,1167,Spain,English
+1292,551,Algeria,English
+1293,9497,South Africa,English
+1294,10404,United States,English
+1295,2998,Brazil,English
+1296,1047,Uganda,English
+1297,998,Mexico,English
+1298,9512,Vietnam,English
+1299,9063,India,English
+1300,3179,Algeria,English
+1301,10367,Russia,English
+1302,7285,Ethiopia,English
+1303,702,Argentina,English
+1304,5888,Uganda,English
+1305,5943,Vietnam,English
+1306,2483,South Korea,English
+1307,6398,Russia,English
+1308,6290,Mexico,English
+1309,8879,Algeria,English
+1310,7864,Myanmar,English
+1311,10024,Argentina,English
+1312,3317,Mexico,English
+1313,7595,Nigeria,English
+1314,1437,Ukraine,English
+1315,6943,United States,English
+1316,7354,Brazil,English
+1317,2889,India,English
+1318,1499,Spain,English
+1319,5649,China,English
+1320,2843,Vietnam,English
+1321,9005,Thailand,English
+1322,159,Mexico,English
+1323,9111,Turkey,English
+1324,7294,Russia,English
+1325,899,Bangladesh,English
+1326,2012,Japan,English
+1327,4281,Thailand,English
+1328,6389,Sudan,English
+1329,9227,China,English
+1330,9183,Vietnam,English
+1331,737,Philippines,English
+1332,2680,Germany,English
+1333,3059,Kenya,English
+1334,3981,Iran,English
+1335,5528,Ethiopia,English
+1336,4509,United Kingdom,English
+1337,9261,Algeria,English
+1338,9335,France,English
+1339,4451,South Korea,English
+1340,5727,Thailand,English
+1341,9899,Indonesia,English
+1342,8196,Egypt,English
+1343,8391,Vietnam,English
+1344,9009,Tanzania,English
+1345,2378,China,English
+1346,5032,Uganda,English
+1347,3058,Egypt,English
+1348,7902,Germany,English
+1349,3380,United Kingdom,English
+1350,491,Sudan,English
+1351,7399,Mexico,English
+1352,10429,Germany,English
+1353,9529,Thailand,English
+1354,4157,Philippines,English
+1355,8077,Italy,English
+1356,6683,Iran,English
+1357,9957,Uganda,English
+1358,2650,United Kingdom,English
+1359,5604,Germany,English
+1360,492,United Kingdom,English
+1361,7760,India,English
+1362,2419,Thailand,English
+1363,1705,Uganda,English
+1364,1296,China,English
+1365,912,Vietnam,English
+1366,74,Japan,English
+1367,269,India,English
+1368,6093,DR Congo,English
+1369,3339,Philippines,English
+1370,8830,China,English
+1371,7998,Tanzania,English
+1372,3342,Iran,English
+1373,3769,Sudan,English
+1374,156,Colombia,English
+1375,9877,South Africa,English
+1376,9328,DR Congo,English
+1377,7907,Tanzania,English
+1378,8438,Brazil,English
+1379,4115,Turkey,English
+1380,9166,Uganda,English
+1381,6679,Sudan,English
+1382,4591,Iran,English
+1383,3759,Ukraine,English
+1384,3042,Algeria,English
+1385,6915,South Africa,English
+1386,6106,Tanzania,English
+1387,9211,Nigeria,English
+1388,6410,Japan,English
+1389,9778,Mexico,English
+1390,6813,France,English
+1391,8398,Pakistan,English
+1392,4554,Nigeria,English
+1393,2392,Kenya,English
+1394,7042,Uganda,English
+1395,8546,South Africa,English
+1396,5081,Tanzania,English
+1397,8496,Myanmar,English
+1398,4116,Japan,English
+1399,3105,Philippines,English
+1400,851,Spain,English
+1401,6285,India,English
+1402,8523,Algeria,English
+1403,9860,Colombia,English
+1404,8971,South Africa,English
+1405,118,Japan,English
+1406,3037,South Africa,English
+1407,1546,Tanzania,English
+1408,345,Mexico,English
+1409,8995,India,English
+1410,8369,Japan,English
+1411,1797,Pakistan,English
+1412,9633,Egypt,English
+1413,6608,United Kingdom,English
+1414,6422,Colombia,English
+1415,2911,Spain,English
+1416,2133,Vietnam,English
+1417,6153,Italy,English
+1418,7643,Spain,English
+1419,10212,Ukraine,English
+1420,4425,South Africa,English
+1421,9495,Mexico,English
+1422,23,India,English
+1423,6911,Bangladesh,English
+1424,3812,France,English
+1425,9663,Nigeria,English
+1426,10318,DR Congo,English
+1427,5233,Sudan,English
+1428,3284,Bangladesh,English
+1429,3433,Uganda,English
+1430,2492,South Africa,English
+1431,3766,Sudan,English
+1432,6653,Russia,English
+1433,2047,Philippines,English
+1434,10069,Italy,English
+1435,9216,Russia,English
+1436,2796,Ethiopia,English
+1437,5828,Germany,English
+1438,4562,Turkey,English
+1439,3793,Vietnam,English
+1440,2660,Spain,English
+1441,493,Russia,English
+1442,9118,Sudan,English
+1443,832,China,English
+1444,9276,Iran,English
+1445,534,Egypt,English
+1446,2699,China,English
+1447,2616,Germany,English
+1448,6271,Philippines,English
+1449,7636,Mexico,English
+1450,8836,Indonesia,English
+1451,967,Uganda,English
+1452,6780,Vietnam,English
+1453,3030,Uganda,English
+1454,8366,Bangladesh,English
+1455,700,Indonesia,English
+1456,3463,Philippines,English
+1457,6277,United States,English
+1458,1627,Myanmar,English
+1459,4572,Philippines,English
+1460,5895,Bangladesh,English
+1461,10233,Algeria,English
+1462,184,Japan,English
+1463,7952,Bangladesh,English
+1464,10010,Argentina,English
+1465,7395,Uganda,English
+1466,5581,Colombia,English
+1467,7202,Brazil,English
+1468,8098,Thailand,English
+1469,5860,Ethiopia,English
+1470,8554,Egypt,English
+1471,7377,Brazil,English
+1472,4529,Russia,English
+1473,3693,Russia,English
+1474,5610,DR Congo,English
+1475,4665,Nigeria,English
+1476,4378,Russia,English
+1477,775,South Africa,English
+1478,3893,Argentina,English
+1479,9588,United Kingdom,English
+1480,3046,South Korea,English
+1481,4188,Iran,English
+1482,9966,Italy,English
+1483,718,Philippines,English
+1484,8632,Pakistan,English
+1485,3701,Italy,English
+1486,3680,United States,English
+1487,1070,Italy,English
+1488,8781,Argentina,English
+1489,2935,Egypt,English
+1490,6431,Pakistan,English
+1491,3048,Myanmar,English
+1492,2697,India,English
+1493,4748,France,English
+1494,9264,Ukraine,English
+1495,597,Italy,English
+1496,828,Vietnam,English
+1497,2951,Indonesia,English
+1498,416,Japan,English
+1499,5317,DR Congo,English
+1500,2424,Kenya,English
+1501,931,Russia,English
+1502,3347,Kenya,English
+1503,4779,Germany,English
+1504,7847,South Africa,English
+1505,3389,Kenya,English
+1506,8999,DR Congo,English
+1507,4691,Bangladesh,English
+1508,7091,Myanmar,English
+1509,6405,Germany,English
+1510,4789,Argentina,English
+1511,101,Thailand,English
+1512,10128,France,English
+1513,7564,Russia,English
+1514,5238,Italy,English
+1515,3994,Nigeria,English
+1516,9594,France,English
+1517,7761,Argentina,English
+1518,8018,Nigeria,English
+1519,8046,Ethiopia,English
+1520,6008,Japan,English
+1521,9043,Iran,English
+1522,7268,Indonesia,English
+1523,981,Russia,English
+1524,1328,Russia,English
+1525,3523,Indonesia,English
+1526,8244,Nigeria,English
+1527,2062,France,English
+1528,3115,Ethiopia,English
+1529,6558,China,English
+1530,141,South Korea,English
+1531,6973,Russia,English
+1532,6729,Germany,English
+1533,8084,Nigeria,English
+1534,9620,India,English
+1535,5385,Uganda,English
+1536,5171,Indonesia,English
+1537,6974,Vietnam,English
+1538,9210,China,English
+1539,5656,Germany,English
+1540,3575,Italy,English
+1541,7905,France,English
+1542,3189,Iran,English
+1543,2949,DR Congo,English
+1544,2260,Kenya,English
+1545,1636,United States,English
+1546,9617,Pakistan,English
+1547,6048,Mexico,English
+1548,2060,France,English
+1549,8851,Bangladesh,English
+1550,6279,Pakistan,English
+1551,6479,Germany,English
+1552,8479,Philippines,English
+1553,6001,Germany,English
+1554,6769,Kenya,English
+1555,9702,Tanzania,English
+1556,3415,Bangladesh,English
+1557,4692,Nigeria,English
+1558,5235,Iran,English
+1559,6333,Kenya,English
+1560,6499,Mexico,English
+1561,9610,Vietnam,English
+1562,7769,Myanmar,English
+1563,6244,Vietnam,English
+1564,4837,Vietnam,English
+1565,5289,Thailand,English
+1566,8345,Algeria,English
+1567,5280,Turkey,English
+1568,690,China,English
+1569,397,Argentina,English
+1570,9190,Mexico,English
+1571,1012,Vietnam,English
+1572,1133,United Kingdom,English
+1573,8631,Germany,English
+1574,7199,Sudan,English
+1575,8373,Tanzania,English
+1576,5064,India,English
+1577,6607,China,English
+1578,929,Sudan,English
+1579,5614,Brazil,English
+1580,6031,Nigeria,English
+1581,7084,South Korea,English
+1582,5170,India,English
+1583,7860,Myanmar,English
+1584,3918,Uganda,English
+1585,305,Vietnam,English
+1586,6816,Bangladesh,English
+1587,9724,South Korea,English
+1588,6674,Myanmar,English
+1589,10284,Sudan,English
+1590,728,Bangladesh,English
+1591,3508,Spain,English
+1592,3315,Ukraine,English
+1593,5383,Egypt,English
+1594,4959,Uganda,English
+1595,5123,Kenya,English
+1596,216,Ethiopia,English
+1597,1644,Philippines,English
+1598,3156,Indonesia,English
+1599,4416,India,English
+1600,7622,Japan,English
+1601,2953,Ethiopia,English
+1602,7137,Ethiopia,English
+1603,7007,Ethiopia,English
+1604,2994,Colombia,English
+1605,3626,South Africa,English
+1606,9114,Ethiopia,English
+1607,7746,Germany,English
+1608,46,Algeria,English
+1609,5680,France,English
+1610,5639,Argentina,English
+1611,4322,United States,English
+1612,9165,United States,English
+1613,351,Italy,English
+1614,7994,Thailand,English
+1615,6997,DR Congo,English
+1616,4582,Ukraine,English
+1617,7658,South Africa,English
+1618,4999,France,English
+1619,8572,Pakistan,English
+1620,9776,Pakistan,English
+1621,9826,Iran,English
+1622,7054,Bangladesh,English
+1623,4767,Tanzania,English
+1624,6510,India,English
+1625,1453,Iran,English
+1626,2883,India,English
+1627,10252,Myanmar,English
+1628,6950,Germany,English
+1629,2785,South Korea,English
+1630,7559,United Kingdom,English
+1631,698,Philippines,English
+1632,7175,Tanzania,English
+1633,9461,Turkey,English
+1634,9310,Philippines,English
+1635,240,China,English
+1636,8472,South Africa,English
+1637,7829,Myanmar,English
+1638,9080,United States,English
+1639,3947,Bangladesh,English
+1640,7774,United States,English
+1641,5522,Vietnam,English
+1642,8049,Spain,English
+1643,4337,Argentina,English
+1644,6561,Myanmar,English
+1645,7445,Philippines,English
+1646,735,Turkey,English
+1647,3325,United Kingdom,English
+1648,277,Italy,English
+1649,7984,Philippines,English
+1650,5924,Uganda,English
+1651,9038,France,English
+1652,3019,Indonesia,English
+1653,8004,Ethiopia,English
+1654,8817,Uganda,English
+1655,3341,Thailand,English
+1656,971,Colombia,English
+1657,10076,Ethiopia,English
+1658,9278,Brazil,English
+1659,3860,United States,English
+1660,7080,Argentina,English
+1661,7754,Bangladesh,English
+1662,5664,Brazil,English
+1663,9064,China,English
+1664,5802,Spain,English
+1665,8695,Uganda,English
+1666,9494,Ukraine,English
+1667,2725,Tanzania,English
+1668,224,Iran,English
+1669,6715,Sudan,English
+1670,2583,France,English
+1671,8190,South Korea,English
+1672,2126,Italy,English
+1673,8085,Turkey,English
+1674,8171,Germany,English
+1675,2784,Myanmar,English
+1676,604,Myanmar,English
+1677,2351,Ethiopia,English
+1678,9332,Kenya,English
+1679,8821,Uganda,English
+1680,6066,Nigeria,English
+1681,3089,South Africa,English
+1682,5854,Thailand,English
+1683,10507,United Kingdom,English
+1684,8886,Indonesia,English
+1685,5323,Pakistan,English
+1686,8960,United Kingdom,English
+1687,8235,China,English
+1688,7079,Brazil,English
+1689,9296,Egypt,English
+1690,8356,Turkey,English
+1691,2081,Germany,English
+1692,5648,Brazil,English
+1693,4571,China,English
+1694,576,Ukraine,English
+1695,5006,Sudan,English
+1696,7699,Japan,English
+1697,4913,Spain,English
+1698,6648,Russia,English
+1699,654,Bangladesh,English
+1700,9116,Colombia,English
+1701,3218,Japan,English
+1702,3673,Thailand,English
+1703,9473,Sudan,English
+1704,5991,Turkey,English
+1705,2932,DR Congo,English
+1706,1831,Myanmar,English
+1707,4408,Algeria,English
+1708,6743,Sudan,English
+1709,9839,Vietnam,English
+1710,3927,Argentina,English
+1711,7339,Turkey,English
+1712,4625,Nigeria,English
+1713,4650,Brazil,English
+1714,4565,Bangladesh,English
+1715,1901,South Africa,English
+1716,3634,Bangladesh,English
+1717,2356,Kenya,English
+1718,9555,Turkey,English
+1719,2270,DR Congo,English
+1720,7878,Turkey,English
+1721,5208,Tanzania,English
+1722,94,Myanmar,English
+1723,10516,Indonesia,English
+1724,4909,Kenya,English
+1725,5696,Russia,English
+1726,6833,Spain,English
+1727,5476,Vietnam,English
+1728,6478,Philippines,English
+1729,8215,Indonesia,English
+1730,2518,Nigeria,English
+1731,9153,Spain,English
+1732,7971,Uganda,English
+1733,1042,India,English
+1734,772,Sudan,English
+1735,4220,Thailand,English
+1736,9564,South Korea,English
+1737,10456,Algeria,English
+1738,6091,Ukraine,English
+1739,5214,Nigeria,English
+1740,6539,Algeria,English
+1741,783,Algeria,English
+1742,45,Brazil,English
+1743,4286,United Kingdom,English
+1744,1776,Brazil,English
+1745,3240,Brazil,English
+1746,779,China,English
+1747,189,Bangladesh,English
+1748,8838,Turkey,English
+1749,4923,South Africa,English
+1750,7160,China,English
+1751,2122,South Korea,English
+1752,10211,South Africa,English
+1753,4401,Argentina,English
+1754,6703,Pakistan,English
+1755,5210,South Africa,English
+1756,10116,Colombia,English
+1757,705,DR Congo,English
+1758,7061,DR Congo,English
+1759,6315,DR Congo,English
+1760,365,Bangladesh,English
+1761,5876,Turkey,English
+1762,9758,Tanzania,English
+1763,1640,DR Congo,English
+1764,4958,DR Congo,English
+1765,10161,Bangladesh,English
+1766,9577,Japan,English
+1767,5440,Pakistan,English
+1768,9347,Algeria,English
+1769,8136,Spain,English
+1770,6180,Pakistan,English
+1771,9156,Vietnam,English
+1772,6573,France,English
+1773,3567,Pakistan,English
+1774,1463,China,English
+1775,394,Indonesia,English
+1776,9798,Vietnam,English
+1777,5417,United Kingdom,English
+1778,1245,Iran,English
+1779,5109,Tanzania,English
+1780,906,Vietnam,English
+1781,5098,India,English
+1782,5965,Myanmar,English
+1783,9589,Algeria,English
+1784,4995,Iran,English
+1785,8794,Mexico,English
+1786,4871,United Kingdom,English
+1787,10087,Vietnam,English
+1788,7157,Mexico,English
+1789,3961,Iran,English
+1790,368,Argentina,English
+1791,9950,Vietnam,English
+1792,7102,Myanmar,English
+1793,5125,Brazil,English
+1794,5995,Algeria,English
+1795,4855,Thailand,English
+1796,5608,Iran,English
+1797,4176,India,English
+1798,433,Ukraine,English
+1799,1301,Bangladesh,English
+1800,1464,Brazil,English
+1801,985,Uganda,English
+1802,6891,Uganda,English
+1803,10546,Argentina,English
+1804,4966,Pakistan,English
+1805,4170,Algeria,English
+1806,858,Ethiopia,English
+1807,5901,Vietnam,English
+1808,6211,DR Congo,English
+1809,7810,Japan,English
+1810,9164,France,English
+1811,413,Ethiopia,English
+1812,5206,India,English
+1813,2632,Myanmar,English
+1814,1707,South Korea,English
+1815,8343,Japan,English
+1816,5084,South Korea,English
+1817,507,Indonesia,English
+1818,9660,Sudan,English
+1819,9234,Spain,English
+1820,9781,United Kingdom,English
+1821,9818,DR Congo,English
+1822,2746,Bangladesh,English
+1823,3136,South Korea,English
+1824,5416,Japan,English
+1825,3100,Pakistan,English
+1826,4462,Mexico,English
+1827,1847,India,English
+1828,1054,DR Congo,English
+1829,2717,Kenya,English
+1830,4164,Nigeria,English
+1831,7408,Ukraine,English
+1832,6216,South Africa,English
+1833,5448,Brazil,English
+1834,5466,Colombia,English
+1835,3949,Colombia,English
+1836,4657,Tanzania,English
+1837,2811,Nigeria,English
+1838,10266,Uganda,English
+1839,6472,Vietnam,English
+1840,3461,Tanzania,English
+1841,3830,DR Congo,English
+1842,14,Iran,English
+1843,7517,Sudan,English
+1844,7783,Germany,English
+1845,9120,Colombia,English
+1846,984,Germany,English
+1847,9333,Algeria,English
+1848,5396,Myanmar,English
+1849,962,Argentina,English
+1850,9679,Brazil,English
+1851,5752,Spain,English
+1852,6673,South Africa,English
+1853,4526,Bangladesh,English
+1854,9155,Iran,English
+1855,7520,India,English
+1856,3288,Vietnam,English
+1857,9262,Indonesia,English
+1858,8081,South Africa,English
+1859,7869,South Africa,English
+1860,4798,Nigeria,English
+1861,9175,Kenya,English
+1862,8307,China,English
+1863,2154,Mexico,English
+1864,8895,Iran,English
+1865,4315,Germany,English
+1866,9680,Ukraine,English
+1867,6654,DR Congo,English
+1868,6662,Ethiopia,English
+1869,9132,United States,English
+1870,10248,Germany,English
+1871,3208,Nigeria,English
+1872,7544,Argentina,English
+1873,5619,Germany,English
+1874,932,Myanmar,English
+1875,465,Philippines,English
+1876,1172,Bangladesh,English
+1877,6183,China,English
+1878,7615,Spain,English
+1879,8948,Ukraine,English
+1880,6464,Indonesia,English
+1881,2868,South Africa,English
+1882,198,China,English
+1883,8816,Ukraine,English
+1884,6341,India,English
+1885,9320,France,English
+1886,1134,France,English
+1887,5944,Brazil,English
+1888,7919,Indonesia,English
+1889,7073,Argentina,English
+1890,7494,Brazil,English
+1891,8149,Nigeria,English
+1892,5291,South Korea,English
+1893,1164,Italy,English
+1894,1937,Algeria,English
+1895,4516,Spain,English
+1896,9918,Spain,English
+1897,6718,Italy,English
+1898,83,United Kingdom,English
+1899,7962,Thailand,English
+1900,8470,India,English
+1901,1849,Vietnam,English
+1902,10400,Italy,English
+1903,3644,Tanzania,English
+1904,8684,Spain,English
+1905,6420,Indonesia,English
+1906,3827,Brazil,English
+1907,10510,Turkey,English
+1908,3741,Pakistan,English
+1909,8917,Indonesia,English
+1910,3217,Brazil,English
+1911,2897,Thailand,English
+1912,7503,DR Congo,English
+1913,2221,India,English
+1914,7736,Spain,English
+1915,8067,Egypt,English
+1916,1817,Japan,English
+1917,6094,Russia,English
+1918,10230,Philippines,English
+1919,8041,India,English
+1920,8810,Indonesia,English
+1921,1490,Germany,English
+1922,1168,India,English
+1923,2205,India,English
+1924,1153,Russia,English
+1925,9384,Tanzania,English
+1926,10054,Turkey,English
+1927,1095,South Korea,English
+1928,2401,Brazil,English
+1929,8576,Uganda,English
+1930,1279,Germany,English
+1931,6196,Vietnam,English
+1932,9799,Vietnam,English
+1933,5542,Japan,English
+1934,2825,United Kingdom,English
+1935,7227,China,English
+1936,2304,Algeria,English
+1937,1231,Algeria,English
+1938,3715,United Kingdom,English
+1939,9682,France,English
+1940,2835,Iran,English
+1941,7525,Uganda,English
+1942,7086,Ukraine,English
+1943,7430,Philippines,English
+1944,5467,Iran,English
+1945,3933,South Korea,English
+1946,10089,Argentina,English
+1947,4144,Nigeria,English
+1948,5464,South Korea,English
+1949,9143,Colombia,English
+1950,4038,Turkey,English
+1951,4608,Spain,English
+1952,9126,Iran,English
+1953,3501,Thailand,English
+1954,4544,Algeria,English
+1955,7161,Mexico,English
+1956,671,Japan,English
+1957,5121,Ukraine,English
+1958,60,Algeria,English
+1959,7348,Pakistan,English
+1960,5587,Pakistan,English
+1961,10205,Sudan,English
+1962,3500,Japan,English
+1963,6993,Italy,English
+1964,6489,Ethiopia,English
+1965,1892,Mexico,English
+1966,405,Kenya,English
+1967,7252,Bangladesh,English
+1968,6404,Japan,English
+1969,2214,Sudan,English
+1970,6490,Brazil,English
+1971,5019,Colombia,English
+1972,3576,Egypt,English
+1973,3762,Turkey,English
+1974,861,Turkey,English
+1975,5282,Nigeria,English
+1976,6934,Brazil,English
+1977,43,India,English
+1978,7432,Russia,English
+1979,3871,Kenya,English
+1980,7955,Myanmar,English
+1981,5808,DR Congo,English
+1982,7697,DR Congo,English
+1983,2171,Sudan,English
+1984,6044,Japan,English
+1985,2795,South Africa,English
+1986,3911,United States,English
+1987,9937,United States,English
+1988,6660,Thailand,English
+1989,6618,Myanmar,English
+1990,291,Iran,English
+1991,5592,South Africa,English
+1992,8676,Brazil,English
+1993,10107,Philippines,English
+1994,3309,Argentina,English
+1995,1972,Brazil,English
+1996,6101,Tanzania,English
+1997,1756,Turkey,English
+1998,4120,Philippines,English
+1999,3951,Argentina,English
+2000,343,Algeria,English
+2001,5948,Bangladesh,English
+2002,170,Pakistan,English
+2003,685,Vietnam,English
+2004,7674,Egypt,English
+2005,1975,Thailand,English
+2006,8776,Nigeria,English
+2007,10476,Italy,English
+2008,510,Egypt,English
+2009,5188,Kenya,English
+2010,7255,Spain,English
+2011,9367,South Africa,English
+2012,3017,China,English
+2013,8663,Uganda,English
+2014,5773,Bangladesh,English
+2015,10143,Sudan,English
+2016,276,DR Congo,English
+2017,7908,Ukraine,English
+2018,3880,Russia,English
+2019,2625,Bangladesh,English
+2020,3487,Italy,English
+2021,3771,DR Congo,English
+2022,7062,Spain,English
+2023,628,DR Congo,English
+2024,3429,Kenya,English
+2025,5344,Ethiopia,English
+2026,7024,Pakistan,English
+2027,506,Iran,English
+2028,9458,Turkey,English
+2029,6192,Brazil,English
+2030,5856,Thailand,English
+2031,6790,France,English
+2032,964,United Kingdom,English
+2033,8691,Thailand,English
+2034,4486,China,English
+2035,3324,DR Congo,English
+2036,3572,Vietnam,English
+2037,9396,Colombia,English
+2038,367,DR Congo,English
+2039,9171,Uganda,English
+2040,10524,Bangladesh,English
+2041,8633,Ukraine,English
+2042,154,Colombia,English
+2043,4854,South Korea,English
+2044,5364,China,English
+2045,7861,Argentina,English
+2046,2510,Thailand,English
+2047,1936,Egypt,English
+2048,887,United Kingdom,English
+2049,2971,South Africa,English
+2050,260,Uganda,English
+2051,7454,Mexico,English
+2052,3521,Philippines,English
+2053,5097,Argentina,English
+2054,10031,DR Congo,English
+2055,6663,South Africa,English
+2056,3954,Indonesia,English
+2057,7233,Mexico,English
+2058,9158,Colombia,English
+2059,3760,Indonesia,English
+2060,7898,Bangladesh,English
+2061,9568,United Kingdom,English
+2062,370,Iran,English
+2063,102,Mexico,English
+2064,4340,Algeria,English
+2065,3786,Nigeria,English
+2066,606,South Africa,English
+2067,4471,Uganda,English
+2068,1450,Brazil,English
+2069,8230,United States,English
+2070,2072,Thailand,English
+2071,8331,Myanmar,English
+2072,1672,Mexico,English
+2073,6820,Spain,English
+2074,643,Tanzania,English
+2075,7738,Thailand,English
+2076,1663,Japan,English
+2077,3051,Algeria,English
+2078,7694,South Africa,English
+2079,2980,Bangladesh,English
+2080,7596,Indonesia,English
+2081,10079,Kenya,English
+2082,8689,Uganda,English
+2083,9590,Mexico,English
+2084,6721,South Korea,English
+2085,6295,Sudan,English
+2086,4881,Philippines,English
+2087,7461,Brazil,English
+2088,4590,Turkey,English
+2089,2405,Brazil,English
+2090,5103,Myanmar,English
+2091,3409,South Africa,English
+2092,5335,Germany,English
+2093,8449,Philippines,English
+2094,4905,Ukraine,English
+2095,6792,United Kingdom,English
+2096,4118,Italy,English
+2097,7389,South Africa,English
+2098,529,Iran,English
+2099,5,Germany,English
+2100,7785,China,English
+2101,160,Ukraine,English
+2102,3440,Turkey,English
+2103,947,Germany,English
+2104,734,Russia,English
+2105,2514,Indonesia,English
+2106,7263,Bangladesh,English
+2107,1577,Mexico,English
+2108,5266,Philippines,English
+2109,5909,United Kingdom,English
+2110,1665,Germany,English
+2111,5091,Uganda,English
+2112,3210,Pakistan,English
+2113,8025,Kenya,English
+2114,7046,Philippines,English
+2115,3570,Nigeria,English
+2116,9737,Egypt,English
+2117,6677,Indonesia,English
+2118,7125,Vietnam,English
+2119,5979,Italy,English
+2120,8179,Bangladesh,English
+2121,2913,Argentina,English
+2122,9268,Ethiopia,English
+2123,8494,France,English
+2124,5870,Brazil,English
+2125,3677,China,English
+2126,9101,DR Congo,English
+2127,1595,Philippines,English
+2128,8097,Egypt,English
+2129,9287,Thailand,English
+2130,248,Pakistan,English
+2131,9894,Colombia,English
+2132,8977,Argentina,English
+2133,1498,Iran,English
+2134,9747,Colombia,English
+2135,3900,Thailand,English
+2136,807,Iran,English
+2137,7601,Philippines,English
+2138,8780,Brazil,English
+2139,8420,Thailand,English
+2140,2202,Colombia,English
+2141,6566,Ukraine,English
+2142,4876,United Kingdom,English
+2143,8043,Ethiopia,English
+2144,6111,France,English
+2145,7620,Colombia,English
+2146,2530,India,English
+2147,5426,Italy,English
+2148,1719,Iran,English
+2149,1596,Ethiopia,English
+2150,3563,India,English
+2151,1078,Nigeria,English
+2152,10275,Indonesia,English
+2153,2695,Nigeria,English
+2154,10013,United Kingdom,English
+2155,7646,Italy,English
+2156,10541,Germany,English
+2157,2152,Kenya,English
+2158,3029,Sudan,English
+2159,6644,South Africa,English
+2160,773,Ukraine,English
+2161,5959,Spain,English
+2162,9411,South Korea,English
+2163,1870,Vietnam,English
+2164,7411,Nigeria,English
+2165,299,Brazil,English
+2166,381,Ethiopia,English
+2167,2701,Argentina,English
+2168,3995,Egypt,English
+2169,178,Indonesia,English
+2170,5917,Tanzania,English
+2171,1201,Tanzania,English
+2172,8206,Sudan,English
+2173,6380,Argentina,English
+2174,4439,Iran,English
+2175,6428,Thailand,English
+2176,10499,Mexico,English
+2177,7541,Myanmar,English
+2178,10251,Spain,English
+2179,7165,Turkey,English
+2180,9279,Mexico,English
+2181,4898,Philippines,English
+2182,7593,Germany,English
+2183,10170,United States,English
+2184,9,Turkey,English
+2185,5839,India,English
+2186,3690,China,English
+2187,1075,China,English
+2188,5788,Turkey,English
+2189,2179,Nigeria,English
+2190,7812,Vietnam,English
+2191,6977,France,English
+2192,4478,Ukraine,English
+2193,4179,Colombia,English
+2194,9162,Brazil,English
+2195,3801,Egypt,English
+2196,6406,Italy,English
+2197,6,Iran,English
+2198,4362,Turkey,English
+2199,1193,Germany,English
+2200,6238,France,English
+2201,4363,Mexico,English
+2202,5984,Tanzania,English
+2203,7698,Kenya,English
+2204,3776,Turkey,English
+2205,1385,South Africa,English
+2206,581,Thailand,English
+2207,694,Colombia,English
+2208,7942,Iran,English
+2209,8538,Egypt,English
+2210,7416,Bangladesh,English
+2211,2473,Thailand,English
+2212,1130,Myanmar,English
+2213,5706,Argentina,English
+2214,8638,China,English
+2215,6265,United States,English
+2216,9976,Japan,English
+2217,6762,United States,English
+2218,5541,United Kingdom,English
+2219,3257,Kenya,English
+2220,7193,Thailand,English
+2221,9595,Myanmar,English
+2222,4221,Turkey,English
+2223,8078,DR Congo,English
+2224,2283,Myanmar,English
+2225,6476,France,English
+2226,3958,United States,English
+2227,2928,Myanmar,English
+2228,2353,Thailand,English
+2229,689,Japan,English
+2230,1833,Myanmar,English
+2231,8194,Indonesia,English
+2232,2617,Ethiopia,English
+2233,2601,Japan,English
+2234,9449,Argentina,English
+2235,8717,Nigeria,English
+2236,4579,Turkey,English
+2237,9501,Philippines,English
+2238,6007,Nigeria,English
+2239,8132,China,English
+2240,7207,Pakistan,English
+2241,7121,Thailand,English
+2242,3258,Philippines,English
+2243,5912,China,English
+2244,6714,United States,English
+2245,777,Russia,English
+2246,7839,Germany,English
+2247,7720,Colombia,English
+2248,6050,United States,English
+2249,1966,Ukraine,English
+2250,4255,India,English
+2251,8009,United States,English
+2252,9819,Kenya,English
+2253,6206,Egypt,English
+2254,293,Sudan,English
+2255,8804,Argentina,English
+2256,4287,Ukraine,English
+2257,9475,Egypt,English
+2258,1955,DR Congo,English
+2259,6014,United States,English
+2260,239,China,English
+2261,2623,Philippines,English
+2262,3164,France,English
+2263,10105,China,English
+2264,3330,DR Congo,English
+2265,6615,Iran,English
+2266,8764,Iran,English
+2267,7297,Japan,English
+2268,600,Uganda,English
+2269,5249,Sudan,English
+2270,7092,Japan,English
+2271,2489,Nigeria,English
+2272,3412,Algeria,English
+2273,8704,Tanzania,English
+2274,4983,Turkey,English
+2275,4543,Colombia,English
+2276,4055,Myanmar,English
+2277,2377,Tanzania,English
+2278,5699,Myanmar,English
+2279,2248,United Kingdom,English
+2280,10167,South Africa,English
+2281,1669,Ethiopia,English
+2282,192,United States,English
+2283,57,Iran,English
+2284,9424,United States,English
+2285,4060,Spain,English
+2286,7947,Thailand,English
+2287,1082,Thailand,English
+2288,9228,Ethiopia,English
+2289,1616,South Korea,English
+2290,8023,Tanzania,English
+2291,9753,United Kingdom,English
+2292,5880,South Korea,English
+2293,1344,Ethiopia,English
+2294,10515,Mexico,English
+2295,7979,Iran,English
+2296,7921,Ukraine,English
+2297,8186,Tanzania,English
+2298,640,South Africa,English
+2299,5050,Ethiopia,English
+2300,3645,Russia,English
+2301,6726,Indonesia,English
+2302,5326,Brazil,English
+2303,719,Japan,English
+2304,611,Tanzania,English
+2305,8849,India,English
+2306,223,Russia,English
+2307,5044,United Kingdom,English
+2308,9662,Myanmar,English
+2309,7407,Iran,English
+2310,6005,Turkey,English
+2311,401,Vietnam,English
+2312,9033,Uganda,English
+2313,5663,Ethiopia,English
+2314,2427,Thailand,English
+2315,5056,South Korea,English
+2316,4218,France,English
+2317,1887,South Africa,English
+2318,6215,South Korea,English
+2319,2779,United States,English
+2320,8592,Philippines,English
+2321,4452,Colombia,English
+2322,9480,Sudan,English
+2323,8760,Nigeria,English
+2324,385,Vietnam,English
+2325,8155,Mexico,English
+2326,9345,Argentina,English
+2327,1560,Mexico,English
+2328,2192,Philippines,English
+2329,7586,Kenya,English
+2330,231,Iran,English
+2331,7026,United States,English
+2332,8664,Turkey,English
+2333,7912,Sudan,English
+2334,7578,Egypt,English
+2335,5657,India,English
+2336,4396,Uganda,English
+2337,1615,Tanzania,English
+2338,10147,South Korea,English
+2339,3154,Tanzania,English
+2340,9001,Italy,English
+2341,5311,India,English
+2342,8089,Vietnam,English
+2343,9644,Iran,English
+2344,8431,Nigeria,English
+2345,3516,Spain,English
+2346,9354,China,English
+2347,8791,United Kingdom,English
+2348,1150,Vietnam,English
+2349,3094,Colombia,English
+2350,3926,Argentina,English
+2351,477,United Kingdom,English
+2352,4858,Mexico,English
+2353,8371,Thailand,English
+2354,4381,Bangladesh,English
+2355,4528,Russia,English
+2356,6065,India,English
+2357,5767,Argentina,English
+2358,9233,Philippines,English
+2359,8551,India,English
+2360,10126,Colombia,English
+2361,8469,Nigeria,English
+2362,9775,Indonesia,English
+2363,6275,Bangladesh,English
+2364,7452,Ethiopia,English
+2365,9761,Colombia,English
+2366,3986,Thailand,English
+2367,7945,India,English
+2368,6063,DR Congo,English
+2369,8068,Thailand,English
+2370,8104,Spain,English
+2371,1690,Thailand,English
+2372,8986,Colombia,English
+2373,8468,Indonesia,English
+2374,4569,Colombia,English
+2375,4237,Ukraine,English
+2376,3353,Philippines,English
+2377,2308,India,English
+2378,8628,China,English
+2379,9859,Uganda,English
+2380,10065,Germany,English
+2381,8169,India,English
+2382,2658,Mexico,English
+2383,5025,Thailand,English
+2384,4380,Spain,English
+2385,3618,Kenya,English
+2386,7954,Iran,English
+2387,5273,Myanmar,English
+2388,9031,Nigeria,English
+2389,882,Italy,English
+2390,6803,Argentina,English
+2391,9657,Uganda,English
+2392,6522,China,English
+2393,1952,South Africa,English
+2394,9947,South Korea,English
+2395,3606,Egypt,English
+2396,10296,Vietnam,English
+2397,10109,United States,English
+2398,2108,Germany,English
+2399,8987,Thailand,English
+2400,6842,Sudan,English
+2401,9471,Mexico,English
+2402,1551,Ukraine,English
+2403,4606,Ethiopia,English
+2404,197,Mexico,English
+2405,7382,Brazil,English
+2406,6749,Pakistan,English
+2407,3987,Pakistan,English
+2408,348,Kenya,English
+2409,3143,Ukraine,English
+2410,379,Russia,English
+2411,3254,Germany,English
+2412,8720,China,English
+2413,1732,Japan,English
+2414,9934,France,English
+2415,1116,Germany,English
+2416,6343,Colombia,English
+2417,7565,Sudan,English
+2418,10307,Brazil,English
+2419,1611,Uganda,English
+2420,3681,Thailand,English
+2421,4586,Myanmar,English
+2422,4524,Algeria,English
+2423,5819,Vietnam,English
+2424,9643,Algeria,English
+2425,233,South Korea,English
+2426,5776,Colombia,English
+2427,5920,Uganda,English
+2428,1140,DR Congo,English
+2429,8044,Ukraine,English
+2430,455,Thailand,English
+2431,637,Brazil,English
+2432,4426,United States,English
+2433,5331,Iran,English
+2434,9313,Mexico,English
+2435,6270,Thailand,English
+2436,9073,Japan,English
+2437,4536,Sudan,English
+2438,9869,Egypt,English
+2439,1094,Iran,English
+2440,2581,Ethiopia,English
+2441,918,Japan,English
+2442,1915,Ukraine,English
+2443,7096,Uganda,English
+2444,2426,Philippines,English
+2445,130,France,English
+2446,5710,Argentina,English
+2447,7867,Italy,English
+2448,3041,Bangladesh,English
+2449,2831,Russia,English
+2450,7580,Algeria,English
+2451,8400,Russia,English
+2452,10166,Philippines,English
+2453,2077,Egypt,English
+2454,5332,Mexico,English
+2455,7735,Bangladesh,English
+2456,2311,China,English
+2457,9077,South Korea,English
+2458,1176,Pakistan,English
+2459,2744,Pakistan,English
+2460,5732,Ukraine,English
+2461,487,Indonesia,English
+2462,10088,Italy,English
+2463,9908,United Kingdom,English
+2464,3637,Sudan,English
+2465,4441,Nigeria,English
+2466,3211,South Africa,English
+2467,1179,Brazil,English
+2468,7515,India,English
+2469,5855,Philippines,English
+2470,3246,United Kingdom,English
+2471,375,Russia,English
+2472,7852,Pakistan,English
+2473,9194,Pakistan,English
+2474,3574,Turkey,English
+2475,8753,Uganda,English
+2476,5985,DR Congo,English
+2477,4813,Japan,English
+2478,9181,Thailand,English
+2479,512,Russia,English
+2480,3863,Kenya,English
+2481,6377,Philippines,English
+2482,3150,United States,English
+2483,2106,United States,English
+2484,2758,Japan,English
+2485,7542,India,English
+2486,4228,Spain,English
+2487,362,Spain,English
+2488,2557,Germany,English
+2489,4316,Russia,English
+2490,8274,United Kingdom,English
+2491,6906,United States,English
+2492,2880,Mexico,English
+2493,10492,Ethiopia,English
+2494,517,South Korea,English
+2495,4291,Germany,English
+2496,2942,Brazil,English
+2497,5475,DR Congo,English
+2498,1431,Japan,English
+2499,2259,Japan,English
+2500,4091,Kenya,English
+2501,1278,Nigeria,English
+2502,1631,Ukraine,English
+2503,4539,Mexico,English
+2504,3652,Tanzania,English
+2505,1107,Turkey,English
+2506,5483,Turkey,English
+2507,8973,Brazil,English
+2508,10469,China,English
+2509,2869,Bangladesh,English
+2510,9392,Indonesia,English
+2511,613,Spain,English
+2512,2674,Myanmar,English
+2513,6793,United States,English
+2514,5286,Nigeria,English
+2515,4385,Nigeria,English
+2516,4324,Ethiopia,English
+2517,3704,Thailand,English
+2518,7380,Sudan,English
+2519,1299,Egypt,English
+2520,5138,United States,English
+2521,9777,India,English
+2522,633,Pakistan,English
+2523,7488,Argentina,English
+2524,7791,United States,English
+2525,4015,Myanmar,English
+2526,7990,Egypt,English
+2527,3743,Egypt,English
+2528,3977,United States,English
+2529,10341,France,English
+2530,7249,Turkey,English
+2531,1010,Mexico,English
+2532,443,Germany,English
+2533,9979,Turkey,English
+2534,5127,Egypt,English
+2535,3354,Sudan,English
+2536,8455,Nigeria,English
+2537,9139,Spain,English
+2538,4815,Kenya,English
+2539,4879,Tanzania,English
+2540,5067,China,English
+2541,4961,Algeria,English
+2542,1051,Iran,English
+2543,8182,Thailand,English
+2544,10323,United Kingdom,English
+2545,7022,Ukraine,English
+2546,3971,Thailand,English
+2547,1714,Mexico,English
+2548,9857,Sudan,English
+2549,10138,Kenya,English
+2550,4344,Philippines,English
+2551,5219,Pakistan,English
+2552,1711,Algeria,English
+2553,7032,Philippines,English
+2554,5554,Indonesia,English
+2555,4349,United States,English
+2556,4024,Spain,English
+2557,6778,Colombia,English
+2558,9309,Uganda,English
+2559,323,Russia,English
+2560,2278,Tanzania,English
+2561,706,Indonesia,English
+2562,951,South Africa,English
+2563,6912,Sudan,English
+2564,1729,Tanzania,English
+2565,4937,Italy,English
+2566,2780,China,English
+2567,6795,Algeria,English
+2568,1050,Ukraine,English
+2569,2533,Brazil,English
+2570,603,Philippines,English
+2571,3782,Philippines,English
+2572,3444,Sudan,English
+2573,2252,France,English
+2574,717,South Korea,English
+2575,7768,Egypt,English
+2576,8055,Turkey,English
+2577,10271,Thailand,English
+2578,1087,Colombia,English
+2579,9867,China,English
+2580,1071,Colombia,English
+2581,8007,Turkey,English
+2582,1805,Italy,English
+2583,4264,Italy,English
+2584,8915,Philippines,English
+2585,10496,Bangladesh,English
+2586,5631,Egypt,English
+2587,3114,DR Congo,English
+2588,8372,Bangladesh,English
+2589,2653,Russia,English
+2590,5358,Kenya,English
+2591,9254,Bangladesh,English
+2592,2882,Vietnam,English
+2593,6032,Argentina,English
+2594,9587,Japan,English
+2595,1238,South Korea,English
+2596,5600,Iran,English
+2597,5987,South Korea,English
+2598,1927,Sudan,English
+2599,3093,Uganda,English
+2600,9057,South Africa,English
+2601,8739,Egypt,English
+2602,4166,Colombia,English
+2603,2954,South Africa,English
+2604,5576,United States,English
+2605,815,Tanzania,English
+2606,4848,Italy,English
+2607,6264,Egypt,English
+2608,1216,France,English
+2609,6359,Ethiopia,English
+2610,8125,United Kingdom,English
+2611,3268,Indonesia,English
+2612,1701,Nigeria,English
+2613,1285,Kenya,English
+2614,10283,Italy,English
+2615,5630,DR Congo,English
+2616,4297,Vietnam,English
+2617,363,Spain,English
+2618,2295,Mexico,English
+2619,3969,Nigeria,English
+2620,7315,United Kingdom,English
+2621,8383,Sudan,English
+2622,8220,Philippines,English
+2623,4485,Sudan,English
+2624,5141,Philippines,English
+2625,1617,Turkey,English
+2626,288,Turkey,English
+2627,3605,Russia,English
+2628,3601,Myanmar,English
+2629,8683,Egypt,English
+2630,9103,Bangladesh,English
+2631,7681,Indonesia,English
+2632,2044,Pakistan,English
+2633,1697,China,English
+2634,10219,Colombia,English
+2635,8105,United Kingdom,English
+2636,3005,Egypt,English
+2637,7501,Ukraine,English
+2638,9061,Pakistan,English
+2639,3754,Iran,English
+2640,1660,India,English
+2641,2692,France,English
+2642,2665,Kenya,English
+2643,1810,Spain,English
+2644,8518,Argentina,English
+2645,6027,India,English
+2646,9892,Ukraine,English
+2647,999,Russia,English
+2648,877,Italy,English
+2649,8591,Kenya,English
+2650,8751,DR Congo,English
+2651,7886,Nigeria,English
+2652,3980,France,English
+2653,7111,Mexico,English
+2654,9812,Bangladesh,English
+2655,134,Egypt,English
+2656,2901,DR Congo,English
+2657,1103,Bangladesh,English
+2658,169,Germany,English
+2659,358,DR Congo,English
+2660,9943,Colombia,English
+2661,6981,Mexico,English
+2662,10193,Indonesia,English
+2663,8823,Tanzania,English
+2664,9146,Kenya,English
+2665,1349,Brazil,English
+2666,1565,Bangladesh,English
+2667,881,Germany,English
+2668,2406,Brazil,English
+2669,7072,Iran,English
+2670,2858,Uganda,English
+2671,2853,Myanmar,English
+2672,1505,Tanzania,English
+2673,9204,Philippines,English
+2674,2488,Ethiopia,English
+2675,1628,Argentina,English
+2676,2103,Thailand,English
+2677,10129,Myanmar,English
+2678,10274,Nigeria,English
+2679,5148,Italy,English
+2680,9715,China,English
+2681,236,Ukraine,English
+2682,9028,Mexico,English
+2683,1839,Iran,English
+2684,7573,Germany,English
+2685,6914,South Africa,English
+2686,5049,Myanmar,English
+2687,8162,Sudan,English
+2688,1508,Argentina,English
+2689,8346,Thailand,English
+2690,9035,Sudan,English
+2691,4537,Italy,English
+2692,9527,Turkey,English
+2693,5636,South Africa,English
+2694,5739,Germany,English
+2695,5043,India,English
+2696,4985,Iran,English
+2697,1781,Bangladesh,English
+2698,8903,Ukraine,English
+2699,9188,Thailand,English
+2700,3180,Russia,English
+2701,167,Germany,English
+2702,6786,Egypt,English
+2703,10272,Argentina,English
+2704,5319,Colombia,English
+2705,684,Mexico,English
+2706,9847,Colombia,English
+2707,9388,Italy,English
+2708,1114,Pakistan,English
+2709,7098,South Korea,English
+2710,1037,South Korea,English
+2711,9629,Thailand,English
+2712,5747,Tanzania,English
+2713,2715,Algeria,English
+2714,2000,South Korea,English
+2715,5810,Germany,English
+2716,4200,Mexico,English
+2717,2704,Spain,English
+2718,8905,Russia,English
+2719,8321,Italy,English
+2720,2896,France,English
+2721,6620,Indonesia,English
+2722,4437,Pakistan,English
+2723,3243,South Africa,English
+2724,8543,Kenya,English
+2725,7192,India,English
+2726,3161,DR Congo,English
+2727,3323,Turkey,English
+2728,6874,Philippines,English
+2729,3414,South Korea,English
+2730,8822,Indonesia,English
+2731,8885,Germany,English
+2732,856,Brazil,English
+2733,8153,Indonesia,English
+2734,9046,United States,English
+2735,7067,Brazil,English
+2736,3421,Pakistan,English
+2737,1919,China,English
+2738,281,Mexico,English
+2739,6060,Italy,English
+2740,869,Brazil,English
+2741,3939,Nigeria,English
+2742,8721,Uganda,English
+2743,2341,DR Congo,English
+2744,8745,Colombia,English
+2745,8173,Algeria,English
+2746,7465,Vietnam,English
+2747,8761,Brazil,English
+2748,8064,Sudan,English
+2749,7930,Spain,English
+2750,2110,Myanmar,English
+2751,5371,Argentina,English
+2752,7226,Mexico,English
+2753,4428,Japan,English
+2754,128,Pakistan,English
+2755,1392,Kenya,English
+2756,1931,Spain,English
+2757,2963,Vietnam,English
+2758,4326,Myanmar,English
+2759,5041,United States,English
+2760,8028,Mexico,English
+2761,7028,France,English
+2762,8863,Vietnam,English
+2763,8341,Ethiopia,English
+2764,784,Iran,English
+2765,1427,Bangladesh,English
+2766,3273,Germany,English
+2767,6013,France,English
+2768,8912,South Africa,English
+2769,3194,Argentina,English
+2770,7706,Bangladesh,English
+2771,5243,Brazil,English
+2772,1269,Indonesia,English
+2773,3781,United Kingdom,English
+2774,3253,DR Congo,English
+2775,4875,Argentina,English
+2776,7359,Brazil,English
+2777,8175,Brazil,English
+2778,916,United Kingdom,English
+2779,6661,India,English
+2780,2983,Italy,English
+2781,10236,Russia,English
+2782,8466,Pakistan,English
+2783,5527,United Kingdom,English
+2784,1313,Sudan,English
+2785,4568,United Kingdom,English
+2786,2059,Pakistan,English
+2787,2753,Iran,English
+2788,5715,Ukraine,English
+2789,9117,Ethiopia,English
+2790,3823,Algeria,English
+2791,4446,Vietnam,English
+2792,6643,Algeria,English
+2793,2761,Tanzania,English
+2794,7420,Ethiopia,English
+2795,7219,Colombia,English
+2796,7989,Philippines,English
+2797,4190,Kenya,English
+2798,1380,South Korea,English
+2799,4934,DR Congo,English
+2800,1816,Turkey,English
+2801,2437,Ethiopia,English
+2802,8502,United States,English
+2803,24,Russia,English
+2804,5486,United Kingdom,English
+2805,844,France,English
+2806,3819,Mexico,English
+2807,10489,Algeria,English
+2808,3928,Ukraine,English
+2809,6834,Russia,English
+2810,6812,Turkey,English
+2811,1409,South Korea,English
+2812,4244,Italy,English
+2813,8037,United Kingdom,English
+2814,5779,Uganda,English
+2815,6532,Japan,English
+2816,4540,South Korea,English
+2817,6761,Argentina,English
+2818,4605,Vietnam,English
+2819,1963,United Kingdom,English
+2820,1959,Mexico,English
+2821,10216,Spain,English
+2822,9684,Bangladesh,English
+2823,836,Brazil,English
+2824,4423,South Korea,English
+2825,788,Ukraine,English
+2826,10004,Mexico,English
+2827,7087,Pakistan,English
+2828,2635,Sudan,English
+2829,9607,France,English
+2830,6204,Spain,English
+2831,3686,Algeria,English
+2832,6733,Pakistan,English
+2833,8561,Mexico,English
+2834,2711,Thailand,English
+2835,525,Tanzania,English
+2836,7152,Sudan,English
+2837,6098,Russia,English
+2838,3706,Ethiopia,English
+2839,7502,Colombia,English
+2840,8325,Vietnam,English
+2841,3190,Myanmar,English
+2842,9731,South Africa,English
+2843,4257,Myanmar,English
+2844,7803,China,English
+2845,47,Uganda,English
+2846,6835,China,English
+2847,2284,Philippines,English
+2848,9075,Philippines,English
+2849,1655,Turkey,English
+2850,3901,Spain,English
+2851,9909,South Africa,English
+2852,9770,Myanmar,English
+2853,1214,United States,English
+2854,435,South Africa,English
+2855,9081,Myanmar,English
+2856,2664,DR Congo,English
+2857,7809,Italy,English
+2858,10145,Myanmar,English
+2859,2203,India,English
+2860,6519,Myanmar,English
+2861,1033,Algeria,English
+2862,7751,Thailand,English
+2863,8010,Iran,English
+2864,505,Egypt,English
+2865,10343,Nigeria,English
+2866,1434,Japan,English
+2867,2585,China,English
+2868,34,Ethiopia,English
+2869,8777,Colombia,English
+2870,3496,Turkey,English
+2871,1156,Argentina,English
+2872,619,Brazil,English
+2873,5101,Myanmar,English
+2874,3238,Russia,English
+2875,7882,Germany,English
+2876,4656,United Kingdom,English
+2877,4593,Pakistan,English
+2878,183,Philippines,English
+2879,9100,Russia,English
+2880,4953,Indonesia,English
+2881,1151,Thailand,English
+2882,9056,Myanmar,English
+2883,5770,Vietnam,English
+2884,18,Colombia,English
+2885,1351,Nigeria,English
+2886,5684,Turkey,English
+2887,3944,Algeria,English
+2888,7357,Japan,English
+2889,3285,Thailand,English
+2890,4760,Pakistan,English
+2891,1265,Bangladesh,English
+2892,1939,Brazil,English
+2893,7545,Kenya,English
+2894,4308,United States,English
+2895,432,Germany,English
+2896,4065,Tanzania,English
+2897,842,Tanzania,English
+2898,8066,Algeria,English
+2899,1668,India,English
+2900,4491,Brazil,English
+2901,8352,Japan,English
+2902,4583,Iran,English
+2903,6120,Spain,English
+2904,5392,South Africa,English
+2905,692,Tanzania,English
+2906,9531,Brazil,English
+2907,4787,Brazil,English
+2908,2382,South Africa,English
+2909,10390,Colombia,English
+2910,6670,Italy,English
+2911,1566,Tanzania,English
+2912,5500,Japan,English
+2913,9184,Algeria,English
+2914,4146,Algeria,English
+2915,2404,Italy,English
+2916,2626,Iran,English
+2917,8276,Japan,English
+2918,588,Thailand,English
+2919,8423,Algeria,English
+2920,496,Uganda,English
+2921,9936,DR Congo,English
+2922,8012,United Kingdom,English
+2923,4142,Spain,English
+2924,7378,Myanmar,English
+2925,5241,Japan,English
+2926,5175,Algeria,English
+2927,4293,Mexico,English
+2928,3278,Bangladesh,English
+2929,3438,Nigeria,English
+2930,7634,Brazil,English
+2931,9222,France,English
+2932,9058,DR Congo,English
+2933,726,Spain,English
+2934,8896,Myanmar,English
+2935,9762,France,English
+2936,2724,Sudan,English
+2937,4695,United States,English
+2938,4824,Ethiopia,English
+2939,93,India,English
+2940,5292,Egypt,English
+2941,1645,Sudan,English
+2942,7903,United States,English
+2943,8911,South Korea,English
+2944,6002,United Kingdom,English
+2945,3522,Colombia,English
+2946,5359,South Korea,English
+2947,342,Argentina,English
+2948,3783,United States,English
+2949,5951,Turkey,English
+2950,5705,Argentina,English
+2951,9301,Egypt,English
+2952,7550,DR Congo,English
+2953,4230,Russia,English
+2954,2263,Tanzania,English
+2955,3281,DR Congo,English
+2956,7059,DR Congo,English
+2957,3152,Colombia,English
+2958,7598,Turkey,English
+2959,1582,Turkey,English
+2960,2523,South Korea,English
+2961,7178,Myanmar,English
+2962,6529,Turkey,English
+2963,8109,Italy,English
+2964,403,United States,English
+2965,3418,Egypt,English
+2966,3457,South Africa,English
+2967,2182,Kenya,English
+2968,2362,Argentina,English
+2969,1405,Russia,English
+2970,1586,Indonesia,English
+2971,4473,China,English
+2972,2347,Bangladesh,English
+2973,6806,United States,English
+2974,10377,Egypt,English
+2975,2919,China,English
+2976,7126,Iran,English
+2977,6570,Iran,English
+2978,4302,United States,English
+2979,7988,Philippines,English
+2980,1306,France,English
+2981,10393,Ukraine,English
+2982,4990,Nigeria,English
+2983,1217,Bangladesh,English
+2984,5459,Mexico,English
+2985,6881,Italy,English
+2986,2824,Uganda,English
+2987,8267,India,English
+2988,5507,Ukraine,English
+2989,5493,Indonesia,English
+2990,991,Algeria,English
+2991,6217,United Kingdom,English
+2992,2223,Germany,English
+2993,1229,France,English
+2994,1023,Mexico,English
+2995,5894,United Kingdom,English
+2996,4011,Germany,English
+2997,3509,Colombia,English
+2998,10286,Spain,English
+2999,9197,South Africa,English
+3000,7473,Turkey,English
+3001,6266,Indonesia,English
+3002,9944,Sudan,English
+3003,9840,Ethiopia,English
+3004,1716,Brazil,English
+3005,840,Spain,English
+3006,8953,Japan,English
+3007,5887,Brazil,English
+3008,2082,Spain,English
+3009,7144,Kenya,English
+3010,5741,Pakistan,English
+3011,3219,Philippines,English
+3012,8402,Myanmar,English
+3013,1924,Kenya,English
+3014,9692,Nigeria,English
+3015,3580,Germany,English
+3016,4697,Ukraine,English
+3017,4928,Mexico,English
+3018,9971,Japan,English
+3019,1315,China,English
+3020,9235,Pakistan,English
+3021,3963,South Africa,English
+3022,6375,Brazil,English
+3023,9704,United Kingdom,English
+3024,6994,Pakistan,English
+3025,1366,Brazil,English
+3026,6681,Kenya,English
+3027,7668,Uganda,English
+3028,5143,Russia,English
+3029,6755,Thailand,English
+3030,6117,Germany,English
+3031,4791,France,English
+3032,8650,Ukraine,English
+3033,680,Philippines,English
+3034,9703,Italy,English
+3035,6486,France,English
+3036,4900,France,English
+3037,9454,Indonesia,English
+3038,1942,Ethiopia,English
+3039,8924,Russia,English
+3040,10474,Sudan,English
+3041,6458,Japan,English
+3042,7949,Pakistan,English
+3043,716,Egypt,English
+3044,3153,United Kingdom,English
+3045,647,Italy,English
+3046,6548,United Kingdom,English
+3047,4334,Ukraine,English
+3048,1769,Brazil,English
+3049,117,Kenya,English
+3050,6647,Philippines,English
+3051,196,Turkey,English
+3052,1548,Argentina,English
+3053,9334,Colombia,English
+3054,5259,Spain,English
+3055,6709,Japan,English
+3056,566,Algeria,English
+3057,7797,United Kingdom,English
+3058,6645,Myanmar,English
+3059,339,Vietnam,English
+3060,10514,Tanzania,English
+3061,3321,Bangladesh,English
+3062,10149,Colombia,English
+3063,4339,Sudan,English
+3064,5883,Egypt,English
+3065,3832,Algeria,English
+3066,572,Sudan,English
+3067,8775,Russia,English
+3068,1125,Vietnam,English
+3069,4131,Russia,English
+3070,3840,United States,English
+3071,7696,Brazil,English
+3072,2255,Germany,English
+3073,5367,DR Congo,English
+3074,3689,Egypt,English
+3075,8829,India,English
+3076,3063,Sudan,English
+3077,1547,Japan,English
+3078,9025,Bangladesh,English
+3079,4271,China,English
+3080,4183,Algeria,English
+3081,4160,Vietnam,English
+3082,7678,Myanmar,English
+3083,1397,Ukraine,English
+3084,5730,Turkey,English
+3085,10425,Pakistan,English
+3086,6624,DR Congo,English
+3087,8457,Colombia,English
+3088,4864,Argentina,English
+3089,6274,Japan,English
+3090,9356,Mexico,English
+3091,6902,Russia,English
+3092,9743,Thailand,English
+3093,3289,South Africa,English
+3094,407,Ukraine,English
+3095,6765,Kenya,English
+3096,6097,Vietnam,English
+3097,10057,Japan,English
+3098,1853,Argentina,English
+3099,950,Tanzania,English
+3100,8701,United Kingdom,English
+3101,1708,Algeria,English
+3102,2051,Pakistan,English
+3103,9500,Italy,English
+3104,8027,Algeria,English
+3105,8545,Myanmar,English
+3106,136,France,English
+3107,7208,Uganda,English
+3108,8799,United States,English
+3109,3990,Argentina,English
+3110,8748,Philippines,English
+3111,10135,United States,English
+3112,2008,United States,English
+3113,9893,Algeria,English
+3114,9113,South Korea,English
+3115,7441,United Kingdom,English
+3116,7211,South Korea,English
+3117,5066,Thailand,English
+3118,3639,Ethiopia,English
+3119,8191,Colombia,English
+3120,6280,Egypt,English
+3121,2833,South Korea,English
+3122,3478,India,English
+3123,5222,France,English
+3124,1250,Nigeria,English
+3125,6252,United Kingdom,English
+3126,855,Uganda,English
+3127,9273,Philippines,English
+3128,6625,Nigeria,English
+3129,5934,Russia,English
+3130,6717,South Korea,English
+3131,10234,India,English
+3132,9206,China,English
+3133,10269,Sudan,English
+3134,6400,DR Congo,English
+3135,1223,Brazil,English
+3136,8530,DR Congo,English
+3137,7755,Egypt,English
+3138,3590,Kenya,English
+3139,10187,Indonesia,English
+3140,3898,Pakistan,English
+3141,2816,Philippines,English
+3142,883,Egypt,English
+3143,3671,Japan,English
+3144,8845,Spain,English
+3145,2502,Algeria,English
+3146,7153,Uganda,English
+3147,3117,Spain,English
+3148,3834,Colombia,English
+3149,9875,India,English
+3150,4109,Pakistan,English
+3151,7660,Germany,English
+3152,3884,China,English
+3153,9884,France,English
+3154,4599,Mexico,English
+3155,5347,Uganda,English
+3156,5048,DR Congo,English
+3157,80,France,English
+3158,9393,United States,English
+3159,4033,India,English
+3160,2195,Algeria,English
+3161,8942,Germany,English
+3162,6919,Vietnam,English
+3163,9584,Japan,English
+3164,8508,United States,English
+3165,63,Argentina,English
+3166,2323,Thailand,English
+3167,2367,India,English
+3168,4259,Japan,English
+3169,4972,Ethiopia,English
+3170,294,Argentina,English
+3171,2657,Kenya,English
+3172,9853,Italy,English
+3173,8920,United Kingdom,English
+3174,6927,United States,English
+3175,8260,South Korea,English
+3176,686,Indonesia,English
+3177,3514,Argentina,English
+3178,7848,France,English
+3179,8708,Thailand,English
+3180,5519,United Kingdom,English
+3181,2815,Vietnam,English
+3182,9628,Vietnam,English
+3183,4062,DR Congo,English
+3184,5099,Pakistan,English
+3185,2161,Ethiopia,English
+3186,7312,South Korea,English
+3187,2554,Turkey,English
+3188,7605,Japan,English
+3189,8051,Spain,English
+3190,2542,Indonesia,English
+3191,3373,United Kingdom,English
+3192,9410,Algeria,English
+3193,7360,China,English
+3194,2116,Bangladesh,English
+3195,2654,Colombia,English
+3196,5119,Tanzania,English
+3197,355,Argentina,English
+3198,1339,Ukraine,English
+3199,8378,South Africa,English
+3200,5068,Sudan,English
+3201,6597,Russia,English
+3202,7467,Nigeria,English
+3203,5822,South Africa,English
+3204,4729,Philippines,English
+3205,1588,Tanzania,English
+3206,4722,Sudan,English
+3207,7838,Argentina,English
+3208,531,Colombia,English
+3209,4931,France,English
+3210,2943,Nigeria,English
+3211,3953,Algeria,English
+3212,1922,Sudan,English
+3213,2485,Mexico,English
+3214,3642,Bangladesh,English
+3215,6289,United States,English
+3216,9734,Japan,English
+3217,9664,Argentina,English
+3218,9755,Italy,English
+3219,2074,South Africa,English
+3220,2577,Algeria,English
+3221,9383,Myanmar,English
+3222,5905,Myanmar,English
+3223,8513,United States,English
+3224,7229,South Africa,English
+3225,4150,Kenya,English
+3226,6104,South Korea,English
+3227,6657,United States,English
+3228,3791,Tanzania,English
+3229,10268,Thailand,English
+3230,5529,Vietnam,English
+3231,8248,Ukraine,English
+3232,6788,Argentina,English
+3233,3670,Indonesia,English
+3234,9667,China,English
+3235,6157,Bangladesh,English
+3236,6667,Egypt,English
+3237,2639,Indonesia,English
+3238,1060,Germany,English
+3239,5777,Ukraine,English
+3240,468,Uganda,English
+3241,8360,Iran,English
+3242,526,United Kingdom,English
+3243,5624,Kenya,English
+3244,4971,Pakistan,English
+3245,1288,DR Congo,English
+3246,2242,Spain,English
+3247,5458,Indonesia,English
+3248,5256,Mexico,English
+3249,10355,Kenya,English
+3250,5442,Germany,English
+3251,1439,France,English
+3252,2528,Ethiopia,English
+3253,1331,Pakistan,English
+3254,4162,Ethiopia,English
+3255,9450,Kenya,English
+3256,1913,Nigeria,English
+3257,4700,Thailand,English
+3258,2676,Brazil,English
+3259,5216,DR Congo,English
+3260,9802,Germany,English
+3261,720,Spain,English
+3262,21,Bangladesh,English
+3263,6669,Indonesia,English
+3264,4551,Algeria,English
+3265,9072,Colombia,English
+3266,6024,Spain,English
+3267,789,Brazil,English
+3268,3372,Philippines,English
+3269,2363,United Kingdom,English
+3270,5807,France,English
+3271,8669,Ethiopia,English
+3272,2464,South Africa,English
+3273,5228,China,English
+3274,5774,Tanzania,English
+3275,7883,Sudan,English
+3276,6207,Algeria,English
+3277,7626,Bangladesh,English
+3278,1526,Spain,English
+3279,5151,United Kingdom,English
+3280,5375,Bangladesh,English
+3281,9891,United Kingdom,English
+3282,9191,Italy,English
+3283,9958,Vietnam,English
+3284,4203,Sudan,English
+3285,2300,Philippines,English
+3286,9746,Philippines,English
+3287,2997,Algeria,English
+3288,8834,Spain,English
+3289,2151,Myanmar,English
+3290,2169,Sudan,English
+3291,10164,Pakistan,English
+3292,3056,Pakistan,English
+3293,8238,Algeria,English
+3294,7262,Sudan,English
+3295,1634,South Africa,English
+3296,10416,Bangladesh,English
+3297,10020,Mexico,English
+3298,1943,Indonesia,English
+3299,5452,Russia,English
+3300,10192,India,English
+3301,1762,Brazil,English
+3302,6260,France,English
+3303,1976,South Africa,English
+3304,4585,Egypt,English
+3305,5745,Vietnam,English
+3306,8670,Sudan,English
+3307,845,Thailand,English
+3308,9688,Argentina,English
+3309,222,France,English
+3310,4300,United States,English
+3311,5646,Spain,English
+3312,6542,Mexico,English
+3313,9321,Brazil,English
+3314,4602,Nigeria,English
+3315,8237,Colombia,English
+3316,5543,Iran,English
+3317,3132,Nigeria,English
+3318,8707,Tanzania,English
+3319,5999,Spain,English
+3320,8079,United Kingdom,English
+3321,6073,China,English
+3322,119,Russia,English
+3323,6019,Philippines,English
+3324,2399,United Kingdom,English
+3325,5852,Pakistan,English
+3326,6138,Egypt,English
+3327,5421,United States,English
+3328,9343,Myanmar,English
+3329,8660,Germany,English
+3330,1043,United States,English
+3331,1620,South Africa,English
+3332,6188,Uganda,English
+3333,4276,Egypt,English
+3334,7527,Uganda,English
+3335,3960,South Africa,English
+3336,1356,Algeria,English
+3337,6230,Ethiopia,English
+3338,928,Egypt,English
+3339,2194,Egypt,English
+3340,5250,Ukraine,English
+3341,7346,Brazil,English
+3342,6434,Russia,English
+3343,4671,Iran,English
+3344,6467,Mexico,English
+3345,1878,Kenya,English
+3346,1525,Brazil,English
+3347,5662,Ethiopia,English
+3348,4265,Uganda,English
+3349,771,Thailand,English
+3350,5427,Russia,English
+3351,161,France,English
+3352,4083,Ethiopia,English
+3353,9305,India,English
+3354,6072,Egypt,English
+3355,7551,Algeria,English
+3356,8754,Nigeria,English
+3357,5154,Myanmar,English
+3358,9170,Myanmar,English
+3359,3894,Iran,English
+3360,8344,Egypt,English
+3361,8656,Colombia,English
+3362,749,Uganda,English
+3363,9488,Indonesia,English
+3364,2412,Indonesia,English
+3365,7800,Kenya,English
+3366,9719,Tanzania,English
+3367,3659,India,English
+3368,513,Philippines,English
+3369,4859,Russia,English
+3370,9351,India,English
+3371,9600,Sudan,English
+3372,5248,United States,English
+3373,2851,Pakistan,English
+3374,5915,India,English
+3375,10209,Ethiopia,English
+3376,4453,Philippines,English
+3377,8035,South Africa,English
+3378,5213,Colombia,English
+3379,4762,Indonesia,English
+3380,7664,Sudan,English
+3381,5461,Ukraine,English
+3382,2267,Tanzania,English
+3383,793,Nigeria,English
+3384,2923,Bangladesh,English
+3385,6419,Thailand,English
+3386,10409,Iran,English
+3387,5825,South Africa,English
+3388,5014,Nigeria,English
+3389,1778,Brazil,English
+3390,5605,Nigeria,English
+3391,4269,Mexico,English
+3392,9213,South Korea,English
+3393,921,Indonesia,English
+3394,9879,Ukraine,English
+3395,4895,Russia,English
+3396,655,Sudan,English
+3397,2024,Indonesia,English
+3398,10098,Vietnam,English
+3399,866,United States,English
+3400,3009,France,English
+3401,1213,Tanzania,English
+3402,7442,United Kingdom,English
+3403,4782,Bangladesh,English
+3404,2698,DR Congo,English
+3405,8718,Germany,English
+3406,1090,Argentina,English
+3407,7197,Uganda,English
+3408,627,Myanmar,English
+3409,8679,Nigeria,English
+3410,4481,Italy,English
+3411,8091,South Africa,English
+3412,3269,South Africa,English
+3413,9955,Algeria,English
+3414,6631,Ethiopia,English
+3415,4496,Argentina,English
+3416,8277,Spain,English
+3417,8137,Algeria,English
+3418,1099,Algeria,English
+3419,6543,South Africa,English
+3420,1808,Tanzania,English
+3421,44,Uganda,English
+3422,10189,India,English
+3423,8268,Thailand,English
+3424,2531,Bangladesh,English
+3425,7397,United Kingdom,English
+3426,3775,Algeria,English
+3427,3613,Bangladesh,English
+3428,8386,Turkey,English
+3429,2286,Japan,English
+3430,5609,Pakistan,English
+3431,3619,Ethiopia,English
+3432,10484,Pakistan,English
+3433,4792,United Kingdom,English
+3434,2472,United States,English
+3435,10317,Russia,English
+3436,5765,Spain,English
+3437,1591,Uganda,English
+3438,5395,DR Congo,English
+3439,699,France,English
+3440,5072,Ukraine,English
+3441,10288,India,English
+3442,7687,Algeria,English
+3443,1998,France,English
+3444,1621,South Africa,English
+3445,5301,Brazil,English
+3446,100,Italy,English
+3447,7798,Thailand,English
+3448,2985,Bangladesh,English
+3449,10281,Iran,English
+3450,1028,Egypt,English
+3451,4448,Philippines,English
+3452,3765,Uganda,English
+3453,4254,Thailand,English
+3454,1340,Vietnam,English
+3455,4947,United Kingdom,English
+3456,9694,Kenya,English
+3457,6067,Nigeria,English
+3458,270,Ukraine,English
+3459,234,South Korea,English
+3460,3505,Sudan,English
+3461,1949,Nigeria,English
+3462,3235,DR Congo,English
+3463,2900,Argentina,English
+3464,8932,Japan,English
+3465,623,Argentina,English
+3466,9609,United Kingdom,English
+3467,6738,Argentina,English
+3468,4840,Uganda,English
+3469,8926,South Korea,English
+3470,5857,Mexico,English
+3471,2361,Egypt,English
+3472,4394,Sudan,English
+3473,354,Ukraine,English
+3474,6500,Spain,English
+3475,7265,France,English
+3476,307,Spain,English
+3477,4374,Sudan,English
+3478,3624,Indonesia,English
+3479,9907,Turkey,English
+3480,8014,DR Congo,English
+3481,110,South Africa,English
+3482,7428,Ethiopia,English
+3483,10287,Ukraine,English
+3484,2175,Uganda,English
+3485,272,Algeria,English
+3486,8563,Vietnam,English
+3487,8334,DR Congo,English
+3488,2048,Turkey,English
+3489,1751,Ethiopia,English
+3490,7350,France,English
+3491,5362,Egypt,English
+3492,1643,Russia,English
+3493,8016,India,English
+3494,6876,Turkey,English
+3495,2540,United Kingdom,English
+3496,4256,Vietnam,English
+3497,4660,India,English
+3498,4075,Bangladesh,English
+3499,8921,Thailand,English
+3500,1818,China,English
+3501,3696,Brazil,English
+3502,1614,Iran,English
+3503,10091,Tanzania,English
+3504,4768,Colombia,English
+3505,140,United States,English
+3506,3193,South Africa,English
+3507,3564,Uganda,English
+3508,5457,Algeria,English
+3509,1352,Philippines,English
+3510,10419,Argentina,English
+3511,8240,DR Congo,English
+3512,2158,Nigeria,English
+3513,5433,France,English
+3514,10006,Pakistan,English
+3515,9985,Brazil,English
+3516,2729,Thailand,English
+3517,8217,Algeria,English
+3518,1715,Argentina,English
+3519,2773,Bangladesh,English
+3520,3733,Philippines,English
+3521,2722,Pakistan,English
+3522,1161,Algeria,English
+3523,683,France,English
+3524,7548,Colombia,English
+3525,481,Thailand,English
+3526,1917,United States,English
+3527,10258,Japan,English
+3528,3141,Colombia,English
+3529,7650,Thailand,English
+3530,1021,China,English
+3531,10452,Turkey,English
+3532,1358,Ukraine,English
+3533,9288,Pakistan,English
+3534,79,Pakistan,English
+3535,5676,Uganda,English
+3536,8532,United Kingdom,English
+3537,6268,Egypt,English
+3538,4659,Sudan,English
+3539,1549,Vietnam,English
+3540,6322,Argentina,English
+3541,4912,Spain,English
+3542,5052,Indonesia,English
+3543,6757,Tanzania,English
+3544,1384,Argentina,English
+3545,7845,Philippines,English
+3546,4685,Bangladesh,English
+3547,3810,Turkey,English
+3548,5946,Philippines,English
+3549,8161,France,English
+3550,2326,South Korea,English
+3551,3692,Ukraine,English
+3552,4450,South Africa,English
+3553,4002,Ethiopia,English
+3554,6409,Iran,English
+3555,298,Argentina,English
+3556,1225,France,English
+3557,919,United States,English
+3558,9415,Myanmar,English
+3559,3128,Germany,English
+3560,7328,India,English
+3561,9900,Algeria,English
+3562,3175,Pakistan,English
+3563,2655,Uganda,English
+3564,1561,South Korea,English
+3565,5949,Sudan,English
+3566,1720,Thailand,English
+3567,1618,Argentina,English
+3568,2244,United States,English
+3569,2648,Turkey,English
+3570,7857,Bangladesh,English
+3571,5139,Uganda,English
+3572,7495,South Korea,English
+3573,796,United Kingdom,English
+3574,7451,Pakistan,English
+3575,9916,Argentina,English
+3576,4560,South Korea,English
+3577,9368,Japan,English
+3578,2738,Mexico,English
+3579,3109,Philippines,English
+3580,4383,Brazil,English
+3581,8687,Indonesia,English
+3582,320,Iran,English
+3583,1319,DR Congo,English
+3584,4940,France,English
+3585,8381,Argentina,English
+3586,7369,United Kingdom,English
+3587,3842,Brazil,English
+3588,3151,Nigeria,English
+3589,2826,China,English
+3590,7528,South Korea,English
+3591,3232,Indonesia,English
+3592,1914,South Korea,English
+3593,6764,United Kingdom,English
+3594,4280,Algeria,English
+3595,1198,Uganda,English
+3596,6064,Italy,English
+3597,5368,Thailand,English
+3598,6054,Russia,English
+3599,675,Vietnam,English
+3600,3562,DR Congo,English
+3601,4278,South Korea,English
+3602,3055,Thailand,English
+3603,2862,Iran,English
+3604,9012,Ukraine,English
+3605,5079,Brazil,English
+3606,4231,India,English
+3607,6321,Italy,English
+3608,3935,Egypt,English
+3609,695,Kenya,English
+3610,1840,Bangladesh,English
+3611,1982,Uganda,English
+3612,201,Thailand,English
+3613,6147,Philippines,English
+3614,2104,Germany,English
+3615,3527,Thailand,English
+3616,4443,Tanzania,English
+3617,7581,France,English
+3618,2372,Ethiopia,English
+3619,6112,Pakistan,English
+3620,2958,Japan,English
+3621,9446,DR Congo,English
+3622,1440,Italy,English
+3623,7497,Colombia,English
+3624,9274,Turkey,English
+3625,4684,Tanzania,English
+3626,8477,United Kingdom,English
+3627,3184,South Korea,English
+3628,2887,Uganda,English
+3629,2610,Iran,English
+3630,2288,Tanzania,English
+3631,412,Tanzania,English
+3632,6068,Colombia,English
+3633,1673,Ethiopia,English
+3634,1458,Spain,English
+3635,9989,Algeria,English
+3636,3387,Turkey,English
+3637,3294,Philippines,English
+3638,4954,France,English
+3639,3728,Japan,English
+3640,9632,Italy,English
+3641,7048,Myanmar,English
+3642,9070,Brazil,English
+3643,9157,Ethiopia,English
+3644,6392,Pakistan,English
+3645,9668,Argentina,English
+3646,3907,United Kingdom,English
+3647,8221,South Korea,English
+3648,7071,Thailand,English
+3649,4025,Vietnam,English
+3650,2067,Thailand,English
+3651,1371,Bangladesh,English
+3652,10344,India,English
+3653,1926,Ethiopia,English
+3654,7657,Turkey,English
+3655,9800,Turkey,English
+3656,6599,Italy,English
+3657,8588,Ethiopia,English
+3658,2535,DR Congo,English
+3659,9972,China,English
+3660,2466,South Africa,English
+3661,5158,Brazil,English
+3662,8557,United Kingdom,English
+3663,2282,Kenya,English
+3664,5053,France,English
+3665,1515,Pakistan,English
+3666,4445,Colombia,English
+3667,2315,Brazil,English
+3668,6454,Philippines,English
+3669,4213,Myanmar,English
+3670,372,United Kingdom,English
+3671,826,India,English
+3672,54,Vietnam,English
+3673,8020,Ukraine,English
+3674,4022,Italy,English
+3675,3407,Pakistan,English
+3676,6544,Italy,English
+3677,9267,United Kingdom,English
+3678,8758,United States,English
+3679,2238,Argentina,English
+3680,4678,Ukraine,English
+3681,10297,Bangladesh,English
+3682,5460,Pakistan,English
+3683,8351,Italy,English
+3684,5809,Nigeria,English
+3685,8441,Tanzania,English
+3686,3874,Argentina,English
+3687,592,Russia,English
+3688,2605,Tanzania,English
+3689,8184,Uganda,English
+3690,6734,Brazil,English
+3691,2331,Germany,English
+3692,9018,Egypt,English
+3693,6330,DR Congo,English
+3694,4505,Turkey,English
+3695,7424,Myanmar,English
+3696,1512,Tanzania,English
+3697,3820,Iran,English
+3698,4382,Japan,English
+3699,1425,Turkey,English
+3700,6732,Italy,English
+3701,2213,China,English
+3702,6705,United States,English
+3703,7603,Colombia,English
+3704,7980,South Africa,English
+3705,1123,Egypt,English
+3706,9954,South Korea,English
+3707,9371,Nigeria,English
+3708,7690,France,English
+3709,8148,Myanmar,English
+3710,5975,Colombia,English
+3711,10473,DR Congo,English
+3712,10540,France,English
+3713,4168,Nigeria,English
+3714,4279,Argentina,English
+3715,2465,Kenya,English
+3716,1492,Tanzania,English
+3717,6604,Russia,English
+3718,6386,Germany,English
+3719,6805,France,English
+3720,8972,Mexico,English
+3721,10533,Myanmar,English
+3722,9992,Turkey,English
+3723,4187,Japan,English
+3724,870,Argentina,English
+3725,7031,Japan,English
+3726,2904,Russia,English
+3727,4887,Ethiopia,English
+3728,4338,Algeria,English
+3729,2176,Italy,English
+3730,7843,Nigeria,English
+3731,75,Pakistan,English
+3732,2647,Ukraine,English
+3733,3983,Ukraine,English
+3734,6402,Philippines,English
+3735,9690,Philippines,English
+3736,7213,Tanzania,English
+3737,7821,Myanmar,English
+3738,3966,Colombia,English
+3739,4924,Thailand,English
+3740,2396,Japan,English
+3741,7164,Thailand,English
+3742,352,Japan,English
+3743,7284,Kenya,English
+3744,1550,Sudan,English
+3745,4182,Indonesia,English
+3746,3989,Nigeria,English
+3747,1925,South Africa,English
+3748,7112,Ukraine,English
+3749,2428,Myanmar,English
+3750,9047,Mexico,English
+3751,6578,DR Congo,English
+3752,1961,Japan,English
+3753,3929,DR Congo,English
+3754,8990,Philippines,English
+3755,4314,Bangladesh,English
+3756,4785,Turkey,English
+3757,3822,Brazil,English
+3758,4521,Argentina,English
+3759,2967,Turkey,English
+3760,6296,Bangladesh,English
+3761,1373,Bangladesh,English
+3762,9484,Mexico,English
+3763,10078,Argentina,English
+3764,3260,Tanzania,English
+3765,9642,United States,English
+3766,10058,DR Congo,English
+3767,8490,Sudan,English
+3768,897,South Africa,English
+3769,6134,Japan,English
+3770,1355,Germany,English
+3771,1148,DR Congo,English
+3772,4312,United Kingdom,English
+3773,8677,South Korea,English
+3774,3359,Kenya,English
+3775,2559,Turkey,English
+3776,10038,South Africa,English
+3777,9583,Japan,English
+3778,9478,Egypt,English
+3779,6334,Italy,English
+3780,5263,India,English
+3781,5882,Germany,English
+3782,1603,Nigeria,English
+3783,9144,Colombia,English
+3784,862,United Kingdom,English
+3785,8747,Italy,English
+3786,5160,Philippines,English
+3787,7386,Uganda,English
+3788,4185,Mexico,English
+3789,4835,Argentina,English
+3790,10068,Mexico,English
+3791,10053,Iran,English
+3792,8222,Bangladesh,English
+3793,803,Russia,English
+3794,6610,Myanmar,English
+3795,5423,Turkey,English
+3796,9085,Spain,English
+3797,1491,Myanmar,English
+3798,816,Russia,English
+3799,503,France,English
+3800,785,Colombia,English
+3801,2440,United Kingdom,English
+3802,8243,Japan,English
+3803,2721,France,English
+3804,3092,Myanmar,English
+3805,2793,Ethiopia,English
+3806,6512,Russia,English
+3807,7083,Turkey,English
+3808,6796,United States,English
+3809,7805,Egypt,English
+3810,2686,Vietnam,English
+3811,9987,Japan,English
+3812,5789,Italy,English
+3813,7825,Italy,English
+3814,3538,South Korea,English
+3815,6363,Germany,English
+3816,4205,Kenya,English
+3817,6875,United States,English
+3818,3307,Ukraine,English
+3819,1953,DR Congo,English
+3820,8818,Tanzania,English
+3821,5446,Kenya,English
+3822,9931,Tanzania,English
+3823,4827,South Korea,English
+3824,3430,Myanmar,English
+3825,6853,Mexico,English
+3826,6349,India,English
+3827,7034,Ukraine,English
+3828,3528,Uganda,English
+3829,2972,Philippines,English
+3830,4085,Nigeria,English
+3831,2741,Turkey,English
+3832,6263,Italy,English
+3833,2026,Uganda,English
+3834,9312,Egypt,English
+3835,6526,Nigeria,English
+3836,6571,Myanmar,English
+3837,4018,Ethiopia,English
+3838,3131,South Africa,English
+3839,8698,Indonesia,English
+3840,7830,Vietnam,English
+3841,9782,Turkey,English
+3842,6553,Italy,English
+3843,571,United Kingdom,English
+3844,3722,Russia,English
+3845,4584,Germany,English
+3846,4198,Thailand,English
+3847,5095,Philippines,English
+3848,2854,Bangladesh,English
+3849,2079,South Africa,English
+3850,3350,Brazil,English
+3851,6976,Sudan,English
+3852,8634,Tanzania,English
+3853,7003,India,English
+3854,6844,Vietnam,English
+3855,2663,United States,English
+3856,3061,United Kingdom,English
+3857,8185,India,English
+3858,4103,Vietnam,English
+3859,598,Pakistan,English
+3860,2550,Spain,English
+3861,6592,Argentina,English
+3862,948,DR Congo,English
+3863,6453,South Korea,English
+3864,7816,Bangladesh,English
+3865,4975,Myanmar,English
+3866,7792,Algeria,English
+3867,3183,Ukraine,English
+3868,1852,Nigeria,English
+3869,827,Tanzania,English
+3870,2737,Brazil,English
+3871,5290,South Africa,English
+3872,2287,Japan,English
+3873,6121,Ethiopia,English
+3874,1501,Colombia,English
+3875,9517,Uganda,English
+3876,8281,Indonesia,English
+3877,1035,South Korea,English
+3878,5150,Mexico,English
+3879,3861,Pakistan,English
+3880,3227,India,English
+3881,9399,Vietnam,English
+3882,8298,South Africa,English
+3883,1608,China,English
+3884,4814,Uganda,English
+3885,2612,Myanmar,English
+3886,113,United States,English
+3887,9858,Vietnam,English
+3888,103,South Korea,English
+3889,227,Egypt,English
+3890,1207,United States,English
+3891,8937,Vietnam,English
+3892,2726,Uganda,English
+3893,4139,Sudan,English
+3894,615,France,English
+3895,10173,Thailand,English
+3896,6892,China,English
+3897,4643,Egypt,English
+3898,2895,Sudan,English
+3899,9363,France,English
+3900,1794,Turkey,English
+3901,5820,Ukraine,English
+3902,1263,Vietnam,English
+3903,7020,Uganda,English
+3904,8609,Vietnam,English
+3905,10384,Spain,English
+3906,3214,Russia,English
+3907,7002,Iran,English
+3908,1843,France,English
+3909,7055,Vietnam,English
+3910,6047,Bangladesh,English
+3911,7602,Spain,English
+3912,5447,Vietnam,English
+3913,10339,DR Congo,English
+3914,1001,Tanzania,English
+3915,6411,Turkey,English
+3916,8890,Bangladesh,English
+3917,1104,Algeria,English
+3918,7446,Philippines,English
+3919,3451,Indonesia,English
+3920,9596,Germany,English
+3921,6781,Nigeria,English
+3922,9178,Argentina,English
+3923,5047,United Kingdom,English
+3924,4664,Thailand,English
+3925,7574,Kenya,English
+3926,4757,Uganda,English
+3927,10139,Bangladesh,English
+3928,2881,United Kingdom,English
+3929,1528,Indonesia,English
+3930,990,South Africa,English
+3931,8783,Colombia,English
+3932,2962,DR Congo,English
+3933,5449,Sudan,English
+3934,218,Tanzania,English
+3935,10156,Indonesia,English
+3936,10433,India,English
+3937,3233,Uganda,English
+3938,6727,Uganda,English
+3939,8856,Vietnam,English
+3940,4501,Ethiopia,English
+3941,5668,Sudan,English
+3942,10263,Ethiopia,English
+3943,6799,Pakistan,English
+3944,1946,Turkey,English
+3945,6840,Indonesia,English
+3946,4005,Russia,English
+3947,8406,Tanzania,English
+3948,1309,Tanzania,English
+3949,2774,Brazil,English
+3950,7076,Uganda,English
+3951,10155,Philippines,English
+3952,5795,Sudan,English
+3953,2662,Tanzania,English
+3954,6156,Colombia,English
+3955,2607,Ukraine,English
+3956,4329,Vietnam,English
+3957,4172,Egypt,English
+3958,6614,Pakistan,English
+3959,1899,Egypt,English
+3960,7546,South Korea,English
+3961,2247,Sudan,English
+3962,10361,Algeria,English
+3963,6836,DR Congo,English
+3964,1029,Thailand,English
+3965,2030,Uganda,English
+3966,2207,India,English
+3967,6967,Iran,English
+3968,202,Sudan,English
+3969,9538,Nigeria,English
+3970,5961,Russia,English
+3971,9752,Kenya,English
+3972,7117,Egypt,English
+3973,6161,Kenya,English
+3974,2504,Ukraine,English
+3975,9466,Nigeria,English
+3976,8271,Spain,English
+3977,6596,India,English
+3978,8170,United States,English
+3979,3216,Germany,English
+3980,4201,Uganda,English
+3981,4192,DR Congo,English
+3982,9850,France,English
+3983,3598,Ethiopia,English
+3984,10244,Pakistan,English
+3985,5837,France,English
+3986,2787,Japan,English
+3987,9229,China,English
+3988,8556,Ethiopia,English
+3989,2966,Algeria,English
+3990,1433,Germany,English
+3991,328,Egypt,English
+3992,4723,Uganda,English
+3993,7927,Pakistan,English
+3994,802,Spain,English
+3995,1026,Spain,English
+3996,1459,South Korea,English
+3997,5366,India,English
+3998,9673,Vietnam,English
+3999,10498,Turkey,English
+4000,2439,Mexico,English
+4001,864,Spain,English
+4002,4128,Iran,English
+4003,662,Turkey,English
+4004,8430,Bangladesh,English
+4005,1220,Iran,English
+4006,9624,India,English
+4007,8211,United Kingdom,English
+4008,4099,Ukraine,English
+4009,878,South Africa,English
+4010,5304,Mexico,English
+4011,92,Argentina,English
+4012,1545,Japan,English
+4013,3517,France,English
+4014,10414,France,English
+4015,6109,Turkey,English
+4016,6456,Nigeria,English
+4017,7431,Vietnam,English
+4018,9078,United States,English
+4019,8054,Philippines,English
+4020,5252,Ukraine,English
+4021,219,Sudan,English
+4022,10223,Indonesia,English
+4023,6802,Egypt,English
+4024,6951,Thailand,English
+4025,3003,China,English
+4026,6855,Italy,English
+4027,3548,Mexico,English
+4028,2050,United States,English
+4029,4210,Italy,English
+4030,8128,Algeria,English
+4031,4414,South Korea,English
+4032,8825,Bangladesh,English
+4033,3159,Myanmar,English
+4034,6388,Sudan,English
+4035,4638,Kenya,English
+4036,5094,Uganda,English
+4037,3223,Ethiopia,English
+4038,3049,Mexico,English
+4039,9536,Argentina,English
+4040,7081,Egypt,English
+4041,8901,Indonesia,English
+4042,6219,Ukraine,English
+4043,6126,United Kingdom,English
+4044,8063,United States,English
+4045,935,Nigeria,English
+4046,5618,Turkey,English
+4047,6084,Japan,English
+4048,9790,Thailand,English
+4049,8962,Italy,English
+4050,1623,Pakistan,English
+4051,3385,Ethiopia,English
+4052,2861,Pakistan,English
+4053,1774,Kenya,English
+4054,10308,Pakistan,English
+4055,8408,Mexico,English
+4056,3250,Russia,English
+4057,817,Ethiopia,English
+4058,6440,China,English
+4059,10210,Iran,English
+4060,4720,United Kingdom,English
+4061,9042,Tanzania,English
+4062,9389,Indonesia,English
+4063,8117,Germany,English
+4064,5469,Tanzania,English
+4065,6110,Indonesia,English
+4066,8916,Turkey,English
+4067,6412,United States,English
+4068,10547,Brazil,English
+4069,3200,United Kingdom,English
+4070,5221,Myanmar,English
+4071,4626,Turkey,English
+4072,2996,South Korea,English
+4073,5957,Japan,English
+4074,1649,Spain,English
+4075,3416,Russia,English
+4076,3802,Algeria,English
+4077,6885,Japan,English
+4078,1145,United Kingdom,English
+4079,5478,South Africa,English
+4080,4069,Bangladesh,English
+4081,6819,Sudan,English
+4082,3853,Brazil,English
+4083,7179,Colombia,English
+4084,8163,Japan,English
+4085,6666,Pakistan,English
+4086,1396,Egypt,English
+4087,9540,Germany,English
+4088,2959,China,English
+4089,9539,Myanmar,English
+4090,361,DR Congo,English
+4091,1122,Colombia,English
+4092,10070,Myanmar,English
+4093,1821,Japan,English
+4094,10175,Philippines,English
+4095,2423,Germany,English
+4096,5242,Vietnam,English
+4097,3738,Colombia,English
+4098,2745,Bangladesh,English
+4099,523,Bangladesh,English
+4100,5381,Egypt,English
+4101,2007,Algeria,English
+4102,9706,Argentina,English
+4103,3571,United Kingdom,English
+4104,1170,Argentina,English
+4105,9914,Spain,English
+4106,7611,Philippines,English
+4107,9712,France,English
+4108,8419,Italy,English
+4109,10387,China,English
+4110,8619,Brazil,English
+4111,1074,Myanmar,English
+4112,9637,Kenya,English
+4113,7129,Philippines,English
+4114,10543,Turkey,English
+4115,10526,Russia,English
+4116,6239,France,English
+4117,3121,Germany,English
+4118,5968,DR Congo,English
+4119,4206,South Africa,English
+4120,10102,Italy,English
+4121,6776,Japan,English
+4122,3714,South Africa,English
+4123,5794,United States,English
+4124,7977,China,English
+4125,7639,Ethiopia,English
+4126,1333,Sudan,English
+4127,8440,Colombia,English
+4128,6255,Indonesia,English
+4129,1578,Uganda,English
+4130,4800,Nigeria,English
+4131,2037,Nigeria,English
+4132,8537,China,English
+4133,4793,Bangladesh,English
+4134,4440,Indonesia,English
+4135,1195,Myanmar,English
+4136,9543,Vietnam,English
+4137,5689,South Korea,English
+4138,4942,Indonesia,English
+4139,1730,India,English
+4140,2261,Pakistan,English
+4141,2841,Ukraine,English
+4142,6311,Ethiopia,English
+4143,2113,South Korea,English
+4144,1219,Sudan,English
+4145,3259,Ukraine,English
+4146,5599,Algeria,English
+4147,7387,Mexico,English
+4148,6137,South Korea,English
+4149,3220,Tanzania,English
+4150,6259,Vietnam,English
+4151,5436,South Korea,English
+4152,3816,Philippines,English
+4153,3890,Sudan,English
+4154,3716,Philippines,English
+4155,7557,China,English
+4156,2142,Ukraine,English
+4157,6962,Brazil,English
+4158,2976,Thailand,English
+4159,7756,Tanzania,English
+4160,2040,Russia,English
+4161,6514,Japan,English
+4162,7224,Brazil,English
+4163,2549,Algeria,English
+4164,4977,Spain,English
+4165,9140,India,English
+4166,2296,Brazil,English
+4167,5769,Colombia,English
+4168,3685,Ukraine,English
+4169,2420,Indonesia,English
+4170,7788,Thailand,English
+4171,530,Japan,English
+4172,8166,China,English
+4173,3203,Mexico,English
+4174,3891,China,English
+4175,6235,Bangladesh,English
+4176,4965,DR Congo,English
+4177,5380,Ukraine,English
+4178,7600,Myanmar,English
+4179,6595,Egypt,English
+4180,2431,United Kingdom,English
+4181,441,Bangladesh,English
+4182,6767,Russia,English
+4183,8026,Nigeria,English
+4184,729,Nigeria,English
+4185,5874,Algeria,English
+4186,6249,Indonesia,English
+4187,659,United States,English
+4188,2759,China,English
+4189,7364,South Korea,English
+4190,8337,Ethiopia,English
+4191,731,Philippines,English
+4192,3270,Iran,English
+4193,5514,Japan,English
+4194,6641,Algeria,English
+4195,3224,India,English
+4196,2402,Italy,English
+4197,7306,France,English
+4198,9414,Germany,English
+4199,9003,United States,English
+4200,721,Philippines,English
+4201,4399,Sudan,English
+4202,2098,Vietnam,English
+4203,6636,South Africa,English
+4204,4728,Turkey,English
+4205,3022,United States,English
+4206,859,Uganda,English
+4207,1759,China,English
+4208,8675,South Korea,English
+4209,4635,Ethiopia,English
+4210,5929,Indonesia,English
+4211,1699,Colombia,English
+4212,1735,Uganda,English
+4213,7128,Kenya,English
+4214,7427,Uganda,English
+4215,7566,Uganda,English
+4216,2163,United States,English
+4217,5397,Bangladesh,English
+4218,9435,Italy,English
+4219,5435,Bangladesh,English
+4220,3885,Mexico,English
+4221,4856,United Kingdom,English
+4222,6447,Uganda,English
+4223,960,France,English
+4224,7866,France,English
+4225,3488,Iran,English
+4226,1091,South Africa,English
+4227,5348,Italy,English
+4228,2791,South Africa,English
+4229,1032,Thailand,English
+4230,4710,Ethiopia,English
+4231,10424,Russia,English
+4232,618,Vietnam,English
+4233,3774,Philippines,English
+4234,3585,Japan,English
+4235,459,Argentina,English
+4236,7342,Brazil,English
+4237,3850,Mexico,English
+4238,6177,Thailand,English
+4239,9142,India,English
+4240,1916,Ethiopia,English
+4241,9207,Bangladesh,English
+4242,8533,United States,English
+4243,7799,Myanmar,English
+4244,4251,Myanmar,English
+4245,8152,Indonesia,English
+4246,9346,Germany,English
+4247,2525,Vietnam,English
+4248,1370,China,English
+4249,9370,Vietnam,English
+4250,5700,Nigeria,English
+4251,2534,India,English
+4252,1009,Myanmar,English
+4253,8601,United States,English
+4254,4761,Iran,English
+4255,1568,Algeria,English
+4256,175,France,English
+4257,5586,Russia,English
+4258,8393,Myanmar,English
+4259,3135,India,English
+4260,3116,Algeria,English
+4261,3352,Vietnam,English
+4262,548,Algeria,English
+4263,3679,Myanmar,English
+4264,6978,France,English
+4265,6105,Sudan,English
+4266,4948,Colombia,English
+4267,5393,Indonesia,English
+4268,1574,Colombia,English
+4269,2929,United States,English
+4270,9797,Pakistan,English
+4271,1110,United States,English
+4272,1626,Germany,English
+4273,8955,United States,English
+4274,5879,Myanmar,English
+4275,6508,Russia,English
+4276,2159,Turkey,English
+4277,2183,Italy,English
+4278,4032,South Africa,English
+4279,4132,Nigeria,English
+4280,9605,Colombia,English
+4281,2360,Turkey,English
+4282,6737,United States,English
+4283,4508,Sudan,English
+4284,1679,Japan,English
+4285,6774,Vietnam,English
+4286,2233,South Africa,English
+4287,410,Russia,English
+4288,3489,China,English
+4289,4623,Kenya,English
+4290,2080,Japan,English
+4291,10083,Algeria,English
+4292,3792,Kenya,English
+4293,2770,Egypt,English
+4294,9076,Ukraine,English
+4295,221,Indonesia,English
+4296,2766,Ethiopia,English
+4297,7266,Colombia,English
+4298,4622,India,English
+4299,8124,Kenya,English
+4300,620,Tanzania,English
+4301,1656,Myanmar,English
+4302,7534,Egypt,English
+4303,6878,Iran,English
+4304,1264,China,English
+4305,6451,Bangladesh,English
+4306,4820,Pakistan,English
+4307,6470,Mexico,English
+4308,6523,Sudan,English
+4309,7840,Ukraine,English
+4310,1583,Italy,English
+4311,2017,Indonesia,English
+4312,3267,Ukraine,English
+4313,1468,Mexico,English
+4314,4395,Japan,English
+4315,8318,Uganda,English
+4316,5218,Japan,English
+4317,9270,Bangladesh,English
+4318,4982,Egypt,English
+4319,9666,Sudan,English
+4320,6583,Myanmar,English
+4321,703,Italy,English
+4322,9846,Spain,English
+4323,10029,Spain,English
+4324,8377,Ukraine,English
+4325,850,Bangladesh,English
+4326,5039,Nigeria,English
+4327,10313,Uganda,English
+4328,3507,Vietnam,English
+4329,2529,Iran,English
+4330,2872,Turkey,English
+4331,9214,Vietnam,English
+4332,6149,Spain,English
+4333,8512,France,English
+4334,9895,Spain,English
+4335,651,South Korea,English
+4336,4090,South Africa,English
+4337,3337,Myanmar,English
+4338,3796,Iran,English
+4339,1221,Vietnam,English
+4340,6530,India,English
+4341,3477,Myanmar,English
+4342,4138,United States,English
+4343,7893,Germany,English
+4344,4822,Philippines,English
+4345,3752,Bangladesh,English
+4346,4615,Colombia,English
+4347,4082,Ethiopia,English
+4348,8388,Bangladesh,English
+4349,3066,Pakistan,English
+4350,1305,Kenya,English
+4351,3085,Germany,English
+4352,5642,Iran,English
+4353,2723,Indonesia,English
+4354,4849,Ethiopia,English
+4355,2879,United States,English
+4356,2979,France,English
+4357,8848,South Africa,English
+4358,7066,Brazil,English
+4359,1088,Philippines,English
+4360,8301,Indonesia,English
+4361,7572,Sudan,English
+4362,5178,Egypt,English
+4363,1906,Algeria,English
+4364,2046,Spain,English
+4365,6627,Nigeria,English
+4366,537,Algeria,English
+4367,2990,United States,English
+4368,3920,Bangladesh,English
+4369,10321,South Korea,English
+4370,1740,Germany,English
+4371,5866,Egypt,English
+4372,873,Japan,English
+4373,3909,Mexico,English
+4374,8463,Ukraine,English
+4375,527,Turkey,English
+4376,1369,Ukraine,English
+4377,7936,Philippines,English
+4378,5811,Japan,English
+4379,617,Thailand,English
+4380,7973,DR Congo,English
+4381,879,South Korea,English
+4382,4105,United Kingdom,English
+4383,1828,Brazil,English
+4384,7606,Thailand,English
+4385,9306,Egypt,English
+4386,6811,Russia,English
+4387,688,Kenya,English
+4388,10097,South Korea,English
+4389,7186,India,English
+4390,8465,Sudan,English
+4391,9754,Japan,English
+4392,2524,Kenya,English
+4393,5470,Spain,English
+4394,540,Ethiopia,English
+4395,6075,Pakistan,English
+4396,7300,Russia,English
+4397,10382,India,English
+4398,99,Tanzania,English
+4399,6986,Algeria,English
+4400,6366,Algeria,English
+4401,5034,Nigeria,English
+4402,3396,United Kingdom,English
+4403,2398,India,English
+4404,1322,South Africa,English
+4405,6824,Mexico,English
+4406,3535,South Korea,English
+4407,9990,Spain,English
+4408,8480,Myanmar,English
+4409,7597,DR Congo,English
+4410,808,Germany,English
+4411,9182,Myanmar,English
+4412,4284,Kenya,English
+4413,5073,Thailand,English
+4414,2587,South Africa,English
+4415,1893,United Kingdom,English
+4416,3102,Mexico,English
+4417,7368,Kenya,English
+4418,7964,Uganda,English
+4419,10111,Vietnam,English
+4420,3922,Myanmar,English
+4421,7642,Ethiopia,English
+4422,3833,Germany,English
+4423,9172,Iran,English
+4424,3917,India,English
+4425,8335,Philippines,English
+4426,4541,Vietnam,English
+4427,4081,Myanmar,English
+4428,1335,Vietnam,English
+4429,9326,Philippines,English
+4430,1664,Italy,English
+4431,10397,Thailand,English
+4432,6753,Bangladesh,English
+4433,7388,South Korea,English
+4434,4594,Myanmar,English
+4435,5245,United States,English
+4436,978,Thailand,English
+4437,2771,Germany,English
+4438,8257,Ukraine,English
+4439,6685,Mexico,English
+4440,7094,Sudan,English
+4441,7691,Mexico,English
+4442,5351,Vietnam,English
+4443,1240,Thailand,English
+4444,6243,Mexico,English
+4445,614,Sudan,English
+4446,1567,Vietnam,English
+4447,8642,Turkey,English
+4448,5768,France,English
+4449,7982,China,English
+4450,6894,South Korea,English
+4451,5407,Vietnam,English
+4452,767,Brazil,English
+4453,10027,Kenya,English
+4454,3795,Algeria,English
+4455,3197,Italy,English
+4456,5956,Italy,English
+4457,1555,Pakistan,English
+4458,4367,Nigeria,English
+4459,1495,France,English
+4460,107,Indonesia,English
+4461,7324,Bangladesh,English
+4462,9878,Sudan,English
+4463,262,Vietnam,English
+4464,6372,Russia,English
+4465,6379,Colombia,English
+4466,4384,Spain,English
+4467,2243,United Kingdom,English
+4468,52,Nigeria,English
+4469,10519,Brazil,English
+4470,7865,South Africa,English
+4471,4997,Myanmar,English
+4472,8668,Indonesia,English
+4473,9308,Egypt,English
+4474,3361,Brazil,English
+4475,3333,DR Congo,English
+4476,4949,Germany,English
+4477,7731,Philippines,English
+4478,5650,China,English
+4479,2543,Iran,English
+4480,4647,Ukraine,English
+4481,77,Brazil,English
+4482,5400,Mexico,English
+4483,8705,Vietnam,English
+4484,9544,Egypt,English
+4485,843,Kenya,English
+4486,6353,Turkey,English
+4487,206,Brazil,English
+4488,4456,Ukraine,English
+4489,7703,Tanzania,English
+4490,1327,United Kingdom,English
+4491,10411,India,English
+4492,7148,China,English
+4493,7349,Thailand,English
+4494,7522,South Korea,English
+4495,5491,Russia,English
+4496,10096,United States,English
+4497,12,France,English
+4498,5474,United Kingdom,English
+4499,8368,Bangladesh,English
+4500,8252,Tanzania,English
+4501,5658,South Korea,English
+4502,5737,Indonesia,English
+4503,10398,Tanzania,English
+4504,8083,Vietnam,English
+4505,10406,United Kingdom,English
+4506,10242,Algeria,English
+4507,6580,Germany,English
+4508,10050,Sudan,English
+4509,7819,Russia,English
+4510,8143,Germany,English
+4511,2160,United Kingdom,English
+4512,4892,Germany,English
+4513,4245,United States,English
+4514,3016,Kenya,English
+4515,10532,Argentina,English
+4516,1633,Uganda,English
+4517,552,Pakistan,English
+4518,3320,Myanmar,English
+4519,2265,Kenya,English
+4520,2148,DR Congo,English
+4521,7999,Myanmar,English
+4522,665,South Africa,English
+4523,2091,Japan,English
+4524,4438,South Korea,English
+4525,2016,Vietnam,English
+4526,1968,Pakistan,English
+4527,5287,Sudan,English
+4528,9128,Nigeria,English
+4529,9105,Ethiopia,English
+4530,3245,Indonesia,English
+4531,9779,Japan,English
+4532,7841,Mexico,English
+4533,7134,Uganda,English
+4534,609,Myanmar,English
+4535,1228,France,English
+4536,9238,China,English
+4537,457,Japan,English
+4538,8154,Uganda,English
+4539,5583,Germany,English
+4540,2349,Bangladesh,English
+4541,10536,Ukraine,English
+4542,1635,Uganda,English
+4543,5341,United States,English
+4544,7189,Nigeria,English
+4545,6901,South Korea,English
+4546,5009,Italy,English
+4547,6518,Sudan,English
+4548,9744,India,English
+4549,6704,Tanzania,English
+4550,10423,Italy,English
+4551,3072,Turkey,English
+4552,7763,France,English
+4553,8478,Germany,English
+4554,3297,Uganda,English
+4555,7021,Ukraine,English
+4556,6371,Turkey,English
+4557,49,Thailand,English
+4558,8452,Italy,English
+4559,945,Mexico,English
+4560,5862,Spain,English
+4561,5936,China,English
+4562,6162,United Kingdom,English
+4563,3163,Pakistan,English
+4564,4212,Bangladesh,English
+4565,6449,Iran,English
+4566,3668,Argentina,English
+4567,8939,Indonesia,English
+4568,9457,Bangladesh,English
+4569,1157,United Kingdom,English
+4570,5734,Thailand,English
+4571,1239,France,English
+4572,4645,Bangladesh,English
+4573,2374,China,English
+4574,1252,South Korea,English
+4575,7319,China,English
+4576,3804,Iran,English
+4577,3394,Iran,English
+4578,2479,Colombia,English
+4579,261,Ethiopia,English
+4580,1521,Uganda,English
+4581,8006,Indonesia,English
+4582,10299,Tanzania,English
+4583,2477,South Africa,English
+4584,3358,United States,English
+4585,1119,Vietnam,English
+4586,4704,Spain,English
+4587,7237,South Africa,English
+4588,3537,Ukraine,English
+4589,7909,Colombia,English
+4590,1454,Italy,English
+4591,6306,Myanmar,English
+4592,7419,Mexico,English
+4593,3510,Argentina,English
+4594,7466,Nigeria,English
+4595,6985,Philippines,English
+4596,8774,Nigeria,English
+4597,5824,Egypt,English
+4598,7057,Uganda,English
+4599,9104,Spain,English
+4600,1855,Spain,English
+4601,2847,Japan,English
+4602,4774,Colombia,English
+4603,622,DR Congo,English
+4604,4391,Colombia,English
+4605,9740,Ethiopia,English
+4606,679,Turkey,English
+4607,466,Thailand,English
+4608,7181,Kenya,English
+4609,6164,South Korea,English
+4610,6383,Uganda,English
+4611,8488,Uganda,English
+4612,1254,Philippines,English
+4613,2135,United States,English
+4614,7246,United Kingdom,English
+4615,1540,DR Congo,English
+4616,10062,Thailand,English
+4617,10071,Colombia,English
+4618,152,Tanzania,English
+4619,7616,Ethiopia,English
+4620,2468,Japan,English
+4621,6461,China,English
+4622,8444,France,English
+4623,8731,DR Congo,English
+4624,3265,DR Congo,English
+4625,10151,Thailand,English
+4626,1415,Bangladesh,English
+4627,2172,Sudan,English
+4628,1698,South Africa,English
+4629,9109,India,English
+4630,2125,Algeria,English
+4631,5771,Egypt,English
+4632,5111,Argentina,English
+4633,1291,Indonesia,English
+4634,5980,Egypt,English
+4635,10132,Spain,English
+4636,2957,United States,English
+4637,9728,Nigeria,English
+4638,4461,France,English
+4639,4874,Turkey,English
+4640,5932,Iran,English
+4641,6053,Japan,English
+4642,4073,Algeria,English
+4643,884,South Korea,English
+4644,3449,Uganda,English
+4645,2920,South Africa,English
+4646,3699,Germany,English
+4647,5251,Spain,English
+4648,3930,Argentina,English
+4649,1536,DR Congo,English
+4650,84,Thailand,English
+4651,1553,Russia,English
+4652,4512,Pakistan,English
+4653,6488,Indonesia,English
+4654,518,Italy,English
+4655,7311,Colombia,English
+4656,7396,Brazil,English
+4657,6417,Argentina,English
+4658,3313,Italy,English
+4659,8339,China,English
+4660,8889,Ukraine,English
+4661,2332,Indonesia,English
+4662,287,Algeria,English
+4663,7220,United States,English
+4664,2146,Japan,English
+4665,3583,Colombia,English
+4666,2109,Brazil,English
+4667,7371,Ukraine,English
+4668,10528,Colombia,English
+4669,9816,Sudan,English
+4670,9131,United States,English
+4671,9612,Argentina,English
+4672,6883,Argentina,English
+4673,6987,Vietnam,English
+4674,1514,Colombia,English
+4675,10422,Indonesia,English
+4676,7254,France,English
+4677,4989,Tanzania,English
+4678,6515,United States,English
+4679,2177,United Kingdom,English
+4680,9479,Kenya,English
+4681,2675,DR Congo,English
+4682,1581,Turkey,English
+4683,1908,Turkey,English
+4684,2173,Italy,English
+4685,7183,Thailand,English
+4686,9889,Bangladesh,English
+4687,8770,Uganda,English
+4688,2272,Tanzania,English
+4689,2442,Italy,English
+4690,5027,Ukraine,English
+4691,4165,Vietnam,English
+4692,7685,Ukraine,English
+4693,9952,Russia,English
+4694,3726,Myanmar,English
+4695,7686,Ukraine,English
+4696,5549,India,English
+4697,2633,Kenya,English
+4698,4066,Bangladesh,English
+4699,325,United States,English
+4700,8778,United Kingdom,English
+4701,257,Iran,English
+4702,9339,Myanmar,English
+4703,1462,Myanmar,English
+4704,5357,Sudan,English
+4705,73,Ukraine,English
+4706,414,Egypt,English
+4707,1576,Colombia,English
+4708,6304,Mexico,English
+4709,9873,South Africa,English
+4710,10479,South Korea,English
+4711,2073,Ethiopia,English
+4712,5707,Argentina,English
+4713,8626,Italy,English
+4714,5065,Mexico,English
+4715,2521,DR Congo,English
+4716,4343,Japan,English
+4717,5498,Iran,English
+4718,3915,Mexico,English
+4719,5679,Bangladesh,English
+4720,4447,South Africa,English
+4721,8839,Ukraine,English
+4722,6832,Indonesia,English
+4723,3356,Indonesia,English
+4724,2435,United Kingdom,English
+4725,8106,Russia,English
+4726,3553,Russia,English
+4727,3992,Uganda,English
+4728,6033,Kenya,English
+4729,1312,Indonesia,English
+4730,9192,Tanzania,English
+4731,7413,Egypt,English
+4732,1061,South Korea,English
+4733,7910,Myanmar,English
+4734,6852,Argentina,English
+4735,8058,DR Congo,English
+4736,5690,Pakistan,English
+4737,8943,Tanzania,English
+4738,7320,France,English
+4739,2566,Bangladesh,English
+4740,7370,Kenya,English
+4741,4039,Brazil,English
+4742,1886,Indonesia,English
+4743,3261,Colombia,English
+4744,8548,Italy,English
+4745,8302,South Korea,English
+4746,3459,Pakistan,English
+4747,657,Spain,English
+4748,5298,Nigeria,English
+4749,3188,Algeria,English
+4750,5004,Indonesia,English
+4751,9606,United States,English
+4752,35,India,English
+4753,646,Philippines,English
+4754,6690,Mexico,English
+4755,1529,South Africa,English
+4756,8213,Ethiopia,English
+4757,9970,Myanmar,English
+4758,1622,Turkey,English
+4759,1485,Nigeria,English
+4760,2915,Turkey,English
+4761,1872,Russia,English
+4762,5017,Egypt,English
+4763,4733,Philippines,English
+4764,3542,Japan,English
+4765,4307,India,English
+4766,4845,Turkey,English
+4767,10178,Sudan,English
+4768,1822,Sudan,English
+4769,6335,Japan,English
+4770,8090,Colombia,English
+4771,2515,Italy,English
+4772,4332,Tanzania,English
+4773,6676,India,English
+4774,4101,Italy,English
+4775,5499,United States,English
+4776,4143,Nigeria,English
+4777,7405,Thailand,English
+4778,579,France,English
+4779,8813,Russia,English
+4780,442,Colombia,English
+4781,9341,Ethiopia,English
+4782,3711,Turkey,English
+4783,9404,France,English
+4784,4730,Kenya,English
+4785,1710,Japan,English
+4786,7340,Kenya,English
+4787,7288,Nigeria,English
+4788,7053,South Africa,English
+4789,10545,Turkey,English
+4790,321,Kenya,English
+4791,4627,France,English
+4792,754,United States,English
+4793,7780,Bangladesh,English
+4794,4850,Turkey,English
+4795,5308,Bangladesh,English
+4796,2275,Philippines,English
+4797,994,Germany,English
+4798,8673,United Kingdom,English
+4799,1086,Iran,English
+4800,8405,Thailand,English
+4801,6226,Vietnam,English
+4802,4141,Thailand,English
+4803,835,Egypt,English
+4804,5118,Iran,English
+4805,2452,Ethiopia,English
+4806,7856,Vietnam,English
+4807,7505,Argentina,English
+4808,3334,Turkey,English
+4809,4873,United States,English
+4810,4810,India,English
+4811,8996,China,English
+4812,2836,Mexico,English
+4813,7653,Colombia,English
+4814,3052,Colombia,English
+4815,1466,Spain,English
+4816,10171,Argentina,English
+4817,314,Vietnam,English
+4818,7422,Thailand,English
+4819,3502,Ukraine,English
+4820,2511,Indonesia,English
+4821,4013,Colombia,English
+4822,333,Italy,English
+4823,5062,Turkey,English
+4824,36,Uganda,English
+4825,6564,Vietnam,English
+4826,8061,France,English
+4827,6142,Algeria,English
+4828,105,Myanmar,English
+4829,6006,Ukraine,English
+4830,8888,Brazil,English
+4831,1744,United Kingdom,English
+4832,1053,Turkey,English
+4833,9504,Philippines,English
+4834,6953,Mexico,English
+4835,1069,India,English
+4836,7563,Philippines,English
+4837,4973,Mexico,English
+4838,3432,Vietnam,English
+4839,7813,Germany,English
+4840,9438,South Korea,English
+4841,1324,Philippines,English
+4842,7184,Egypt,English
+4843,9805,Spain,English
+4844,1666,Turkey,English
+4845,6150,Ukraine,English
+4846,8087,Russia,English
+4847,9786,United States,English
+4848,8968,Kenya,English
+4849,9576,Uganda,English
+4850,504,Colombia,English
+4851,3290,Myanmar,English
+4852,5989,United Kingdom,English
+4853,8672,France,English
+4854,2801,South Africa,English
+4855,5780,Italy,English
+4856,8118,Ukraine,English
+4857,10358,Ukraine,English
+4858,1820,Turkey,English
+4859,3628,Indonesia,English
+4860,1609,Sudan,English
+4861,2350,Philippines,English
+4862,5092,DR Congo,English
+4863,10551,India,English
+4864,9566,Colombia,English
+4865,9745,Egypt,English
+4866,946,Kenya,English
+4867,8729,Myanmar,English
+4868,6884,Iran,English
+4869,3486,Brazil,English
+4870,3371,Sudan,English
+4871,976,Turkey,English
+4872,6209,Japan,English
+4873,5644,South Africa,English
+4874,8474,Germany,English
+4875,4752,Uganda,English
+4876,274,Japan,English
+4877,3847,Japan,English
+4878,5566,Philippines,English
+4879,1183,Italy,English
+4880,3876,Colombia,English
+4881,6102,Colombia,English
+4882,1359,Mexico,English
+4883,9851,Russia,English
+4884,5990,Thailand,English
+4885,9751,Turkey,English
+4886,7804,Brazil,English
+4887,1731,Pakistan,English
+4888,5550,Brazil,English
+4889,8526,France,English
+4890,8690,South Korea,English
+4891,10176,South Korea,English
+4892,710,Egypt,English
+4893,5738,United Kingdom,English
+4894,10008,DR Congo,English
+4895,6059,Brazil,English
+4896,4974,Colombia,English
+4897,5704,Kenya,English
+4898,4191,Germany,English
+4899,6396,Myanmar,English
+4900,9137,Turkey,English
+4901,7915,Myanmar,English
+4902,7995,Iran,English
+4903,7106,Indonesia,English
+4904,2034,South Africa,English
+4905,7671,Nigeria,English
+4906,2602,Nigeria,English
+4907,6766,United Kingdom,English
+4908,8121,Algeria,English
+4909,392,France,English
+4910,6165,United States,English
+4911,7985,Indonesia,English
+4912,2870,Sudan,English
+4913,1414,Pakistan,English
+4914,6158,Tanzania,English
+4915,758,Ukraine,English
+4916,8615,France,English
+4917,7519,Brazil,English
+4918,888,Philippines,English
+4919,4480,United States,English
+4920,1041,Kenya,English
+4921,1276,United Kingdom,English
+4922,9065,Thailand,English
+4923,7925,Iran,English
+4924,3603,India,English
+4925,6971,Turkey,English
+4926,5930,Japan,English
+4927,376,Nigeria,English
+4928,3504,Tanzania,English
+4929,9483,Italy,English
+4930,242,Philippines,English
+4931,3384,South Africa,English
+4932,1741,Ukraine,English
+4933,2668,Indonesia,English
+4934,593,Spain,English
+4935,2373,South Korea,English
+4936,8285,Mexico,English
+4937,10261,United Kingdom,English
+4938,8842,Ukraine,English
+4939,3316,Russia,English
+4940,5021,Algeria,English
+4941,1202,Brazil,English
+4942,7777,Philippines,English
+4943,3655,Mexico,English
+4944,9843,United States,English
+4945,5172,Ethiopia,English
+4946,4058,Germany,English
+4947,9379,South Africa,English
+4948,4084,Colombia,English
+4949,6945,Vietnam,English
+4950,5193,Kenya,English
+4951,5271,United States,English
+4952,3756,DR Congo,English
+4953,8450,Colombia,English
+4954,2023,Brazil,English
+4955,1683,Tanzania,English
+4956,7078,Bangladesh,English
+4957,8935,Uganda,English
+4958,8511,Iran,English
+4959,106,Italy,English
+4960,7874,Colombia,English
+4961,7491,Kenya,English
+4962,3797,Bangladesh,English
+4963,6314,South Africa,English
+4964,2425,Tanzania,English
+4965,6200,Argentina,English
+4966,532,Pakistan,English
+4967,8116,Tanzania,English
+4968,7487,Colombia,English
+4969,373,Kenya,English
+4970,4967,Mexico,English
+4971,2906,Iran,English
+4972,306,Tanzania,English
+4973,5661,United States,English
+4974,8520,Uganda,English
+4975,8338,Japan,English
+4976,1554,Germany,English
+4977,10523,Sudan,English
+4978,7651,Philippines,English
+4979,10221,Iran,English
+4980,8769,Algeria,English
+4981,9422,Japan,English
+4982,6125,Kenya,English
+4983,10353,DR Congo,English
+4984,5740,China,English
+4985,3036,Ethiopia,English
+4986,2782,Colombia,English
+4987,5938,Egypt,English
+4988,9995,Ethiopia,English
+4989,1478,Bangladesh,English
+4990,4531,Indonesia,English
+4991,4616,Iran,English
+4992,4402,Russia,English
+4993,5343,Brazil,English
+4994,4124,Argentina,English
+4995,1045,Philippines,English
+4996,6697,United States,English
+4997,7279,Egypt,English
+4998,7215,Russia,English
+4999,824,Egypt,English
+5000,9353,Myanmar,English
+5001,2760,China,English
+5002,761,China,English
+5003,1398,France,English
+5004,8287,Ukraine,English
+5005,6929,Algeria,English
+5006,1467,Thailand,English
+5007,4888,Kenya,English
+5008,6684,Myanmar,English
+5009,1511,Argentina,English
+5010,3568,Ethiopia,English
+5011,5548,Mexico,English
+5012,10047,Mexico,English
+5013,2885,Brazil,English
+5014,4903,United States,English
+5015,237,Bangladesh,English
+5016,1184,Uganda,English
+5017,6254,Spain,English
+5018,8899,Kenya,English
+5019,9562,Thailand,English
+5020,6199,Turkey,English
+5021,4309,Mexico,English
+5022,3735,United States,English
+5023,7644,Nigeria,English
+5024,1243,Sudan,English
+5025,8719,Nigeria,English
+5026,1928,Mexico,English
+5027,9006,Turkey,English
+5028,10386,Bangladesh,English
+5029,642,Italy,English
+5030,1442,South Korea,English
+5031,660,France,English
+5032,480,Thailand,English
+5033,5164,South Africa,English
+5034,5904,Bangladesh,English
+5035,10342,Vietnam,English
+5036,629,Ethiopia,English
+5037,8743,Ethiopia,English
+5038,7969,United States,English
+5039,4575,China,English
+5040,557,Kenya,English
+5041,470,South Africa,English
+5042,10290,Ukraine,English
+5043,2491,Pakistan,English
+5044,5318,Egypt,English
+5045,10049,South Korea,English
+5046,9938,Italy,English
+5047,6146,Spain,English
+5048,7632,Iran,English
+5049,6502,Kenya,English
+5050,6181,France,English
+5051,5534,Brazil,English
+5052,7231,Argentina,English
+5053,7269,Iran,English
+5054,2165,Colombia,English
+5055,4846,Sudan,English
+5056,6848,United States,English
+5057,7198,Sudan,English
+5058,8050,Kenya,English
+5059,2659,United States,English
+5060,3199,Colombia,English
+5061,2986,Tanzania,English
+5062,8313,Uganda,English
+5063,9395,Iran,English
+5064,5744,Japan,English
+5065,3298,United States,English
+5066,10202,Nigeria,English
+5067,9252,Iran,English
+5068,10319,Italy,English
+5069,4153,Ethiopia,English
+5070,5042,Egypt,English
+5071,2927,Turkey,English
+5072,10249,Pakistan,English
+5073,3875,Ukraine,English
+5074,4346,Philippines,English
+5075,5647,South Korea,English
+5076,8349,Bangladesh,English
+5077,555,Russia,English
+5078,3292,Germany,English
+5079,5571,United Kingdom,English
+5080,7045,Spain,English
+5081,9897,Iran,English
+5082,3588,Russia,English
+5083,10399,United States,English
+5084,3515,Indonesia,English
+5085,1572,Sudan,English
+5086,5669,Ethiopia,English
+5087,8251,DR Congo,English
+5088,8875,Ukraine,English
+5089,9373,Iran,English
+5090,4640,Sudan,English
+5091,5558,Turkey,English
+5092,2903,Nigeria,English
+5093,6747,Vietnam,English
+5094,9686,Thailand,English
+5095,9087,Tanzania,English
+5096,2209,Algeria,English
+5097,422,Vietnam,English
+5098,1956,United Kingdom,English
+5099,2474,Egypt,English
+5100,8072,Colombia,English
+5101,149,Myanmar,English
+5102,4074,South Africa,English
+5103,1873,South Africa,English
+5104,8629,Italy,English
+5105,4171,Iran,English
+5106,565,Kenya,English
+5107,6202,Russia,English
+5108,3734,Tanzania,English
+5109,1999,Japan,English
+5110,1851,France,English
+5111,1682,Spain,English
+5112,7826,Thailand,English
+5113,8570,Mexico,English
+5114,1365,Colombia,English
+5115,26,Myanmar,English
+5116,10332,Uganda,English
+5117,5958,Brazil,English
+5118,2038,South Africa,English
+5119,10264,Brazil,English
+5120,6081,Iran,English
+5121,2767,Nigeria,English
+5122,6332,United States,English
+5123,8002,Argentina,English
+5124,8451,China,English
+5125,6185,Italy,English
+5126,5269,United States,English
+5127,2271,Russia,English
+5128,2013,Mexico,English
+5129,1308,United Kingdom,English
+5130,9988,Myanmar,English
+5131,4611,Tanzania,English
+5132,1651,Uganda,English
+5133,774,Iran,English
+5134,9881,Algeria,English
+5135,7068,United States,English
+5136,542,Philippines,English
+5137,6439,Colombia,English
+5138,6229,Vietnam,English
+5139,3075,South Africa,English
+5140,5782,United States,English
+5141,6427,Thailand,English
+5142,2563,Kenya,English
+5143,5069,France,English
+5144,1031,Bangladesh,English
+5145,8841,Tanzania,English
+5146,7767,Italy,English
+5147,6070,Ethiopia,English
+5148,4253,France,English
+5149,2865,Iran,English
+5150,4766,Argentina,English
+5151,434,Sudan,English
+5152,5194,Nigeria,English
+5153,5907,Myanmar,English
+5154,2254,Russia,English
+5155,4968,Pakistan,English
+5156,4781,Algeria,English
+5157,6925,Kenya,English
+5158,9420,Japan,English
+5159,4472,DR Congo,English
+5160,436,Vietnam,English
+5161,4731,South Korea,English
+5162,8138,Uganda,English
+5163,669,Mexico,English
+5164,8279,Russia,English
+5165,3621,Tanzania,English
+5166,857,France,English
+5167,25,Myanmar,English
+5168,1249,South Africa,English
+5169,3293,DR Congo,English
+5170,649,Sudan,English
+5171,4503,Thailand,English
+5172,1330,Argentina,English
+5173,8348,Spain,English
+5174,8686,Argentina,English
+5175,4319,Egypt,English
+5176,3490,Kenya,English
+5177,939,United States,English
+5178,10464,Turkey,English
+5179,5196,Ethiopia,English
+5180,890,Indonesia,English
+5181,3609,Brazil,English
+5182,2584,Indonesia,English
+5183,2155,Ukraine,English
+5184,8269,Sudan,English
+5185,4282,Nigeria,English
+5186,913,Colombia,English
+5187,3362,Algeria,English
+5188,133,Uganda,English
+5189,5713,Turkey,English
+5190,3014,Italy,English
+5191,9015,China,English
+5192,1128,Turkey,English
+5193,8998,Sudan,English
+5194,4513,Myanmar,English
+5195,9912,Myanmar,English
+5196,4387,Vietnam,English
+5197,9602,Nigeria,English
+5198,8040,Indonesia,English
+5199,2734,Algeria,English
+5200,3332,Colombia,English
+5201,1941,Turkey,English
+5202,6182,Vietnam,English
+5203,7766,Colombia,English
+5204,3392,Philippines,English
+5205,9460,Egypt,English
+5206,4241,Kenya,English
+5207,6011,South Africa,English
+5208,2388,Iran,English
+5209,1477,Philippines,English
+5210,6719,Uganda,English
+5211,10196,DR Congo,English
+5212,3931,Iran,English
+5213,9526,China,English
+5214,391,Iran,English
+5215,9246,Tanzania,English
+5216,9820,China,English
+5217,7888,China,English
+5218,5129,Uganda,English
+5219,5518,Uganda,English
+5220,7987,Vietnam,English
+5221,9285,Kenya,English
+5222,8412,Mexico,English
+5223,3080,Vietnam,English
+5224,9678,India,English
+5225,5764,China,English
+5226,8418,Brazil,English
+5227,7920,Ukraine,English
+5228,9677,Ethiopia,English
+5229,7123,Turkey,English
+5230,2112,Indonesia,English
+5231,1350,Japan,English
+5232,3647,Sudan,English
+5233,7575,Thailand,English
+5234,1142,Turkey,English
+5235,6889,Tanzania,English
+5236,10455,Myanmar,English
+5237,848,Germany,English
+5238,3503,DR Congo,English
+5239,8789,Uganda,English
+5240,6395,United States,English
+5241,6163,South Africa,English
+5242,8115,Sudan,English
+5243,5013,Vietnam,English
+5244,9837,Bangladesh,English
+5245,4063,Nigeria,English
+5246,922,United Kingdom,English
+5247,5255,Ethiopia,English
+5248,2476,South Africa,English
+5249,8602,Japan,English
+5250,3672,Spain,English
+5251,3011,China,English
+5252,5996,Iran,English
+5253,8750,South Africa,English
+5254,7476,Philippines,English
+5255,5276,Ukraine,English
+5256,4313,Uganda,English
+5257,2571,Bangladesh,English
+5258,4951,Sudan,English
+5259,1879,Brazil,English
+5260,5729,Kenya,English
+5261,6952,Mexico,English
+5262,8003,France,English
+5263,7235,Tanzania,English
+5264,4004,Tanzania,English
+5265,5577,Argentina,English
+5266,2168,Kenya,English
+5267,6568,South Korea,English
+5268,285,India,English
+5269,1016,Ukraine,English
+5270,9083,Japan,English
+5271,4755,Pakistan,English
+5272,9049,Colombia,English
+5273,8315,Brazil,English
+5274,3439,Indonesia,English
+5275,3241,Mexico,English
+5276,295,Turkey,English
+5277,9522,Brazil,English
+5278,4301,Uganda,English
+5279,2490,Russia,English
+5280,7142,France,English
+5281,2743,Algeria,English
+5282,5966,Pakistan,English
+5283,9591,Ethiopia,English
+5284,120,Ukraine,English
+5285,10197,Nigeria,English
+5286,4998,Brazil,English
+5287,9108,Tanzania,English
+5288,4956,Ukraine,English
+5289,2981,Kenya,English
+5290,2206,South Africa,English
+5291,2501,Mexico,English
+5292,2433,Italy,English
+5293,1482,Brazil,English
+5294,6772,DR Congo,English
+5295,3483,Argentina,English
+5296,2739,United Kingdom,English
+5297,2235,Nigeria,English
+5298,4939,Italy,English
+5299,1412,Myanmar,English
+5300,920,United Kingdom,English
+5301,5515,Bangladesh,English
+5302,5096,Sudan,English
+5303,6716,Argentina,English
+5304,10475,Iran,English
+5305,1408,Mexico,English
+5306,6342,South Africa,English
+5307,8111,China,English
+5308,380,India,English
+5309,1513,South Africa,English
+5310,2804,Nigeria,English
+5311,2185,Italy,English
+5312,4001,Spain,English
+5313,9502,South Korea,English
+5314,9981,Egypt,English
+5315,9904,Ukraine,English
+5316,4495,Indonesia,English
+5317,9069,Colombia,English
+5318,6556,Japan,English
+5319,2274,DR Congo,English
+5320,9455,Colombia,English
+5321,3724,Italy,English
+5322,420,United Kingdom,English
+5323,3604,Argentina,English
+5324,3747,South Africa,English
+5325,9661,Japan,English
+5326,6281,Philippines,English
+5327,2730,India,English
+5328,3390,India,English
+5329,7569,Kenya,English
+5330,6338,Russia,English
+5331,4510,South Korea,English
+5332,3654,Sudan,English
+5333,7088,United Kingdom,English
+5334,3903,Sudan,English
+5335,9365,Mexico,English
+5336,59,Tanzania,English
+5337,3395,Thailand,English
+5338,3207,Sudan,English
+5339,5540,Argentina,English
+5340,839,Brazil,English
+5341,5841,Indonesia,English
+5342,2487,United States,English
+5343,6262,Myanmar,English
+5344,5675,Brazil,English
+5345,4135,Vietnam,English
+5346,7543,Colombia,English
+5347,1209,India,English
+5348,7536,Iran,English
+5349,9124,Colombia,English
+5350,575,Vietnam,English
+5351,4232,Ukraine,English
+5352,5702,Indonesia,English
+5353,1040,Algeria,English
+5354,1191,Japan,English
+5355,7659,China,English
+5356,3446,Bangladesh,English
+5357,1639,Russia,English
+5358,556,Iran,English
+5359,2670,Spain,English
+5360,2318,Indonesia,English
+5361,9220,DR Congo,English
+5362,3149,Nigeria,English
+5363,5257,India,English
+5364,9161,Pakistan,English
+5365,9149,United Kingdom,English
+5366,1856,Russia,English
+5367,3543,Turkey,English
+5368,7257,India,English
+5369,8291,DR Congo,English
+5370,9349,Vietnam,English
+5371,4017,Germany,English
+5372,8967,China,English
+5373,6144,Spain,English
+5374,8603,Mexico,English
+5375,220,Sudan,English
+5376,7851,Indonesia,English
+5377,5090,Indonesia,English
+5378,3725,Italy,English
+5379,9451,Colombia,English
+5380,8807,Kenya,English
+5381,2666,Sudan,English
+5382,3172,Tanzania,English
+5383,782,France,English
+5384,1317,Uganda,English
+5385,5756,Uganda,English
+5386,8897,Ukraine,English
+5387,8022,Mexico,English
+5388,4238,Germany,English
+5389,2886,Tanzania,English
+5390,2348,Indonesia,English
+5391,3753,Algeria,English
+5392,6232,France,English
+5393,7149,Germany,English
+5394,6668,Thailand,English
+5395,5873,Ukraine,English
+5396,3383,Algeria,English
+5397,10553,Myanmar,English
+5398,574,Mexico,English
+5399,10112,Brazil,English
+5400,5950,Thailand,English
+5401,2667,Iran,English
+5402,39,Egypt,English
+5403,4612,Turkey,English
+5404,6292,Philippines,English
+5405,3169,Japan,English
+5406,7682,United Kingdom,English
+5407,4969,Indonesia,English
+5408,2630,Brazil,English
+5409,7679,Iran,English
+5410,6779,Uganda,English
+5411,6869,India,English
+5412,9445,Egypt,English
+5413,4295,Tanzania,English
+5414,374,India,English
+5415,10182,United Kingdom,English
+5416,4345,Ukraine,English
+5417,9792,DR Congo,English
+5418,2224,Vietnam,English
+5419,4008,United States,English
+5420,4897,Italy,English
+5421,398,Pakistan,English
+5422,7035,Sudan,English
+5423,8893,Italy,English
+5424,9323,Mexico,English
+5425,7176,Colombia,English
+5426,474,Italy,English
+5427,2379,Kenya,English
+5428,1160,Thailand,English
+5429,6710,Indonesia,English
+5430,4753,Russia,English
+5431,9045,Brazil,English
+5432,1824,Kenya,English
+5433,9922,South Africa,English
+5434,8793,Uganda,English
+5435,1234,DR Congo,English
+5436,1256,Iran,English
+5437,7974,Myanmar,English
+5438,6898,Thailand,English
+5439,9091,South Africa,English
+5440,8308,Nigeria,English
+5441,7539,Germany,English
+5442,243,Bangladesh,English
+5443,7496,Uganda,English
+5444,4624,Algeria,English
+5445,2520,France,English
+5446,9298,Brazil,English
+5447,2391,Nigeria,English
+5448,7301,Germany,English
+5449,7250,Uganda,English
+5450,10477,Kenya,English
+5451,4926,Ukraine,English
+5452,8008,Iran,English
+5453,3244,Turkey,English
+5454,9436,Thailand,English
+5455,9106,Philippines,English
+5456,7887,Spain,English
+5457,7120,Kenya,English
+5458,7978,Algeria,English
+5459,2827,United Kingdom,English
+5460,8529,Mexico,English
+5461,8126,Thailand,English
+5462,3511,France,English
+5463,1788,Ukraine,English
+5464,2940,Tanzania,English
+5465,7683,India,English
+5466,4420,Bangladesh,English
+5467,8991,Thailand,English
+5468,6922,South Africa,English
+5469,3122,Tanzania,English
+5470,2101,Algeria,English
+5471,88,Uganda,English
+5472,5409,Nigeria,English
+5473,5376,Pakistan,English
+5474,319,Egypt,English
+5475,3068,Tanzania,English
+5476,3028,Ukraine,English
+5477,6099,Italy,English
+5478,6088,Myanmar,English
+5479,3732,Pakistan,English
+5480,9627,Myanmar,English
+5481,7358,Tanzania,English
+5482,2718,United States,English
+5483,8580,Myanmar,English
+5484,4801,China,English
+5485,8365,Ukraine,English
+5486,8361,Iran,English
+5487,3531,South Africa,English
+5488,7923,Japan,English
+5489,9208,Italy,English
+5490,630,Sudan,English
+5491,1971,Sudan,English
+5492,4444,Russia,English
+5493,9599,Pakistan,English
+5494,2984,Algeria,English
+5495,1830,Egypt,English
+5496,8198,Mexico,English
+5497,4520,Italy,English
+5498,2555,Argentina,English
+5499,5792,Russia,English
+5500,10311,United Kingdom,English
+5501,3952,Bangladesh,English
+5502,3431,Vietnam,English
+5503,949,Brazil,English
+5504,37,Myanmar,English
+5505,19,Uganda,English
+5506,3187,Vietnam,English
+5507,5299,Turkey,English
+5508,10222,Spain,English
+5509,1703,Germany,English
+5510,10440,Tanzania,English
+5511,1725,Turkey,English
+5512,2105,Germany,English
+5513,5781,Thailand,English
+5514,10163,United Kingdom,English
+5515,411,Italy,English
+5516,5972,Italy,English
+5517,1647,Sudan,English
+5518,10064,Spain,English
+5519,3800,Myanmar,English
+5520,2246,India,English
+5521,10480,Ukraine,English
+5522,5372,Japan,English
+5523,8865,Vietnam,English
+5524,5759,Colombia,English
+5525,1859,Colombia,English
+5526,6051,Pakistan,English
+5527,4604,India,English
+5528,5443,Germany,English
+5529,8176,India,English
+5530,9831,Turkey,English
+5531,430,India,English
+5532,709,Russia,English
+5533,765,South Korea,English
+5534,8333,South Korea,English
+5535,5620,France,English
+5536,3157,Vietnam,English
+5537,8585,Brazil,English
+5538,190,Thailand,English
+5539,786,Argentina,English
+5540,6759,Vietnam,English
+5541,2702,Kenya,English
+5542,6979,Vietnam,English
+5543,5403,South Korea,English
+5544,3719,South Korea,English
+5545,6807,Indonesia,English
+5546,6282,Japan,English
+5547,4828,Pakistan,English
+5548,7689,Colombia,English
+5549,1258,Indonesia,English
+5550,8047,Nigeria,English
+5551,1316,Colombia,English
+5552,5077,United Kingdom,English
+5553,9649,Indonesia,English
+5554,7618,Colombia,English
+5555,6370,Thailand,English
+5556,5076,Thailand,English
+5557,2409,India,English
+5558,9513,Russia,English
+5559,9672,Kenya,English
+5560,2454,South Africa,English
+5561,289,Ukraine,English
+5562,3617,China,English
+5563,644,Sudan,English
+5564,1314,Argentina,English
+5565,3176,Algeria,English
+5566,9355,United Kingdom,English
+5567,5517,Uganda,English
+5568,3283,Egypt,English
+5569,5559,United Kingdom,English
+5570,3620,Spain,English
+5571,2568,India,English
+5572,9127,Ethiopia,English
+5573,8680,France,English
+5574,4607,Brazil,English
+5575,4836,Argentina,English
+5576,7479,Pakistan,English
+5577,8662,Pakistan,English
+5578,6023,Vietnam,English
+5579,6401,Myanmar,English
+5580,4435,Bangladesh,English
+5581,6800,Vietnam,English
+5582,5046,India,English
+5583,7619,DR Congo,English
+5584,5897,Pakistan,English
+5585,2114,China,English
+5586,7477,Spain,English
+5587,10465,Japan,English
+5588,1395,Egypt,English
+5589,10495,Japan,English
+5590,6817,Thailand,English
+5591,4564,Thailand,English
+5592,9906,India,English
+5593,4857,Sudan,English
+5594,9017,Germany,English
+5595,1632,Russia,English
+5596,2694,Ukraine,English
+5597,573,Bangladesh,English
+5598,8262,Spain,English
+5599,7143,Italy,English
+5600,1401,Tanzania,English
+5601,6782,Russia,English
+5602,3674,Algeria,English
+5603,2,Tanzania,English
+5604,6444,Myanmar,English
+5605,4064,Germany,English
+5606,6250,Iran,English
+5607,813,DR Congo,English
+5608,6931,South Africa,English
+5609,2061,Spain,English
+5610,9452,Ethiopia,English
+5611,1815,Iran,English
+5612,9374,Mexico,English
+5613,2756,Egypt,English
+5614,10430,Argentina,English
+5615,9670,Russia,English
+5616,7450,South Korea,English
+5617,1995,China,English
+5618,2933,Vietnam,English
+5619,3973,Spain,English
+5620,9315,Germany,English
+5621,1378,Thailand,English
+5622,9658,Tanzania,English
+5623,7976,India,English
+5624,4035,Uganda,English
+5625,5110,Nigeria,English
+5626,6846,Turkey,English
+5627,1844,Philippines,English
+5628,6305,Uganda,English
+5629,1144,Thailand,English
+5630,9240,Italy,English
+5631,8667,France,English
+5632,7329,Ukraine,English
+5633,5333,India,English
+5634,4389,Iran,English
+5635,2594,Nigeria,English
+5636,6108,Turkey,English
+5637,1678,Vietnam,English
+5638,3857,Ethiopia,English
+5639,6773,Brazil,English
+5640,1575,China,English
+5641,2970,Mexico,English
+5642,195,South Korea,English
+5643,7926,Uganda,English
+5644,6827,Sudan,English
+5645,7594,Colombia,English
+5646,3815,Japan,English
+5647,8843,Japan,English
+5648,2944,Russia,English
+5649,1282,Spain,English
+5650,8447,United States,English
+5651,1658,Mexico,English
+5652,7334,Indonesia,English
+5653,8481,Algeria,English
+5654,3824,Ukraine,English
+5655,4288,Argentina,English
+5656,5698,Kenya,English
+5657,8947,DR Congo,English
+5658,7286,Kenya,English
+5659,1302,Egypt,English
+5660,10491,Iran,English
+5661,7896,Indonesia,English
+5662,9459,Spain,English
+5663,5633,Sudan,English
+5664,6823,Thailand,English
+5665,2212,Spain,English
+5666,2299,Bangladesh,English
+5667,4007,China,English
+5668,5353,Ethiopia,English
+5669,8746,Egypt,English
+5670,886,Kenya,English
+5671,7568,Ethiopia,English
+5672,9224,Japan,English
+5673,9442,Egypt,English
+5674,6630,Myanmar,English
+5675,559,DR Congo,English
+5676,1739,Mexico,English
+5677,3296,United Kingdom,English
+5678,7770,Colombia,English
+5679,4941,Mexico,English
+5680,2383,Egypt,English
+5681,9236,Italy,English
+5682,631,Mexico,English
+5683,9515,Iran,English
+5684,8209,United Kingdom,English
+5685,341,United Kingdom,English
+5686,9159,South Korea,English
+5687,3491,Myanmar,English
+5688,5412,Argentina,English
+5689,9430,Algeria,English
+5690,7321,Tanzania,English
+5691,7726,South Africa,English
+5692,1584,Argentina,English
+5693,4677,India,English
+5694,5181,Ukraine,English
+5695,2982,Uganda,English
+5696,9700,Russia,English
+5697,2936,China,English
+5698,4140,Uganda,English
+5699,9467,United States,English
+5700,9255,China,English
+5701,6867,Indonesia,English
+5702,7514,Myanmar,English
+5703,9225,Thailand,English
+5704,4156,Algeria,English
+5705,3025,Colombia,English
+5706,428,United Kingdom,English
+5707,1696,United Kingdom,English
+5708,1372,Colombia,English
+5709,2324,South Africa,English
+5710,9558,Colombia,English
+5711,7122,Pakistan,English
+5712,6930,Mexico,English
+5713,8734,DR Congo,English
+5714,4458,Philippines,English
+5715,10245,Ukraine,English
+5716,5806,Nigeria,English
+5717,7230,Ethiopia,English
+5718,3405,Egypt,English
+5719,6751,Ukraine,English
+5720,3464,Spain,English
+5721,4209,Sudan,English
+5722,4249,Myanmar,English
+5723,1888,DR Congo,English
+5724,8434,Bangladesh,English
+5725,1496,Vietnam,English
+5726,5523,Pakistan,English
+5727,6298,Spain,English
+5728,5167,Iran,English
+5729,3047,Mexico,English
+5730,2294,China,English
+5731,6385,DR Congo,English
+5732,4028,Iran,English
+5733,635,Philippines,English
+5734,9476,Myanmar,English
+5735,2227,Russia,English
+5736,5746,Italy,English
+5737,5627,India,English
+5738,5584,Spain,English
+5739,9946,Myanmar,English
+5740,8586,Pakistan,English
+5741,4644,Turkey,English
+5742,3596,Uganda,English
+5743,10072,India,English
+5744,549,Ukraine,English
+5745,910,Colombia,English
+5746,6554,Ukraine,English
+5747,8700,Egypt,English
+5748,3110,China,English
+5749,4474,Japan,English
+5750,3492,Egypt,English
+5751,1587,Brazil,English
+5752,311,Egypt,English
+5753,1346,Myanmar,English
+5754,7734,DR Congo,English
+5755,1362,Germany,English
+5756,5418,Ethiopia,English
+5757,461,South Africa,English
+5758,560,Ethiopia,English
+5759,7464,South Korea,English
+5760,132,Sudan,English
+5761,10055,Colombia,English
+5762,8566,Vietnam,English
+5763,8826,South Korea,English
+5764,7959,Egypt,English
+5765,1758,Philippines,English
+5766,10542,Thailand,English
+5767,5993,Japan,English
+5768,7307,Tanzania,English
+5769,10148,Bangladesh,English
+5770,3344,Turkey,English
+5771,1863,Sudan,English
+5772,5324,Thailand,English
+5773,7531,Philippines,English
+5774,8158,South Africa,English
+5775,8593,United Kingdom,English
+5776,5191,Mexico,English
+5777,282,Egypt,English
+5778,4821,Iran,English
+5779,5902,Ukraine,English
+5780,5886,Turkey,English
+5781,2033,France,English
+5782,4557,Ukraine,English
+5783,238,Nigeria,English
+5784,6628,South Africa,English
+5785,1674,Russia,English
+5786,5086,Colombia,English
+5787,6373,Iran,English
+5788,5834,Bangladesh,English
+5789,473,Spain,English
+5790,6520,Spain,English
+5791,4598,Brazil,English
+5792,76,South Korea,English
+5793,4041,Indonesia,English
+5794,4094,Pakistan,English
+5795,10022,Thailand,English
+5796,9380,United States,English
+5797,5204,South Korea,English
+5798,7897,Brazil,English
+5799,10497,Ukraine,English
+5800,10240,Iran,English
+5801,7555,Turkey,English
+5802,5024,South Korea,English
+5803,7784,Thailand,English
+5804,8535,Tanzania,English
+5805,10322,Thailand,English
+5806,4127,Colombia,English
+5807,8864,Ukraine,English
+5808,4832,South Korea,English
+5809,7518,Turkey,English
+5810,8665,Bangladesh,English
+5811,3319,Sudan,English
+5812,8156,DR Congo,English
+5813,904,Sudan,English
+5814,4442,Kenya,English
+5815,4578,Kenya,English
+5816,6036,Philippines,English
+5817,1253,France,English
+5818,8946,Russia,English
+5819,10032,Indonesia,English
+5820,1367,Myanmar,English
+5821,6096,Ethiopia,English
+5822,1430,Sudan,English
+5823,707,Iran,English
+5824,4646,Bangladesh,English
+5825,279,Brazil,English
+5826,7941,Mexico,English
+5827,9470,India,English
+5828,2459,Spain,English
+5829,8857,Mexico,English
+5830,6866,Bangladesh,English
+5831,3191,Kenya,English
+5832,1149,Sudan,English
+5833,8659,Nigeria,English
+5834,9862,China,English
+5835,2875,DR Congo,English
+5836,1704,China,English
+5837,9082,United Kingdom,English
+5838,5910,Colombia,English
+5839,3479,Ukraine,English
+5840,9490,Ukraine,English
+5841,6847,Argentina,English
+5842,4809,Brazil,English
+5843,6193,Italy,English
+5844,5884,Vietnam,English
+5845,3379,Iran,English
+5846,9272,China,English
+5847,595,Nigeria,English
+5848,8464,United Kingdom,English
+5849,3473,Egypt,English
+5850,3286,Myanmar,English
+5851,8165,Indonesia,English
+5852,3984,Mexico,English
+5853,5494,Myanmar,English
+5854,7273,Turkey,English
+5855,1268,United Kingdom,English
+5856,10160,Nigeria,English
+5857,8228,India,English
+5858,3053,France,English
+5859,3649,Uganda,English
+5860,395,Argentina,English
+5861,254,India,English
+5862,388,Colombia,English
+5863,4057,Kenya,English
+5864,122,Italy,English
+5865,8565,Iran,English
+5866,7287,Vietnam,English
+5867,799,Brazil,English
+5868,6052,Kenya,English
+5869,1493,South Africa,English
+5870,5300,Uganda,English
+5871,8661,Mexico,English
+5872,1814,Brazil,English
+5873,4098,Pakistan,English
+5874,8542,Vietnam,English
+5875,1057,Myanmar,English
+5876,296,United Kingdom,English
+5877,8500,United Kingdom,English
+5878,8270,China,English
+5879,1163,Turkey,English
+5880,7884,Bangladesh,English
+5881,6629,Algeria,English
+5882,1391,India,English
+5883,444,Russia,English
+5884,5913,Japan,English
+5885,7773,United Kingdom,English
+5886,9530,India,English
+5887,8870,Uganda,English
+5888,744,Germany,English
+5889,7806,India,English
+5890,8362,Kenya,English
+5891,4839,Mexico,English
+5892,955,Ethiopia,English
+5893,6368,Germany,English
+5894,10505,Italy,English
+5895,823,Pakistan,English
+5896,10392,Kenya,English
+5897,616,Philippines,English
+5898,9465,Ukraine,English
+5899,5001,South Korea,English
+5900,5923,Ethiopia,English
+5901,9651,United States,English
+5902,2671,Colombia,English
+5903,3020,United States,English
+5904,2548,Ukraine,English
+5905,4507,Colombia,English
+5906,176,Japan,English
+5907,2322,Colombia,English
+5908,1387,South Korea,English
+5909,8199,Vietnam,English
+5910,7772,Sudan,English
+5911,5721,Argentina,English
+5912,8433,Russia,English
+5913,9167,Sudan,English
+5914,8571,Ukraine,English
+5915,1827,Iran,English
+5916,10075,Russia,English
+5917,1076,Argentina,English
+5918,594,DR Congo,English
+5919,2495,Thailand,English
+5920,9331,South Africa,English
+5921,10140,Russia,English
+5922,8880,Colombia,English
+5923,7585,Turkey,English
+5924,8768,China,English
+5925,968,Nigeria,English
+5926,5805,Egypt,English
+5927,2450,Brazil,English
+5928,10325,Ukraine,English
+5929,78,Colombia,English
+5930,8131,Ukraine,English
+5931,10380,United States,English
+5932,2494,Bangladesh,English
+5933,349,India,English
+5934,2575,Nigeria,English
+5935,6231,Kenya,English
+5936,6026,India,English
+5937,5157,Ukraine,English
+5938,6946,Kenya,English
+5939,2446,Algeria,English
+5940,2925,Kenya,English
+5941,1068,Sudan,English
+5942,2416,Turkey,English
+5943,8930,Russia,English
+5944,7168,Algeria,English
+5945,5797,Brazil,English
+5946,498,Spain,English
+5947,9882,Iran,English
+5948,10074,Thailand,English
+5949,10229,Bangladesh,English
+5950,8164,United Kingdom,English
+5951,4960,Philippines,English
+5952,5022,Japan,English
+5953,6565,Mexico,English
+5954,8286,Egypt,English
+5955,8030,France,English
+5956,10447,Uganda,English
+5957,4252,Thailand,English
+5958,3541,Bangladesh,English
+5959,2808,Germany,English
+5960,2455,Colombia,English
+5961,9248,Bangladesh,English
+5962,1709,Tanzania,English
+5963,732,Italy,English
+5964,7717,Russia,English
+5965,6652,Kenya,English
+5966,2236,Spain,English
+5967,6691,Ethiopia,English
+5968,8189,United Kingdom,English
+5969,2201,Russia,English
+5970,5453,Germany,English
+5971,5424,Myanmar,English
+5972,5594,Philippines,English
+5973,6056,Sudan,English
+5974,7,Mexico,English
+5975,8295,Kenya,English
+5976,3448,Japan,English
+5977,7721,Spain,English
+5978,2552,Russia,English
+5979,1073,Italy,English
+5980,1862,Colombia,English
+5981,5441,Sudan,English
+5982,9387,Argentina,English
+5983,6536,Argentina,English
+5984,5033,South Korea,English
+5985,5342,Uganda,English
+5986,1841,Egypt,English
+5987,1136,Japan,English
+5988,6189,United Kingdom,English
+5989,3129,Japan,English
+5990,1336,Bangladesh,English
+5991,7457,India,English
+5992,6302,Philippines,English
+5993,9115,Bangladesh,English
+5994,7876,Egypt,English
+5995,5166,United States,English
+5996,4290,Colombia,English
+5997,9919,Italy,English
+5998,9691,Japan,English
+5999,4336,United States,English
+6000,7614,Indonesia,English
+6001,5108,Philippines,English
+6002,7060,Bangladesh,English
+6003,7056,Brazil,English
+6004,6045,Mexico,English
+6005,8379,Pakistan,English
+6006,1795,Algeria,English
+6007,9975,Spain,English
+6008,4628,South Korea,English
+6009,4125,Ethiopia,English
+6010,6116,Nigeria,English
+6011,4152,Italy,English
+6012,7889,Ethiopia,English
+6013,1813,Russia,English
+6014,4885,Bangladesh,English
+6015,5071,Uganda,English
+6016,5952,DR Congo,English
+6017,6021,Turkey,English
+6018,7159,Spain,English
+6019,6569,United Kingdom,English
+6020,2637,Uganda,English
+6021,6374,Spain,English
+6022,1267,France,English
+6023,7725,Iran,English
+6024,3266,Mexico,English
+6025,895,Uganda,English
+6026,2020,Bangladesh,English
+6027,2512,France,English
+6028,3346,France,English
+6029,1750,Spain,English
+6030,1400,United States,English
+6031,3663,Russia,English
+6032,5137,Pakistan,English
+6033,10463,China,English
+6034,7937,Uganda,English
+6035,5382,Pakistan,English
+6036,8964,Tanzania,English
+6037,5823,Colombia,English
+6038,3404,Mexico,English
+6039,9094,Pakistan,English
+6040,125,Myanmar,English
+6041,2641,Iran,English
+6042,4614,Mexico,English
+6043,2245,Indonesia,English
+6044,5998,Myanmar,English
+6045,8017,Japan,English
+6046,5761,Vietnam,English
+6047,7802,South Korea,English
+6048,3033,DR Congo,English
+6049,8792,Sudan,English
+6050,3849,Myanmar,English
+6051,7521,Philippines,English
+6052,10100,Ukraine,English
+6053,2608,India,English
+6054,9245,United Kingdom,English
+6055,5953,Philippines,English
+6056,4978,South Korea,English
+6057,2191,DR Congo,English
+6058,5916,Ethiopia,English
+6059,7323,China,English
+6060,4525,South Africa,English
+6061,3956,Bangladesh,English
+6062,1307,Italy,English
+6063,338,Italy,English
+6064,6127,Sudan,English
+6065,4333,Vietnam,English
+6066,2225,Kenya,English
+6067,9885,DR Congo,English
+6068,10063,United States,English
+6069,6284,Algeria,English
+6070,9556,Philippines,English
+6071,872,Germany,English
+6072,6228,Vietnam,English
+6073,745,Pakistan,English
+6074,1692,Indonesia,English
+6075,1404,Italy,English
+6076,4310,Algeria,English
+6077,5611,Japan,English
+6078,9813,Spain,English
+6079,2613,Spain,English
+6080,2055,Argentina,English
+6081,9656,Spain,English
+6082,8811,Vietnam,English
+6083,8503,Indonesia,English
+6084,6789,Argentina,English
+6085,5390,Spain,English
+6086,7749,Bangladesh,English
+6087,4108,Bangladesh,English
+6088,4902,Turkey,English
+6089,6868,Russia,English
+6090,9260,Germany,English
+6091,4502,Turkey,English
+6092,3970,Brazil,English
+6093,4121,United Kingdom,English
+6094,8432,Indonesia,English
+6095,4036,Italy,English
+6096,5504,Turkey,English
+6097,8426,France,English
+6098,5179,Colombia,English
+6099,4882,Thailand,English
+6100,2262,Mexico,English
+6101,1646,Thailand,English
+6102,4488,Germany,English
+6103,301,Thailand,English
+6104,3838,Indonesia,English
+6105,6450,Philippines,English
+6106,3587,Egypt,English
+6107,1866,Kenya,English
+6108,2752,Japan,English
+6109,7655,Vietnam,English
+6110,7188,Turkey,English
+6111,4189,Egypt,English
+6112,4555,Germany,English
+6113,7855,United Kingdom,English
+6114,6741,Mexico,English
+6115,6355,Tanzania,English
+6116,9842,Kenya,English
+6117,4863,Sudan,English
+6118,5360,South Korea,English
+6119,3185,India,English
+6120,1637,Kenya,English
+6121,9059,Ethiopia,English
+6122,8218,Myanmar,English
+6123,3646,Iran,English
+6124,5338,Germany,English
+6125,3787,Pakistan,English
+6126,7899,Nigeria,English
+6127,2720,India,English
+6128,6365,Bangladesh,English
+6129,2071,Spain,English
+6130,6151,Philippines,English
+6131,3377,Kenya,English
+6132,10494,Iran,English
+6133,9713,Russia,English
+6134,7009,Algeria,English
+6135,5037,Sudan,English
+6136,5632,Sudan,English
+6137,4649,South Africa,English
+6138,9772,Mexico,English
+6139,278,France,English
+6140,10312,Uganda,English
+6141,7675,Bangladesh,English
+6142,6839,France,English
+6143,5709,Spain,English
+6144,5130,Mexico,English
+6145,6187,United States,English
+6146,7107,Spain,English
+6147,7162,Egypt,English
+6148,9725,Philippines,English
+6149,1896,Argentina,English
+6150,8107,Kenya,English
+6151,5314,DR Congo,English
+6152,9417,South Africa,English
+6153,1390,South Korea,English
+6154,3458,Italy,English
+6155,673,Vietnam,English
+6156,6438,Vietnam,English
+6157,8579,Myanmar,English
+6158,9836,Algeria,English
+6159,7085,Tanzania,English
+6160,4847,United States,English
+6161,4927,Ethiopia,English
+6162,5736,United Kingdom,English
+6163,10413,Myanmar,English
+6164,5597,Germany,English
+6165,4037,South Korea,English
+6166,8231,Pakistan,English
+6167,2193,Brazil,English
+6168,2830,Pakistan,English
+6169,2819,South Africa,English
+6170,8410,Tanzania,English
+6171,8253,Mexico,English
+6172,6983,Kenya,English
+6173,9423,Colombia,English
+6174,724,United Kingdom,English
+6175,7043,Iran,English
+6176,3658,Russia,English
+6177,10015,Algeria,English
+6178,5531,Myanmar,English
+6179,6360,Indonesia,English
+6180,5481,France,English
+6181,8835,Argentina,English
+6182,10486,United States,English
+6183,10181,South Korea,English
+6184,5601,Turkey,English
+6185,3520,Ukraine,English
+6186,4499,Algeria,English
+6187,5231,Brazil,English
+6188,7116,Bangladesh,English
+6189,10517,Kenya,English
+6190,5389,Argentina,English
+6191,153,Germany,English
+6192,2484,Thailand,English
+6193,3166,Algeria,English
+6194,1736,Thailand,English
+6195,5766,Argentina,English
+6196,3335,China,English
+6197,3976,Pakistan,English
+6198,4530,Nigeria,English
+6199,210,Uganda,English
+6200,2561,Germany,English
+6201,453,Ethiopia,English
+6202,9598,United States,English
+6203,9187,South Africa,English
+6204,2410,Myanmar,English
+6205,6699,Mexico,English
+6206,7627,Uganda,English
+6207,4487,Mexico,English
+6208,4716,Philippines,English
+6209,1003,Sudan,English
+6210,5801,Brazil,English
+6211,7931,Japan,English
+6212,977,Thailand,English
+6213,2572,Myanmar,English
+6214,8855,Turkey,English
+6215,7932,Iran,English
+6216,3007,Tanzania,English
+6217,5833,Egypt,English
+6218,1290,Ukraine,English
+6219,522,Bangladesh,English
+6220,9759,Nigeria,English
+6221,9832,Philippines,English
+6222,7005,Iran,English
+6223,6300,Philippines,English
+6224,4634,United Kingdom,English
+6225,7638,South Africa,English
+6226,142,Iran,English
+6227,8613,Bangladesh,English
+6228,9901,Egypt,English
+6229,5168,Germany,English
+6230,10045,Myanmar,English
+6231,9542,India,English
+6232,2794,Japan,English
+6233,7171,Russia,English
+6234,2043,Egypt,English
+6235,9887,China,English
+6236,7475,Kenya,English
+6237,7836,Spain,English
+6238,5425,Russia,English
+6239,8900,Egypt,English
+6240,6849,Indonesia,English
+6241,483,Iran,English
+6242,4613,Iran,English
+6243,7182,United States,English
+6244,8859,Kenya,English
+6245,2749,Colombia,English
+6246,5406,United States,English
+6247,7570,South Africa,English
+6248,8904,Myanmar,English
+6249,5016,DR Congo,English
+6250,2001,DR Congo,English
+6251,9721,Russia,English
+6252,258,United States,English
+6253,8582,Russia,English
+6254,4694,Myanmar,English
+6255,9925,Myanmar,English
+6256,10157,United States,English
+6257,9325,Vietnam,English
+6258,1300,France,English
+6259,5391,France,English
+6260,8141,Iran,English
+6261,5454,Ukraine,English
+6262,8694,United States,English
+6263,8053,Algeria,English
+6264,3050,Brazil,English
+6265,9377,Sudan,English
+6266,8293,DR Congo,English
+6267,7008,Argentina,English
+6268,989,United Kingdom,English
+6269,6713,Tanzania,English
+6270,1743,Sudan,English
+6271,5574,DR Congo,English
+6272,1257,South Korea,English
+6273,2279,Kenya,English
+6274,10086,China,English
+6275,2993,Japan,English
+6276,6935,Germany,English
+6277,3839,Tanzania,English
+6278,4227,South Africa,English
+6279,2799,Thailand,English
+6280,8350,Brazil,English
+6281,515,Colombia,English
+6282,8808,Uganda,English
+6283,2249,Iran,English
+6284,7082,Sudan,English
+6285,3013,Japan,English
+6286,3388,Ukraine,English
+6287,4655,Brazil,English
+6288,9817,India,English
+6289,7900,Brazil,English
+6290,2776,Brazil,English
+6291,340,Spain,English
+6292,359,Sudan,English
+6293,7759,Kenya,English
+6294,2733,Thailand,English
+6295,8757,Japan,English
+6296,9218,Pakistan,English
+6297,1542,United States,English
+6298,4799,Philippines,English
+6299,10289,Ethiopia,English
+6300,9727,Myanmar,English
+6301,9621,Algeria,English
+6302,9695,Russia,English
+6303,7437,Brazil,English
+6304,10417,Egypt,English
+6305,6457,Argentina,English
+6306,7030,Mexico,English
+6307,9013,China,English
+6308,9509,Mexico,English
+6309,3825,Mexico,English
+6310,4515,United Kingdom,English
+6311,2747,South Korea,English
+6312,6516,Nigeria,English
+6313,9636,Sudan,English
+6314,7398,Germany,English
+6315,3717,Iran,English
+6316,5205,Ethiopia,English
+6317,6696,South Korea,English
+6318,7991,Spain,English
+6319,1303,Thailand,English
+6320,9051,South Africa,English
+6321,10200,Ethiopia,English
+6322,10009,Colombia,English
+6323,4214,Egypt,English
+6324,2316,Colombia,English
+6325,8411,Mexico,English
+6326,6143,South Korea,English
+6327,3262,Spain,English
+6328,9337,Uganda,English
+6329,8737,Argentina,English
+6330,4490,Bangladesh,English
+6331,8062,South Africa,English
+6332,8622,China,English
+6333,4021,Ukraine,English
+6334,4330,Uganda,English
